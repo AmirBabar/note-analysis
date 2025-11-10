@@ -26,7 +26,12 @@ export async function POST() {
 
         if (parsedFhirData.resourceType) {
           // Extract patient information for display
-          let patientInfo = { name: fileName, id: fileName };
+          let patientInfo: {
+            name: string;
+            id: string;
+            birthDate?: string;
+            gender?: string;
+          } = { name: fileName, id: fileName };
 
           if (parsedFhirData.resourceType === 'Bundle' && parsedFhirData.entry) {
             const resources = parsedFhirData.entry.map((entry: any) => entry.resource);

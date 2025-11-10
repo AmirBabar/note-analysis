@@ -1,7 +1,9 @@
 import { SignJWT, jwtVerify } from "jose";
 import { cookies } from "next/headers";
 
-const JWT_SECRET = new TextEncoder().encode(process.env.JWT_SECRET);
+const JWT_SECRET = new TextEncoder().encode(
+  process.env.JWT_SECRET || "fallback-secret-key-for-development-only"
+);
 
 const HARDCODED_USER = {
   email: "vcalderon6@gatech.edu",
@@ -52,5 +54,18 @@ export async function getAuthToken() {
 }
 
 export function validateCredentials(email: string, password: string): boolean {
+  // Allow empty fields for testing purposes
+  if (!email && !password) {
+    return true;
+  }
+  // Original validation for non-empty fields
   return email === HARDCODED_USER.email && password === HARDCODED_USER.password;
+}
+
+export function getValidatedEmail(email: string): string {
+  // Return default email for testing when empty
+  if (!email) {
+    return HARDCODED_USER.email;
+  }
+  return email;
 }
