@@ -1,5 +1,7 @@
 import OpenAI from "openai";
 import { NextResponse } from "next/server";
+import supabaseVectorDB from '@/lib/supabase-vector';
+import { extractClinicalNotesFromFHIR, chunkNote, saveNotesToFile } from '@/lib/fhir-extraction';
 
 // Configure Z.ai API with OpenAI SDK compatibility
 const client = new OpenAI({
@@ -9,54 +11,139 @@ const client = new OpenAI({
 
 export async function POST(request: Request) {
   try {
-    const { fhirData, fileName } = await request.json();
+    const { fhirData, fileName, useRAG = true } = await request.json();
+
+    console.log('🔍 DEBUG: Received request data:', {
+      hasFhirData: !!fhirData,
+      fileName: typeof fileName === 'string' ? fileName : typeof fileName,
+      fileNameValue: fileName,
+      useRAG,
+      fhirType: fhirData?.resourceType,
+      hasEntries: !!fhirData?.entry,
+      entryCount: fhirData?.entry?.length,
+      fhirDataKeys: Object.keys(fhirData || {})
+    });
 
     if (!fhirData) {
       return NextResponse.json({ error: "FHIR data is required" }, { status: 400 });
     }
 
-    // Extract relevant information from FHIR data
-    let clinicalSummary = extractClinicalSummary(fhirData);
+    // Extract patient ID from FHIR data
+    let patientId = 'unknown';
+    if (fhirData.resourceType === 'Bundle' && fhirData.entry) {
+      const patient = fhirData.entry.find((entry: any) => entry.resource.resourceType === 'Patient')?.resource;
+      if (patient && patient.id) {
+        patientId = patient.id;
+      }
+      console.log('🔍 DEBUG: Extracted patient ID:', patientId);
+    }
 
-    // Truncate clinical summary if too long (keep it under 2000 characters)
+    // Extract clinical summary
+    let clinicalSummary = extractClinicalSummary(fhirData);
+    console.log('🔍 DEBUG: Clinical summary length:', clinicalSummary.length);
+    console.log('🔍 DEBUG: Clinical summary preview:', clinicalSummary.substring(0, 200));
+
+    // Initialize RAG context
+    let ragContext = '';
+    let vectorSearchResults: any[] = [];
+    let savedNotesFile = '';
+
+    if (useRAG) {
+      try {
+        console.log('🔍 DEBUG: Starting RAG processing for patient:', patientId);
+
+        // For now, skip the embedding search and get patient notes directly
+        console.log('🔍 DEBUG: Getting patient notes directly from database...');
+        const patientNotes = await supabaseVectorDB.getPatientNotes(patientId, 10);
+        console.log('🔍 DEBUG: Retrieved', patientNotes.length, 'patient notes directly');
+
+        if (patientNotes.length > 0) {
+          console.log('🔍 DEBUG: Building RAG context from direct patient notes');
+          ragContext = '\n\n--- Relevant Clinical Context from Patient Notes ---\n';
+          patientNotes.forEach((note, index) => {
+            const metadata = note.metadata || {};
+            ragContext += `\n${index + 1}. ${metadata.note_type || 'Clinical Note'} (${metadata.date || note.created_at})\n`;
+            ragContext += `   Provider: ${(metadata as any).provider || metadata.doctor || 'Unknown'}\n`;
+            ragContext += `   Content: ${note.content.substring(0, 500)}${note.content.length > 500 ? '...' : ''}\n`;
+          });
+          ragContext += '--- End Context ---\n\n';
+          console.log('🔍 DEBUG: RAG context built from direct notes, length:', ragContext.length);
+          vectorSearchResults = patientNotes;
+        } else {
+          console.log('🔍 DEBUG: No patient notes found - database might be empty or patient ID mismatch');
+
+          // Try to see what patient IDs are available
+          try {
+            const stats = await supabaseVectorDB.getDatabaseStats();
+            console.log('🔍 DEBUG: Database stats:', stats);
+            if (stats.totalEmbeddings > 0) {
+              console.log('🔍 DEBUG: Available patient IDs:', [...new Set(stats.recentNotes?.map((item: any) => item.patient_id))]);
+            }
+          } catch (statsError) {
+            console.error('🔍 DEBUG: Error getting database stats:', statsError);
+          }
+        }
+      } catch (ragError) {
+        console.error('❌ RAG processing failed:', ragError);
+        // Continue without RAG context
+      }
+    }
+
+    // Truncate clinical summary if too long
     const truncatedSummary = clinicalSummary.length > 2000
       ? clinicalSummary.substring(0, 2000) + "...(truncated)"
       : clinicalSummary;
 
-    // Prepare the prompt for Z.ai API using only clinical summary
-    const prompt = `Analyze the following clinical information extracted from FHIR data and provide a comprehensive clinical assessment:
+    // Prepare the enhanced RAG prompt
+    const prompt = `Analyze the following clinical information extracted from FHIR data and provide comprehensive clinical insights with RAG-enhanced context:
 
 File: ${fileName}
+Patient ID: ${patientId}
 
-Clinical Information:
+Current Clinical Information:
 ${truncatedSummary}
 
-Please provide a detailed analysis with the following sections:
+${ragContext}
 
-## Key Clinical Findings
-Summarize the most important clinical findings, diagnoses, and health status indicators. Highlight any acute or chronic conditions that require attention.
+Please provide a comprehensive clinical analysis using the following format with specific requirements:
 
-## Risk Assessment
-Identify potential health risks, medication interactions, or clinical concerns based on the available data. Flag any abnormal values or uncontrolled conditions.
+## 🔴 **URGENT: Critical Findings**
+*Immediate attention required within 24-48 hours*
+- **Bold** key clinical issues
+- Use *italics* for qualifying information
+- Maximum 20 words per bullet point
 
-## Clinical Goals & Objectives
-Based on the patient's conditions and data, suggest specific, measurable care goals. Include targets for blood pressure, glucose control, weight management, or other relevant health metrics.
+## 🟡 **SOON: Important Considerations**
+*Action needed within 1-4 weeks*
+- **Bold** significant concerns
+- Use *italics* for supporting details
+- Maximum 20 words per bullet point
 
-## Recommended Actions
-Provide specific clinical recommendations, including:
-- Medication adjustments or monitoring needs
-- Lifestyle interventions
-- Follow-up scheduling
-- Additional screenings or tests needed
-- Specialist referrals if indicated
+## 🔵 **MONITOR: Ongoing Management**
+*Routine follow-up and preventive care*
+- **Bold** key monitoring points
+- Use *italics* for prevention strategies
+- Maximum 20 words per bullet point
 
-## Care Coordination Insights
-Identify any gaps in care, potential coordination opportunities, or areas where the care team should focus attention.
+## 💡 **AI Insights Summary**
+*Enhanced analysis using RAG context*
+- **Bold** critical patterns
+- Use *italics* for contextual relevance
+- Maximum 20 words per bullet point
 
-## Data Quality Notes
-Briefly comment on the completeness and quality of the available clinical information.
+## 🎯 **Care Coordination Recommendations**
+*Team-based care optimization*
+- **Bold** coordination priorities
+- Use *italics* for team roles
+- Maximum 20 words per bullet point
 
-Format your response clearly with markdown headers for each section. Be specific and actionable in your recommendations.`;
+## 📊 **Data Quality Assessment**
+*Clinical information completeness*
+- **Bold** data limitations
+- Use *italics* for confidence levels
+- Maximum 20 words per bullet point
+
+Format your response clearly with markdown headers. Use the exact emoji indicators (🔴, 🟡, 🔵, 💡, 🎯, 📊) as shown. Each bullet point must be under 20 words and use bold/italic formatting as specified.`;
 
     // Use Z.ai API with OpenAI SDK
     const completion = await client.chat.completions.create({
@@ -64,7 +151,7 @@ Format your response clearly with markdown headers for each section. Be specific
       messages: [
         {
           role: "system",
-          content: "You are a helpful medical AI assistant specializing in FHIR data analysis."
+          content: "You are a helpful medical AI assistant specializing in FHIR data analysis with RAG-enhanced clinical insights. Always use the specified emoji indicators and formatting requirements."
         },
         {
           role: "user",
@@ -80,7 +167,11 @@ Format your response clearly with markdown headers for each section. Be specific
     return NextResponse.json({
       analysis,
       clinicalSummary,
-      fileName
+      ragContext: ragContext ? 'RAG context included' : 'No RAG context available',
+      vectorSearchResults: vectorSearchResults.length,
+      fileName,
+      patientId,
+      savedNotesFile: savedNotesFile ? `note_text/${savedNotesFile.split('/').pop()}` : null
     });
 
   } catch (error) {

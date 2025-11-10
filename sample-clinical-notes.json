@@ -1,0 +1,50 @@
+[
+  {
+    "patient_id": "patient-001",
+    "note_id": "note-001",
+    "note_date": "2024-01-15T09:30:00Z",
+    "note_type": "Progress Note",
+    "provider": "Dr. Sarah Johnson, MD",
+    "content": "Patient presents for follow-up of hypertension. BP 145/90 today, up from 140/85 at last visit. Reports occasional headaches but no chest pain or shortness of breath. Currently taking lisinopril 10mg daily. Appears to be somewhat inconsistent with medication adherence due to work schedule. Discussed importance of daily BP monitoring and medication timing. Increased lisinopril to 20mg daily. Follow up in 4 weeks. Patient educated on low-sodium diet and stress management techniques."
+  },
+  {
+    "patient_id": "patient-001",
+    "note_id": "note-002",
+    "note_date": "2024-02-12T14:15:00Z",
+    "note_type": "Laboratory Results",
+    "provider": "Dr. Michael Chen, MD",
+    "content": "Recent lab results show elevated A1C at 7.8%, up from 7.2% six months ago. Fasting glucose 156 mg/dL. Lipid panel shows LDL 142 mg/dL, HDL 38 mg/dL. Triglycerides 220 mg/dL. These results indicate poor glycemic control and dyslipidemia. Patient started on metformin 500mg BID and atorvastatin 20mg daily. Counseled on diabetic diet, exercise, and glucose monitoring. Referral to diabetes education class made."
+  },
+  {
+    "patient_id": "patient-001",
+    "note_id": "note-003",
+    "note_date": "2024-03-05T10:45:00Z",
+    "note_type": "Urgent Care Visit",
+    "provider": "Nurse Practitioner Lisa Rodriguez",
+    "content": "Patient presented with acute onset left lower quadrant pain, rated 6/10 in severity. Pain started 2 days ago, constant, no radiation. Associated with nausea but no vomiting. No fever. No urinary symptoms. Abdominal exam reveals tenderness in LLQ with mild guarding. CT abdomen shows diverticulitis without perforation or abscess. Started on ciprofloxacin and metronidazole. Pain controlled with acetaminophen. Diet advanced as tolerated. Follow up with primary care in 3 days."
+  },
+  {
+    "patient_id": "patient-002",
+    "note_id": "note-004",
+    "note_date": "2024-01-20T11:00:00Z",
+    "note_type": "Cardiology Consultation",
+    "provider": "Dr. Robert Williams, MD",
+    "content": "65-year-old male with history of CAD s/p stent to LAD in 2022, now presenting with increasing dyspnea on exertion. Reports can walk 2 blocks before symptoms, worse with stairs. No chest pain at rest. Echocardiogram shows EF 45%, mild global hypokinesis. Stress test positive for inducible ischemia in RCA territory. Cardiac cath shows 70% RCA stenosis, 40% circumflex. RCA stented with drug-eluting stent. Optimized medical therapy including beta blocker, ACE inhibitor, statin. Cardiac rehab referral made."
+  },
+  {
+    "patient_id": "patient-003",
+    "note_id": "note-005",
+    "note_date": "2024-02-08T08:30:00Z",
+    "note_type": "Annual Wellness Exam",
+    "provider": "Dr. Amanda Foster, MD",
+    "content": "52-year-old female here for annual wellness. Generally healthy, active lifestyle. BMI 22.8. BP 118/76. Recent mammogram normal, Pap normal. Colonoscopy performed 2 years ago with no polyps - next due in 8 years. Up to date on immunizations including influenza, COVID-19 booster, Tdap. Discusses perimenopausal symptoms - occasional hot flashes, irregular periods. Started on low-dose estrogen therapy. Bone density scan ordered due to family history of osteoporosis. Lifestyle counseling on calcium intake and weight-bearing exercise."
+  },
+  {
+    "patient_id": "patient-002",
+    "note_id": "note-006",
+    "note_date": "2024-03-01T13:20:00Z",
+    "note_type": "Emergency Department Visit",
+    "provider": "Dr. James Park, MD",
+    "content": "Patient presented to ED with palpitations and lightheadedness lasting 2 hours. HR 145, BP 110/70, afebrile. EKG shows atrial fibrillation with rapid ventricular response, no acute ST changes. Treated with IV metoprolol with good response, HR down to 85. Started on oral metoprolol and apixaban. TSH normal, BMP within normal limits. Admitted for observation and rate control. Cardiology consulted - plan for cardioversion if persistent AFib after rate control optimization. Discharged next day in normal sinus rhythm."
+  }
+]

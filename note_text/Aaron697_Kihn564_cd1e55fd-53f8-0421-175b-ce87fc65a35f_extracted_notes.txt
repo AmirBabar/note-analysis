@@ -1,0 +1,882 @@
+# Clinical Notes from Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+## Note 1 (undefined - 7fdfa458-fe1b-5cc8-83dd-93f26ef05e1e)
+
+**Note ID:** 7fdfa458-fe1b-5cc8-83dd-93f26ef05e1e
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 1992-11-22T10:20:24.984-05:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 25 years
+- Gender: Male
+- Ethnicity: White Date of Encounter: Chief Complaint: General examination History of Present Illness: Mr. Kihn564 presents for a general examination. He reports feeling generally well but notes occasional episodes of . These symptoms have been present for and are described as . He denies any significant associated symptoms such as . Review of Systems: - General: Denies fever, chills, or recent weight changes.
+- Cardiovascular: No chest pain, palpitations, or edema.
+- Respiratory: No cough, shortness of breath, or wheezing.
+- - - Musculoskeletal: No joint pain or muscle weakness.
+- Psychiatric: Denies anxiety, depression, or changes in mood.
+- Endocrine: No changes in thirst, hunger, or urination.
+- Dermatological: No rashes, itching, or skin changes. Past Medical History: - .
+- No known chronic illnesses. Medications: - . Allergies: - . Family History: - . Social History: - Non-smoker, drinks alcohol socially. No recreational drug use. Employed as . Lives alone. Physical Examination: - Vital Signs: BP , HR , RR , Temp , Height , Weight , BMI .
+- General: Well-appearing, alert, and oriented. No acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.
+- Gastrointestinal: Soft, non-tender abdomen, no organomegaly.
+- Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Motor strength 5/5 throughout. Reflexes symmetric and brisk. No focal deficits.
+- Musculoskeletal: Full range of motion in all joints, no tenderness or swelling.
+- Dermatological: Intact skin, no rashes or lesions. Assessment: 1. General examination with .
+2. . Plan: 1. Continue to monitor symptoms and reassess as needed.
+2. Recommend .
+3. Consider further evaluation with if symptoms persist or worsen.
+4. Schedule follow-up appointment in or sooner if symptoms change. Provider Signature: Note: The specific symptoms and potential causes should be tailored to the patient's actual presentation and history. This template can be adjusted to fit the details of the patient's condition and the provider's clinical judgment.
+
+============================================================
+
+## Note 2 (undefined - 16bcacc9-d75f-7b78-b6e7-6d499542a992)
+
+**Note ID:** 16bcacc9-d75f-7b78-b6e7-6d499542a992
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 1995-11-26T10:20:24.984-05:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Patient Encounter Note Date of Service: Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 28 years
+- Gender: Male
+- Race: White Chief Complaint: General examination of patient for . History of Present Illness: Mr. Kihn presents today for a general examination. He reports . The onset of these symptoms began . He describes the symptoms as . The symptoms are and are associated with . He denies any recent illnesses, injuries, or changes in medication. Review of Systems: - General: - Cardiovascular: - Respiratory: - Gastrointestinal: - Neurological: - Musculoskeletal: - Psychiatric: - Endocrine: - Genitourinary: - Dermatological: - Hematologic/Lymphatic: - Allergic/Immunologic: Past Medical History: - - Medications: - Family History: - Social History: - Occupation: - Tobacco Use: - Alcohol Use: - Drug Use: - Exercise: Physical Examination: - Vital Signs: BP , HR , RR , Temp , Height , Weight - General Appearance: - HEENT: - Cardiovascular: - Respiratory: - Gastrointestinal: - Neurological: - Musculoskeletal: - Skin: - Lymphatic: Assessment: 1. 2. Plan: - Laboratory Testing: - Imaging: - Referrals: - Medications: - Lifestyle Modifications: - Follow-Up: Signature: Additional Notes: - Patient educated on - Patient questions addressed and understands the plan Note: The above template is a general outline and should be customized based on the specific details of the patient's encounter, symptoms, and clinical findings.
+
+============================================================
+
+## Note 3 (undefined - 929ef2cb-5229-afb7-5f57-5d4bfd2baeaf)
+
+**Note ID:** 929ef2cb-5229-afb7-5f57-5d4bfd2baeaf
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 1995-12-03T10:20:24.984-05:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 28 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: - Evaluation and management of anemia. History of Present Illness: Mr. Kihn presents today with symptoms suggestive of anemia. He reports experiencing the following:
+- Persistent fatigue and weakness
+- Paleness of the skin and mucous membranes
+- Shortness of breath, especially with exertion
+- Dizziness and lightheadedness
+- Headaches
+- Cold hands and feet
+- Brittle nails These symptoms have been gradually worsening over the past few weeks. Past Medical History: - No significant past medical history reported.
+- No known allergies. Medications: - None currently. Physical Examination: - General: Alert and oriented, appears fatigued.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.
+- Gastrointestinal: Soft, non-tender, no organomegaly.
+- Skin: Pale, no jaundice or rash.
+- Extremities: No edema, capillary refill <2 seconds. Laboratory Results: - Complete Blood Count (CBC) reveals: - Hemoglobin: g/dL (low) - Hematocrit: % (low) - RBC count: million cells/µL (low) Assessment: - Anemia, likely iron deficiency anemia based on clinical presentation and laboratory findings. Plan: 1. Pharmacologic Management: - Prescribed ferrous sulfate 325 mg oral tablet. - Instructions for Taking Ferrous Sulfate: - Take one tablet by mouth once daily. - Take on an empty stomach, preferably 1 hour before or 2 hours after meals to enhance absorption. - Avoid taking with dairy products, tea, or coffee as these can interfere with iron absorption. - If gastrointestinal discomfort occurs, may take with a small amount of food. - Continue treatment for at least 3-6 months or as directed by the healthcare provider. 2. Dietary Recommendations: - Increase intake of iron-rich foods such as red meat, dark leafy greens, beans, and fortified cereals. - Include vitamin C-rich foods (e.g., citrus fruits, tomatoes) to aid in iron absorption. 3. Follow-Up: - Schedule a follow-up appointment in 4 weeks to re-evaluate hemoglobin levels and assess response to treatment. - Monitor for any adverse effects and report immediately if symptoms worsen or new symptoms develop. 4. Patient Education: - Educated patient on the importance of adherence to medication and dietary recommendations. - Discussed potential side effects of ferrous sulfate, including constipation, dark stools, and gastrointestinal upset. Signature: Additional Notes: - Patient was provided with written instructions and a prescription for ferrous sulfate.
+- Emphasized the need for follow-up to ensure adequate response to treatment and to adjust therapy as necessary.
+
+============================================================
+
+## Note 4 (undefined - 758eb31e-d9ba-a71e-6d5b-6b895a65a91d)
+
+**Note ID:** 758eb31e-d9ba-a71e-6d5b-6b895a65a91d
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2002-03-13T10:20:24.984-05:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Patient Encounter Note Patient Information: - Patient Name: Aaron697 Dewey930 Kihn564
+- Age: 34 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: - Acute onset of symptoms suggestive of Acute Bacterial Sinusitis History of Present Illness: Mr. Kihn564 presents with a complaint of worsening nasal congestion and facial pain over the past 7 days. He reports the following symptoms:
+- Persistent nasal congestion and difficulty breathing through the nose
+- Thick, yellowish-green nasal discharge
+- Severe pressure and pain in the forehead, cheeks, and around the eyes, worsening when bending forward
+- Decreased sense of smell and taste
+- Cough, particularly worse at night
+- Fatigue and general malaise
+- Low-grade fever (noted to be around 100.5°F) He denies any recent upper respiratory infection, dental issues, or trauma to the face. No known allergies to medications. Past Medical History: - No significant past medical history
+- No known drug allergies
+- No history of previous sinusitis Medications: - None currently Social History: - Non-smoker
+- Occasional alcohol use
+- Works in an office setting Review of Systems: - Cardiovascular: No chest pain, palpitations, or edema
+- Respiratory: As per HPI, no shortness of breath or wheezing
+- Gastrointestinal: No nausea, vomiting, or abdominal pain
+- Neurological: No headaches, dizziness, or focal neurological deficits
+- Endocrine: No symptoms of thyroid dysfunction or diabetes Physical Examination: - Vital Signs: BP 120/80 mmHg, HR 78 bpm, RR 16 breaths/min, Temp 100.5°F
+- Head: Normocephalic, atraumatic
+- Eyes: Pupils equal, round, and reactive to light; no conjunctival injection
+- Ears: Tympanic membranes intact, no signs of infection
+- Nose: Turbinate swelling with mucopurulent discharge bilaterally
+- Throat: No erythema or exudates
+- Face: Tenderness to palpation over the maxillary and frontal sinuses
+- Lungs: Clear to auscultation bilaterally Assessment: - Acute Bacterial Sinusitis Plan: 1. Prescriptions: - Amoxicillin-clavulanate 875 mg/125 mg PO BID for 10 days - Intranasal saline irrigation BID - Acetaminophen 650 mg PO Q4-6H PRN for pain/fever 2. Recommendations: - Adequate hydration - Rest - Use of a humidifier at home - Avoidance of known allergens and irritants 3. Follow-Up: - Schedule follow-up appointment in 1 week or sooner if symptoms worsen or do not improve - Instructions to return immediately if experiencing severe headache, vision changes, or signs of systemic infection 4. Patient Education: - Discussed the importance of completing the full course of antibiotics - Advised on potential side effects of medication and when to seek further medical attention Signature: Dictated By: Note: This document is a simulated medical note for educational purposes. Always ensure accurate and detailed documentation in real clinical settings.
+
+============================================================
+
+## Note 5 (undefined - ed8c5d1e-9fb5-17c7-2d6b-56b5ad052d28)
+
+**Note ID:** ed8c5d1e-9fb5-17c7-2d6b-56b5ad052d28
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2011-10-02T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Patient Name: Aaron697 Dewey930 Kihn564
+- Age: 44 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: General examination History of Present Illness: Mr. Kihn presents today for a general examination. He reports no specific complaints at this time. However, upon further inquiry, he mentions occasional episodes of mild fatigue and intermittent headaches, which he attributes to stress and lack of sleep. He denies any significant weight changes, fever, chills, night sweats, cough, shortness of breath, chest pain, abdominal pain, changes in bowel or urinary habits, joint pain, or skin changes. Past Medical History: - Hypertension, well-controlled on Lisinopril 10 mg daily
+- Hyperlipidemia, managed with Simvastatin 20 mg daily
+- No history of diabetes, heart disease, or stroke Medications: - Lisinopril 10 mg daily
+- Simvastatin 20 mg daily
+- Multivitamin daily Family History: - Father with hypertension and myocardial infarction at age 65
+- Mother with type 2 diabetes and hypertension
+- No known family history of cancer or genetic disorders Social History: - Non-smoker
+- Occasional alcohol use (1-2 drinks per week)
+- Works as an office manager, sedentary job
+- No recent travel or exposure to sick contacts Review of Systems: - General: Occasional mild fatigue, no significant weight changes
+- HEENT: Intermittent headaches, no visual changes, no hearing problems
+- Cardiovascular: No chest pain, palpitations, or edema
+- Respiratory: No cough, shortness of breath, or wheezing
+- Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits
+- Genitourinary: No dysuria, frequency, or hematuria
+- Musculoskeletal: No joint pain or muscle weakness
+- Neurological: No dizziness, syncope, or focal neurological deficits
+- Psychiatric: No anxiety, depression, or changes in mood
+- Endocrine: No polyuria, polydipsia, or heat/cold intolerance
+- Dermatological: No rashes, itching, or skin changes Physical Examination: - Vital Signs: BP 132/84 mmHg, HR 78 bpm, RR 16 breaths/min, Temp 98.6°F, Height 5'10", Weight 180 lbs (BMI 25.8 kg/m²)
+- General: Well-appearing, alert, and oriented male in no acute distress
+- HEENT: Normocephalic, atraumatic, PERRLA, EOMI, no scleral icterus, tympanic membranes clear, nares patent, oral mucosa moist, no lesions
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales
+- Gastrointestinal: Soft, non-tender, non-distended abdomen, normal bowel sounds
+- Genitourinary: No masses, tenderness, or scrotal swelling
+- Musculoskeletal: Full range of motion in all joints, no deformities or tenderness
+- Neurological: Cranial nerves II-XII intact, DTRs 2+ bilaterally, sensation intact, coordination normal, gait steady Assessment: 1. General examination with no acute findings
+2. Occasional mild fatigue and intermittent headaches, likely related to stress and sleep deprivation Plan: 1. Continue current medications for hypertension and hyperlipidemia
+2. Recommend lifestyle modifications to manage stress, including regular exercise, adequate sleep, and relaxation techniques
+3. Monitor blood pressure and lipid levels at next follow-up visit
+4. If headaches persist or worsen, consider further evaluation or referral to a neurologist
+5. Schedule follow-up appointment in 6 months or sooner if symptoms change Patient Instructions: - Continue taking medications as prescribed
+- Engage in stress-reducing activities and ensure adequate sleep
+- Follow a balanced diet and maintain regular physical activity
+- Return to clinic if any new or worsening symptoms develop Provider: Dictated By: Electronic Signature: Note: The symptoms mentioned (mild fatigue and intermittent headaches) are non-specific and could be caused by a variety of factors, including stress, sleep deprivation, dehydration, or more serious conditions if persistent or worsening. The plan includes monitoring and lifestyle modifications, with a provision for further evaluation if needed.
+
+============================================================
+
+## Note 6 (undefined - 07486b71-282c-109f-f6c5-36f7d036c0be)
+
+**Note ID:** 07486b71-282c-109f-f6c5-36f7d036c0be
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2014-02-04T10:20:24.984-05:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 46 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: Chronic pain History of Present Illness: Mr. Kihn564 reports a history of chronic pain, which he describes as persistent and debilitating. The pain has been ongoing for approximately . He notes that the pain is primarily located in . The pain is characterized as . Associated Symptoms: - Fatigue: Mr. Kihn564 reports significant fatigue, which he attributes to poor sleep due to pain.
+- Sleep Disturbance: He experiences frequent awakenings and difficulty maintaining sleep.
+- Mood Changes: He has noticed increased irritability and periods of low mood.
+- Decreased Activity Tolerance: The pain has significantly reduced his ability to perform daily activities and exercise.
+- Muscle Stiffness: He reports stiffness in the affected areas, particularly upon waking.
+- Limited Range of Motion: There is a noticeable decrease in the range of motion in the affected areas.
+- Headaches: He occasionally experiences tension headaches, which he believes are related to his chronic pain. Past Medical History: - Medications: - Allergies: - Social History: - Occupation: - Tobacco use: - Alcohol use: - Recreational drug use: Family History: - Review of Systems: - General: Reports weight gain due to decreased physical activity.
+- Cardiovascular: No chest pain, palpitations, or shortness of breath.
+- Respiratory: No cough, wheezing, or dyspnea.
+- Gastrointestinal: No nausea, vomiting, or changes in bowel habits.
+- Neurological: No numbness, tingling, or weakness.
+- Musculoskeletal: As detailed in the history of present illness.
+- Psychiatric: As detailed in the history of present illness. Physical Examination: - Vital Signs: BP , HR , RR , Temp , Height , Weight - General Appearance: - Musculoskeletal: - Neurological: Assessment: Chronic pain, likely Plan: 1. Medication Management: Consider initiating .
+2. Physical Therapy: Refer to physical therapy for a tailored exercise program to improve mobility and strength.
+3. Pain Management Consult: Schedule a consultation with a pain management specialist for further evaluation and potential interventional treatments.
+4. Psychological Support: Recommend a consultation with a psychologist or counselor to address mood changes and coping strategies.
+5. Follow-Up: Schedule a follow-up appointment in to reassess pain levels and treatment efficacy. Provider's Signature: Date: Note: This template should be customized based on the specific details of the patient's condition and the provider's clinical judgment.
+
+============================================================
+
+## Note 7 (undefined - 68a56a8f-c48e-a901-e570-f137cf3ec8f0)
+
+**Note ID:** 68a56a8f-c48e-a901-e570-f137cf3ec8f0
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2015-10-11T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 48 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: General examination and evaluation of symptoms. History of Present Illness: Mr. Kihn564 presents today for a general examination. He reports experiencing a variety of symptoms over the past few weeks, which have been concerning. The patient describes the following symptoms: 1. Fatigue: Persistent tiredness, even after adequate rest.
+2. Generalized Weakness: Feeling of overall weakness and decreased strength.
+3. Weight Loss: Unintentional weight loss of approximately 10 pounds over the past month.
+4. Appetite Changes: Decreased appetite, with less interest in food.
+5. Fever: Low-grade fever, especially in the evenings.
+6. Night Sweats: Experiencing night sweats, which are soaking through his clothing.
+7. Cough: Dry, persistent cough that has not improved with over-the-counter medications.
+8. Shortness of Breath: mild shortness of breath on exertion. The patient denies any recent travel, exposure to sick contacts, or known allergies. He has no significant past medical history and is not currently on any medications. Review of Systems: - Cardiovascular: No chest pain, palpitations, or edema.
+- Respiratory: As described above.
+- Gastrointestinal: Mild abdominal discomfort, no nausea or vomiting.
+- Genitourinary: No dysuria, hematuria, or frequency.
+- Neurological: No headaches, dizziness, or changes in vision.
+- Musculoskeletal: Generalized weakness, no specific joint pain.
+- Psychiatric: No changes in mood, anxiety, or depression. Physical Examination: - Vital Signs: BP 120/80 mmHg, HR 88 bpm, RR 20 breaths/min, Temp 37.8°C, Height 5'10", Weight 170 lbs.
+- General Appearance: Alert, oriented, and in no acute distress.
+- HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light. Oropharynx clear, no tonsillar enlargement.
+- Lungs: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.
+- Heart: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Abdomen: Soft, non-tender, no palpable masses, normal bowel sounds.
+- Extremities: No edema, cyanosis, or clubbing. Full range of motion, mild generalized weakness noted.
+- Skin: Warm, dry, no rashes or lesions. Assessment: The patient's symptoms of fatigue, generalized weakness, weight loss, fever, night sweats, cough, and shortness of breath are concerning and could be indicative of an underlying systemic condition. Potential differential diagnoses include: 1. Infectious Process: Such as tuberculosis, HIV, or other chronic infections.
+2. Malignancy: Possible lymphoma or other cancers.
+3. Endocrine Disorder: Thyroid dysfunction or diabetes.
+4. Autoimmune Disease: Conditions like rheumatoid arthritis or systemic lupus erythematosus. Plan: 1. Laboratory Tests: Complete blood count (CBC), comprehensive metabolic panel (CMP), thyroid function tests (TSH, free T4), HIV test, and chest X-ray.
+2. Referrals: Consider referral to an infectious disease specialist and/or oncologist based on initial test results.
+3. Follow-Up: Schedule a follow-up appointment in 1-2 weeks to review test results and discuss further management.
+4. Symptomatic Treatment: Recommend adequate hydration, balanced diet, and rest. Over-the-counter cough syrup as needed for cough. Patient Instructions: - Advise the patient to monitor symptoms and report any new or worsening issues.
+- Instruct the patient to avoid exposure to sick individuals and practice good hand hygiene.
+- Emphasize the importance of follow-up and completing the recommended tests. Signature: Note: This medical note is a template and should be adjusted based on the actual clinical findings and the physician's specific instructions. The differential diagnoses and plan are based on the symptoms provided and may change with further evaluation.
+
+============================================================
+
+## Note 8 (undefined - 6bb88b9f-e2f3-7a5f-c1bc-898f7c644f60)
+
+**Note ID:** 6bb88b9f-e2f3-7a5f-c1bc-898f7c644f60
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2017-09-17T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 50 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: General examination History of Present Illness: Patient presents for a routine general examination. No specific complaints reported at this time. Medication Reconciliation: - Medication list reviewed and updated.
+- No new medications prescribed during this visit. Assessments and Screenings: 1. Health and Social Care Needs Assessment: - Comprehensive assessment conducted. - No immediate unmet needs identified. 2. Anxiety Assessment: - Patient denies symptoms of anxiety. - No significant findings. 3. Screening for Domestic Abuse: - Patient screened using standard questionnaire. - No indicators of domestic abuse reported. 4. Depression Screening: - Conducted three times using the Patient Health Questionnaire-9 (PHQ-9). - Scores within normal range, indicating no significant depressive symptoms. 5. Substance Use Assessment: - Patient denies current or past substance use. - No signs of substance abuse detected. 6. Screening for Drug Abuse: - Negative screening for drug abuse. Procedures Performed: - Patient referred for dental care procedures. Immunizations Administered: - Zoster vaccine, live
+- Influenza, seasonal, injectable, preservative-free Symptoms to Monitor: - Zoster Vaccine: Potential side effects may include redness, soreness, or swelling at the injection site, headache, or fatigue. Monitor for signs of shingles or allergic reaction.
+- Influenza Vaccine: Possible side effects may include soreness at the injection site, low-grade fever, or mild body aches. Monitor for signs of severe allergic reaction. Plan: 1. Continue routine monitoring of overall health.
+2. Follow up with dental care as referred.
+3. Return for annual physical examination and any necessary follow-up screenings. Next Appointment: - Scheduled for for follow-up and routine check-up. Provider's Signature: Note: This document is part of the patient's confidential medical record. Unauthorized reproduction or disclosure is prohibited. Additional Notes: - Patient educated on the importance of regular health screenings and immunizations.
+- Encouraged to maintain a healthy lifestyle and report any new or concerning symptoms promptly. Dictated By: Reviewed By: Date of Documentation:
+
+============================================================
+
+## Note 9 (undefined - cda4b4ca-2477-a06a-c563-1a8d787cf87a)
+
+**Note ID:** cda4b4ca-2477-a06a-c563-1a8d787cf87a
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2017-09-24T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 50 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: Routine screening for malignant neoplasm of the colon. History of Present Illness: Mr. Kihn is a 50-year-old white male presenting for a routine screening colonoscopy. The patient reports no specific gastrointestinal symptoms at this time. He has no history of colorectal cancer in his family but understands the importance of early screening due to his age. The patient denies any changes in bowel habits, rectal bleeding, abdominal pain, weight loss, or other alarming symptoms that might suggest colorectal pathology. Past Medical History: - No known history of colorectal cancer or polyps.
+- No significant gastrointestinal disorders.
+- Hypertension, well-controlled on medication.
+- Hyperlipidemia, managed with diet and statin therapy. Medications: - Lisinopril 20 mg daily
+- Atorvastatin 40 mg daily Family History: - No family history of colorectal cancer.
+- Father had hypertension and myocardial infarction at age 65.
+- Mother with type 2 diabetes and hypertension. Social History: - Non-smoker.
+- Occasional alcohol consumption.
+- Works as an office manager with minimal physical activity. Review of Systems: - General: No fever, chills, or night sweats.
+- Gastrointestinal: No abdominal pain, changes in bowel habits, rectal bleeding, or melena.
+- Cardiovascular: No chest pain or palpitations.
+- Respiratory: No cough, shortness of breath, or wheezing.
+- Genitourinary: No dysuria, hematuria, or frequency.
+- Musculoskeletal: No joint pain or muscle weakness.
+- Neurological: No headaches, dizziness, or syncope. Physical Examination: - Vital Signs: BP 130/80 mmHg, HR 72 bpm, RR 16 breaths/min, Temp 98.6°F, Height 5'10", Weight 180 lbs.
+- General Appearance: Well-nourished, alert, and in no acute distress.
+- Abdomen: Soft, non-tender, no palpable masses, normal bowel sounds.
+- Rectal Exam: Normal tone, no masses, guaiac-negative stool. Procedures Performed: - Colonoscopy: The procedure was performed under conscious sedation. The colonoscope was advanced to the cecum. The entire colon was visualized, and no polyps or masses were identified. The mucosa appeared normal, and there were no signs of inflammation or bleeding. Assessment: - Negative screening colonoscopy for malignant neoplasm of the colon. Plan: - Continue routine health maintenance.
+- Recommend follow-up colonoscopy in 10 years, or sooner if any gastrointestinal symptoms develop.
+- Continue current management for hypertension and hyperlipidemia.
+- Encourage a diet high in fiber and regular physical activity to promote overall colon health. Symptoms to Monitor: - Changes in bowel habits (e.g., diarrhea, constipation)
+- Rectal bleeding or blood in stool
+- Abdominal pain or cramping
+- Unexplained weight loss
+- Fatigue or weakness Patient Instructions: - If any of the above symptoms occur, contact the office for further evaluation.
+- Maintain a healthy lifestyle with a balanced diet and regular exercise. Provider: Dictated By: , Electronic Signature: Note: This medical note is a template and should be customized based on the actual findings and specific details of the patient's encounter.
+
+============================================================
+
+## Note 10 (undefined - 2d686144-5ca3-d35f-2b57-fab531a52963)
+
+**Note ID:** 2d686144-5ca3-d35f-2b57-fab531a52963
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2017-10-01T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 50 years
+- Gender: Male
+- Race: White Date of Encounter: Reason for Visit: - Check-up for patient referral for dental care (procedure). Chief Complaint: - Patient referred for comprehensive dental evaluation and treatment. History of Present Illness: - The patient presents for a follow-up dental consultation as referred by his primary care physician. He reports no specific dental pain or discomfort at this time but has a history of dental issues, including previous dental fillings and periodontal concerns. Symptoms: - No acute symptoms reported. However, patient acknowledges occasional gingival bleeding during brushing and mild sensitivity to cold temperatures, which may be related to underlying dental conditions. Physical Examination: - Vital signs stable: BP 120/80 mmHg, HR 72 bpm, RR 16 breaths/min, Temp 98.6°F.
+- Oral examination reveals: - Generalized mild gingival inflammation. - Presence of supragingival and subgingival plaque and calculus. - No acute dental caries observed, but there is evidence of previous dental restorations. - One tooth (specific tooth number to be added) shows a small fracture line. Procedures Performed: 1. Dental Consultation and Report: - Comprehensive dental evaluation with detailed findings documented. 2. Dental Care (Regime/Therapy): - Tailored oral hygiene instructions provided. 3. Removal of Supragingival Plaque and Calculus from All Teeth Using Dental Instrument: - Complete scaling of all teeth to remove supra-gingival deposits. 4. Removal of Subgingival Plaque and Calculus from All Teeth Using Dental Instrument: - Subgingival scaling performed to address subgingival plaque and calculus. 5. Examination of Gingivae: - thorough assessment of gingival health, noting areas of inflammation and bleeding. 6. Application of Composite Dental Filling Material to Dentin of Tooth Following Fracture of Tooth: - Tooth with fracture line treated with composite filling to restore structure and function. 7. Oral Health Education Procedure(s) Performed: - Patient educated on proper brushing techniques, flossing, and the importance of regular dental check-ups. Assessment: - Generalized gingivitis with mild periodontal involvement.
+- Dental caries and fracture managed with composite filling.
+- Good oral hygiene practices reinforced. Plan: 1. Continue with regular dental visits every 6 months.
+2. Maintain rigorous oral hygiene as instructed.
+3. Monitor for any signs of dental pain, increased sensitivity, or gingival changes.
+4. Follow-up with a dental appointment if any new concerns arise. Patient Instructions: - Patient advised to avoid hard and sticky foods to prevent further dental damage.
+- Encouraged to use fluoride toothpaste and an antiseptic mouthwash.
+- Instructed to report any new or worsening symptoms promptly. Provider: - , DDS Signature: - Date: - Note: This medical note is intended to document the patient's dental encounter comprehensively, ensuring all procedures and findings are accurately recorded for continuity of care.
+
+============================================================
+
+## Note 11 (undefined - b2d57ef3-da97-7913-713b-4247dfef890b)
+
+**Note ID:** b2d57ef3-da97-7913-713b-4247dfef890b
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2018-09-23T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 51 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: General examination History of Present Illness: Mr. Kihn564 presented for a routine general examination. The patient did not report any specific complaints or symptoms at the time of the visit. However, a thorough assessment was conducted to evaluate his overall health and well-being. Medication Reconciliation: - A comprehensive review of the patient's current medications was performed.
+- No new medications were prescribed during this visit.
+- The patient's medication list was updated and verified for accuracy. Assessment of Health and Social Care Needs: - A detailed assessment of the patient's health and social care needs was conducted.
+- The patient reported good social support and no significant changes in his living situation.
+- No immediate concerns were identified. Screening for Domestic Abuse: - The patient was screened for domestic abuse using standardized questions.
+- The patient denied any history or current experiences of domestic abuse. Depression Screening: - The patient underwent depression screening using the PHQ-9 questionnaire.
+- Depression screening procedure(s) were performed, including a detailed discussion of mental health status. Immunizations Administered: - Zoster vaccine, live
+- Influenza, seasonal, injectable, preservative free
+- Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed Symptoms that may be caused by Immunizations: - The patient was informed about potential side effects from the administered immunizations, which may include: - Zoster Vaccine: Injection site pain, redness, swelling, headache, fatigue, shingles-like rash. - Influenza Vaccine: Soreness at the injection site, low-grade fever, muscle aches, headache. - Td Vaccine: Pain, redness, or swelling at the injection site, mild fever, headache, fatigue. Plan: - The patient was advised to monitor for any adverse reactions to the immunizations and to report any concerning symptoms promptly.
+- Follow-up appointment scheduled in 6 months for continued health monitoring.
+- Patient education provided on the importance of routine immunizations and preventive care. Assessment: - The patient is in good general health with no acute concerns identified during the examination.
+- Preventive measures, including immunizations, were appropriately administered. Signature: Note: This medical note is a summary of the patient's encounter and should be reviewed in conjunction with the patient's complete medical record for a comprehensive understanding of his health status.
+
+============================================================
+
+## Note 12 (undefined - db39a811-51aa-d24e-0954-483c122a9032)
+
+**Note ID:** db39a811-51aa-d24e-0954-483c122a9032
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2019-09-29T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 52 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: General examination and assessment of overall health. History of Present Illness: Mr. Kihn564 presented for a routine general examination. The patient reports no specific complaints at this time but is here for a comprehensive health assessment. Medication Reconciliation: - A thorough review of the patient's current medications was conducted.
+- No new medications were prescribed during this visit.
+- The patient's medication list was updated and verified. Assessment of Health and Social Care Needs: - A comprehensive assessment was performed to evaluate the patient's overall health status and social care needs.
+- The patient appears to be in good general health with no immediate concerns identified. Assessment of Substance Use: - The patient was screened for substance use.
+- No current or past substance use issues were reported by the patient. Alcohol Use Disorders Identification Test - Consumption (AUDIT-C): - The AUDIT-C was administered to assess the patient's alcohol consumption.
+- The patient scored within the normal range, indicating no signs of hazardous or harmful alcohol use. Dental Care Referral: - The patient was referred for a dental care procedure(s) due to the need for routine dental evaluation and potential treatment. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free vaccine was administered to the patient. Symptom Assessment: - The patient was queried about symptoms that may be caused by various underlying conditions, including but not limited to: - Fatigue - Weight changes - Sleep disturbances - Appetite changes - Mood swings - Pain or discomfort in any area of the body
+- The patient denied experiencing any of these symptoms at this time. Physical Examination: - Vital signs were stable and within normal limits.
+- Cardiovascular, respiratory, abdominal, and neurological examinations were unremarkable. Assessment and Plan: 1. General Health: - The patient is in good overall health. - Continue routine health maintenance and follow-up as needed. 2. Medication Management: - Continue current medications as prescribed. - Reassess medication list at next visit. 3. Substance Use: - No concerns identified; continue to monitor. 4. Alcohol Use: - AUDIT-C within normal range; continue to encourage moderate alcohol consumption if applicable. 5. Dental Care: - Follow up with dental referral for routine evaluation and treatment. 6. Immunizations: - Influenza vaccine administered; recommend follow-up for other age-appropriate vaccinations as needed. Patient Education: - Discussed the importance of routine health screenings and follow-up care.
+- Provided information on healthy lifestyle choices, including diet, exercise, and alcohol moderation. Plan for Follow-Up: - Schedule a follow-up appointment in 6 months or sooner if any new concerns arise. Provider's Signature: Date: Note: This medical note is a summary of the patient's encounter and should be reviewed in conjunction with the patient's complete medical record for a comprehensive understanding of their health status.
+
+============================================================
+
+## Note 13 (undefined - a077a0ad-1f64-addf-f47c-f8bd172313a2)
+
+**Note ID:** a077a0ad-1f64-addf-f47c-f8bd172313a2
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2019-10-13T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 52
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: Patient referred for dental care check-up. History of Present Illness: The patient presents for a routine dental check-up as per referral. He reports no significant dental pain, bleeding gums, or other oral symptoms at this time. However, he has a history of mild gingivitis and occasional sensitivity to hot and cold foods. Physical Examination: - Oral Examination: - Gingivae: Mild erythema and swelling, no active bleeding. - Teeth: Presence of supragingival and subgingival plaque and calculus. - Oral Mucosa: Intact, no abnormalities noted. Procedures Performed: 1. Dental consultation and report.
+2. Dental care regime/therapy.
+3. Removal of supragingival plaque and calculus from all teeth using dental instruments.
+4. Removal of subgingival plaque and calculus from all teeth using dental instruments.
+5. Examination of gingivae.
+6. Dental fluoride treatment.
+7. Oral health education. Medications Prescribed: - Sodium Fluoride 0.0272 MG/MG Oral Gel Instructions for Sodium Fluoride 0.0272 MG/MG Oral Gel: - Dosage: Apply a thin ribbon of gel to the toothbrush.
+- Frequency: Use once daily, preferably at bedtime, after brushing teeth.
+- Application: Brush thoroughly for 1-2 minutes, ensuring coverage of all tooth surfaces. Spit out excess gel and do not rinse, eat, or drink for 30 minutes after application.
+- Duration: Continue use as directed by the dentist or until the next dental appointment. Symptoms to Monitor: - Increased tooth sensitivity
+- Gum irritation or bleeding
+- Oral discomfort or pain
+- Any unusual reactions or side effects Patient Education: The patient was educated on the importance of maintaining good oral hygiene, including regular brushing, flossing, and routine dental check-ups. The benefits of fluoride treatment in preventing tooth decay were also discussed. Plan: - Follow-up dental appointment scheduled in 6 months.
+- Continue with prescribed fluoride gel and monitor for any adverse symptoms.
+- Encourage ongoing oral health practices. Provider Signature: Additional Notes: - Patient demonstrated understanding of instructions and expressed no concerns.
+- No additional medications or treatments were prescribed at this time. Dictated By: , Reviewed By: Date of Documentation: Note: This document is a template and should be customized to fit the specific details and context of the patient's encounter. Always ensure accuracy and completeness in medical documentation.
+
+============================================================
+
+## Note 14 (undefined - bccfa23b-d071-6969-e790-21f9c39f8409)
+
+**Note ID:** bccfa23b-d071-6969-e790-21f9c39f8409
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2020-07-05T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 52 years
+- Gender: Male
+- Race: White Date of Encounter: Reason for Visit: - Routine health check-up Assessments and Procedures: 1. Health and Social Care Needs Assessment: - Comprehensive evaluation of the patient's overall health status. - Assessment of social determinants of health, including living conditions, support systems, and access to care. 2. Depression Screening: - Administration of standardized depression screening tools (e.g., PHQ-9). - Detailed discussion regarding mood, energy levels, sleep patterns, appetite, and concentration. 3. Depression Screening Procedure(s): - Clinical interview to assess the presence and severity of depressive symptoms. - Review of previous mental health history and current medications. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free Symptoms Observed: - The patient reported occasional feelings of sadness and low energy.
+- Mild difficulty concentrating at work.
+- Sleep disturbances, including intermittent insomnia.
+- Slight decrease in appetite but no significant weight loss. Vital Signs: - Blood Pressure: - Heart Rate: - Respiratory Rate: - Temperature: - Oxygen Saturation: Physical Examination: - General appearance: Well-nourished, alert, and oriented.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear breath sounds bilaterally.
+- Gastrointestinal: Soft, non-tender abdomen.
+- Neurological: Alert and oriented to person, place, and time. No focal deficits. Assessment: - The patient is a 52-year-old male presenting for a routine health check-up.
+- Depression screening indicates mild depressive symptoms, which may be contributing to reported low energy, concentration difficulties, and sleep disturbances.
+- No acute medical concerns identified during the physical examination. Plan: 1. Follow-up on Depression: - Schedule a follow-up appointment with a mental health specialist for further evaluation and potential treatment. - Encourage engagement in activities that may improve mood, such as regular exercise and social interactions. 2. Health Maintenance: - Continue routine health screenings as per age-specific guidelines. - Recommend maintaining a balanced diet and regular physical activity. 3. Immunizations: - Documented administration of seasonal influenza vaccine. Remind patient of the importance of annual vaccinations. 4. Patient Education: - Provide information on recognizing and managing depressive symptoms. - Discuss the benefits of a healthy lifestyle on overall well-being. Signature: Additional Notes: - Patient was advised to monitor symptoms and report any new or worsening issues promptly.
+- Emphasized the importance of follow-up appointments for ongoing care. Note: This medical note is a template and should be customized with specific details relevant to the patient's encounter, including vital signs, specific findings from the physical examination, and any additional relevant information.
+
+============================================================
+
+## Note 15 (undefined - d0c6f0b9-f99a-50f1-c3f5-0b5a245ad0af)
+
+**Note ID:** d0c6f0b9-f99a-50f1-c3f5-0b5a245ad0af
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2020-07-12T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 52
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: - Acute onset of sinus-related symptoms History of Present Illness: Mr. Kihn presents with a complaint of acute symptoms suggestive of bacterial sinusitis. He reports the following symptoms:
+- Nasal congestion and difficulty breathing through the nose
+- Thick, discolored nasal discharge (yellowish-green)
+- Facial pain and pressure, particularly around the cheeks, forehead, and eyes
+- Headache
+- Decreased sense of smell
+- Fever (temperature measured at home was 100.4°F)
+- Bad breath (halitosis)
+- Fatigue and general malaise Symptoms began approximately 5 days ago, following a recent upper respiratory infection. Over-the-counter decongestants and pain relievers have provided minimal relief. Past Medical History: - Hypertension (well-controlled on medication)
+- Seasonal allergies
+- No known history of chronic sinusitis or other significant ENT disorders Medications: - Lisinopril 10 mg daily for hypertension
+- Cetirizine 10 mg as needed for allergies Allergies: - Penicillin (known allergy, causes rash) Social History: - Non-smoker
+- Occasional alcohol use
+- Works in an office setting Review of Systems: - Cardiovascular: No chest pain, palpitations, or edema
+- Respiratory: Nasal congestion, no cough or wheezing
+- Gastrointestinal: No nausea, vomiting, or abdominal pain
+- Neurological: Headache, no dizziness or focal neurological deficits
+- Musculoskeletal: No joint pain or swelling Physical Examination: - Vital Signs: BP 128/82 mmHg, HR 88 bpm, RR 16 breaths/min, T 100.2°F
+- Head: Normocephalic, atraumatic
+- Eyes: Pupils equal, round, and reactive to light; no conjunctival injection
+- Ears: Tympanic membranes intact, no signs of infection
+- Nose: Turbinates swollen, mucosal erythema, thick yellowish-green discharge
+- Throat: No exudates, tonsils not enlarged
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally, no wheezes or rhonchi
+- Facial: Tenderness to palpation over maxillary and frontal sinuses Assessment: - Acute Bacterial Sinusitis Plan: 1. Pharmacotherapy: - Prescribe Amoxicillin-clavulanate 875 mg/125 mg orally twice daily for 10 days (due to penicillin allergy, consider alternative such as doxycycline or a respiratory fluoroquinolone if severe allergy) - Recommend saline nasal irrigation to help clear nasal passages - Advise use of acetaminophen or ibuprofen for pain and fever management 2. Lifestyle Modifications: - Encourage adequate hydration - Recommend use of a humidifier to maintain moisture in the nasal passages - Avoid known allergens and irritants 3. Follow-Up: - Schedule follow-up appointment in 1 week to assess response to treatment - Instruct patient to return sooner if symptoms worsen or if new symptoms develop 4. Patient Education: - Educate on signs of complications (e.g., severe headache, vision changes, persistent fever) that would warrant immediate medical attention Signature: Note: This medical note is a template and should be adjusted based on the actual clinical findings and physician's recommendations. Always ensure accurate and comprehensive documentation of the patient's condition and treatment plan.
+
+============================================================
+
+## Note 16 (undefined - 1e4ef611-53cc-60a2-c659-a63143492c28)
+
+**Note ID:** 1e4ef611-53cc-60a2-c659-a63143492c28
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2020-08-15T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 52 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: - Acute bacterial sinusitis History of Present Illness: Mr. Kihn presents with a complaint of symptoms consistent with acute bacterial sinusitis. The patient reports the following symptoms:
+- Nasal congestion and obstruction
+- Thick, discolored nasal discharge
+- Facial pain and pressure, particularly around the cheeks, forehead, and eyes
+- Decreased sense of smell
+- Postnasal drip
+- Headache
+- Fatigue
+- Mild fever (noted to be around 100.5°F) These symptoms have been present for approximately 7-10 days and have been worsening despite over-the-counter treatments. Past Medical History: - No known history of chronic sinusitis
+- Occasional allergic rhinitis
+- No significant past surgical history Medications: - Over-the-counter antihistamines (used intermittently for allergic rhinitis)
+- Acetaminophen for pain relief Allergies: - No known drug allergies Physical Examination: - Vital Signs: BP 120/80 mmHg, HR 78 bpm, RR 16 breaths/min, Temp 100.5°F
+- Head and Neck: Palpable tenderness over the maxillary and frontal sinuses. Nasal mucosa is erythematous and edematous with thick, yellow-green nasal discharge.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear breath sounds bilaterally, no wheezing or rhonchi.
+- Other systems: Unremarkable Procedures Performed: - Nasal sinus endoscopy: The procedure was performed to visualize the sinus cavities. Findings include: - Mucosal swelling and erythema - Presence of purulent discharge in the middle meatus - No evidence of polyps or other obstructive lesions Assessment: - Acute bacterial sinusitis Plan: 1. Pharmacotherapy: - Prescribe a course of antibiotics: Amoxicillin-clavulanate 875 mg/125 mg orally twice daily for 10-14 days. - Recommend saline nasal irrigation to help clear nasal passages. - Prescribe a nasal corticosteroid spray (e.g., fluticasone) to reduce inflammation. - Advise the use of analgesics (e.g., ibuprofen) for pain relief as needed. 2. Follow-Up: - Schedule a follow-up appointment in 2 weeks to reassess symptoms and response to treatment. - Instruct the patient to return earlier if symptoms worsen or if there is no improvement after 3-5 days of antibiotic therapy. 3. Patient Education: - Educate the patient on the importance of completing the full course of antibiotics. - Discuss measures to prevent future sinus infections, such as managing allergies and avoiding smoking. Signature: Additional Notes: - Patient was provided with written instructions regarding medication use and follow-up care.
+- Patient expressed understanding of the treatment plan and agreed to follow-up as advised.
+
+============================================================
+
+## Note 17 (undefined - 87891aa8-5f9c-c7f8-d79e-7ae83e965f05)
+
+**Note ID:** 87891aa8-5f9c-c7f8-d79e-7ae83e965f05
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2020-10-04T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 53 years
+- Gender: Male
+- Ethnicity: White Date of Encounter: Reason for Visit: General examination and assessment of health and social care needs. History: The patient presented for a routine general examination. He reported no specific complaints but expressed concerns about his overall well-being and mental health. Vital Signs: - Blood Pressure: - Heart Rate: - Respiratory Rate: - Temperature: - Height: - Weight: - BMI: Assessment: 1. Health and Social Care Needs Assessment: - The patient was evaluated for his overall health status and social determinants of health. He lives alone and has a moderate level of social support. No significant barriers to care were identified. 2. Anxiety Assessment: - The patient completed the Generalized Anxiety Disorder 7 (GAD-7) questionnaire. He scored , indicating anxiety symptoms. He reported occasional feelings of nervousness, restlessness, and difficulty concentrating. 3. Depression Screening: - The patient underwent the Patient Health Questionnaire 9 (PHQ-9) screening. He scored , suggesting depressive symptoms. He endorsed symptoms such as low mood, anhedonia, and fatigue. Symptoms: - Occasional nervousness and restlessness
+- Difficulty concentrating
+- Low mood and anhedonia
+- Fatigue
+- Mild sleep disturbances Physical Examination: - General Appearance: Well-nourished, alert, and oriented.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.
+- Gastrointestinal: Soft, non-tender, no organomegaly.
+- Musculoskeletal: Full range of motion, no joint swelling or deformity.
+- Neurological: Cranial nerves II-XII intact, DTRs 2+ bilaterally, normal gait and coordination. Laboratory and Diagnostic Tests: - Impression: 1. General good health with no acute medical concerns.
+2. Mild to moderate anxiety symptoms.
+3. Mild to moderate depressive symptoms. Plan: 1. Anxiety and Depression Management: - Refer to mental health services for further evaluation and potential therapy. - Consider initiating a selective serotonin reuptake inhibitor (SSRI) for symptom management. - Provide patient education on anxiety and depression, including lifestyle modifications and stress management techniques. 2. Follow-Up: - Schedule a follow-up appointment in 4 weeks to reassess mental health symptoms and medication response. - Encourage regular physical activity and social engagement to improve overall well-being. 3. Additional Recommendations: - Continue routine health screenings as per guidelines. - Monitor vital signs and weight at each visit. Patient Instructions: - The patient was advised to monitor his symptoms and report any worsening or new concerns promptly.
+- He was encouraged to engage in self-care activities and maintain a healthy lifestyle. Provider Signature: Date: Dictated By: Reviewed By: Note: This template should be customized with specific details relevant to the patient's encounter, including lab results, specific scores from screening tools, and any other pertinent information. Always ensure accuracy and completeness in documenting the patient's medical history and examination findings.
+
+============================================================
+
+## Note 18 (undefined - e86c05bc-e4e1-aa5e-1686-a5e7a5616842)
+
+**Note ID:** e86c05bc-e4e1-aa5e-1686-a5e7a5616842
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Juan88 Friesen796
+**Date:** 2021-02-11T11:04:16.984-05:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Patient Encounter Note Date/Time: Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 53 years
+- Gender: Male
+- Race: White Chief Complaint: Concussion injury of brain History of Present Illness: Mr. Kihn564 is a 53-year-old white male who was brought to the emergency room following a traumatic head injury sustained during a fall from a ladder at home. The patient reports a momentary loss of consciousness at the time of impact, followed by immediate onset of severe symptoms. He complains of: - Severe Headache: Described as throbbing and persistent, worsening with movement.
+- Nausea and Vomiting: Multiple episodes of vomiting since the injury.
+- Dizziness and Vertigo: Significant difficulty maintaining balance and walking.
+- Confusion and Disorientation: Difficulty recalling recent events and answering simple questions.
+- Photophobia and Phonophobia: Intolerance to light and sound, exacerbating headache.
+- Blurred Vision: Difficulty focusing and experiencing double vision.
+- Fatigue and Lethargy: Marked decrease in energy levels and responsiveness. The patient denies any history of seizures, loss of bowel or bladder control, or focal neurological deficits. However, he reports a subjective feeling of "fogginess" and difficulty concentrating. Past Medical History: - Hypertension (well-controlled on medication)
+- Occasional migraine headaches (infrequent, typically resolved with over-the-counter medication) Medications: - Lisinopril 10 mg daily for hypertension
+- Occasional ibuprofen for migraines Allergies: - No known drug allergies Social History: - Non-smoker
+- Occasional alcohol use
+- Employed as a construction worker Family History: - No significant family history of neurological disorders Physical Examination: - Vital Signs: BP 140/90 mmHg, HR 88 bpm, RR 20 breaths/min, Temp 98.6°F, O2 Sat 98% on room air.
+- General Appearance: Alert but appears distressed and fatigued.
+- Head: No visible lacerations or deformities. Palpation reveals tenderness over the right parietal region.
+- Eyes: Pupils equal, round, and reactive to light. Confrontation visual fields intact but reports blurred vision.
+- Ears, Nose, Throat: Unremarkable.
+- Neck: No cervical spine tenderness, full range of motion without pain.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear to auscultation bilaterally, no wheezes or rhonchi.
+- Neurological: - Mental Status: Alert but disoriented to time and place. Mini-Mental State Examination (MMSE) score 24/30. - Cranial Nerves: II-XII intact. - Motor: Normal tone and strength bilaterally. - Sensory: Intact to light touch and pinprick. - Coordination: Mild difficulty with finger-to-nose and heel-to-shin tests. - Gait: Unsteady, requiring assistance to walk. Assessment: 1. Concussion injury of brain, severe symptoms
+2. Head trauma with loss of consciousness Plan: 1. Imaging: Immediate non-contrast CT scan of the head to rule out intracranial hemorrhage or other acute pathology.
+2. Observation: Monitor vital signs and neurological status closely in the ER.
+3. Symptomatic Management: - Acetaminophen for headache (avoid NSAIDs due to risk of intracranial bleeding). - Antiemetics for nausea and vomiting. - Rest and minimize stimulation (dim lights, quiet environment).
+4. Consultation: Neurology consult for further evaluation and management.
+5. Discharge Instructions: If stable for discharge, provide detailed instructions on monitoring for signs of worsening condition, such as increased headache severity, persistent vomiting, altered mental status, or focal neurological deficits. Advise follow-up with primary care provider and neurology within 24-48 hours. Signature: Date/Time:
+
+============================================================
+
+## Note 19 (undefined - 8ccdbc1f-e2a6-8dd0-e2d1-ba0f7c1762d1)
+
+**Note ID:** 8ccdbc1f-e2a6-8dd0-e2d1-ba0f7c1762d1
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2021-05-02T12:04:16.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 53
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: Check-up for concussion with no loss of consciousness. History of Present Illness: Mr. Kihn564 presents today for a follow-up evaluation after experiencing a concussion. He reports that he sustained a head injury during . He did not lose consciousness at any point during the incident or subsequently. However, he has been experiencing several symptoms that prompted him to seek medical evaluation. Symptoms: - Headache: Persistent, described as a dull ache, primarily localized to the .
+- Dizziness: Occasional episodes of dizziness, particularly when changing positions or moving quickly.
+- Nausea: Mild to moderate nausea, with no associated vomiting.
+- Fatigue: Increased tiredness and a general feeling of lethargy.
+- Difficulty Concentrating: Reports having trouble focusing on tasks and experiencing mild confusion at times.
+- Irritability: Increased irritability and mood swings.
+- Photophobia: Sensitivity to light, which exacerbates his headache.
+- Phonophobia: Sensitivity to noise, which also worsens his headache.
+- Sleep Disturbances: Difficulty falling asleep and staying asleep, with intermittent awakenings. Review of Systems: - Neurological: As detailed above. No seizures, focal neurological deficits, or changes in vision noted.
+- Cardiovascular: No chest pain, palpitations, or shortness of breath.
+- Respiratory: No cough, wheezing, or difficulty breathing.
+- Gastrointestinal: Mild nausea as described, no vomiting, diarrhea, or abdominal pain.
+- Musculoskeletal: No specific complaints of pain or injury beyond the head region.
+- Psychiatric: Mild mood disturbances as described, no severe anxiety or depression noted. Past Medical History: - Medications: - Physical Examination: - Vital Signs: BP , HR , RR , Temp , Height , Weight .
+- Head: No visible signs of trauma, no lacerations or contusions.
+- Neurological Examination: - Alert and oriented to person, place, and time. - Cranial nerves II-XII intact. - Motor strength 5/5 in all extremities. - Sensation intact to light touch and pinprick. - Coordination normal, no ataxia. - Gait steady, no abnormalities. - Reflexes symmetric and within normal limits. Assessment: Concussion with no loss of consciousness, presenting with symptoms consistent with post-concussive syndrome. Plan: 1. Symptom Management: - Recommend rest and avoidance of strenuous activities. - Prescribe analgesics as needed for headache management (e.g., acetaminophen). - Encourage hydration and balanced nutrition.
+2. Monitoring: - Advise patient to monitor symptoms closely and report any worsening or new symptoms immediately. - Schedule follow-up appointment in 1-2 weeks to reassess symptoms and recovery progress.
+3. Education: - Provide patient with information on concussion management and expected recovery timeline. - Emphasize the importance of avoiding activities that could lead to further head injury.
+4. Referrals: - Consider referral to a neurologist if symptoms persist or worsen. - Suggest cognitive rehabilitation or occupational therapy if cognitive symptoms interfere with daily activities. Patient Instructions: - Rest and avoid activities that exacerbate symptoms.
+- Take prescribed medications as directed.
+- Follow up as scheduled or sooner if symptoms worsen. Provider Signature: Date: Note: This template should be adapted to fit the specific details and context of the patient's condition and the provider's practice. Always ensure accurate and comprehensive documentation.
+
+============================================================
+
+## Note 20 (undefined - b4d560e0-d794-a09b-733b-2434dcecb093)
+
+**Note ID:** b4d560e0-d794-a09b-733b-2434dcecb093
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2021-10-10T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 54 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: General health check-up and assessment of mental health. History of Present Illness: Mr. Kihn564 presented for a routine general examination. The patient reported no specific complaints but expressed concerns about his overall well-being and mental health status. He has not experienced any significant changes in his health recently. Review of Systems: - General: No fever, chills, or weight changes.
+- Cardiovascular: No chest pain, palpitations, or edema.
+- Respiratory: No cough, shortness of breath, or wheezing.
+- Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits.
+- Neurological: No headaches, dizziness, or changes in vision.
+- Psychiatric: Reports occasional feelings of anxiety and low mood, but no suicidal ideation or severe depressive symptoms. Past Medical History: - Hypertension
+- Hyperlipidemia Medications: - Lisinopril 20 mg daily
+- Simvastatin 20 mg daily Social History: - Non-smoker
+- Occasional alcohol use
+- Retired, lives with spouse Family History: - Father had myocardial infarction at age 65
+- Mother with type 2 diabetes and hypertension Physical Examination: - Vital Signs: BP 132/84 mmHg, HR 78 bpm, RR 16 breaths/min, Temp 98.6°F, Height 5'10", Weight 180 lbs
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.
+- Gastrointestinal: Soft, non-tender, no organomegaly.
+- Neurological: Alert and oriented x 3, cranial nerves II-XII intact, normal gait and coordination. Assessments: 1. General health assessment: Patient appears well-nourished and in no acute distress.
+2. Health and social care needs assessment: Patient has a good support system at home and access to necessary healthcare services.
+3. Anxiety and depression screening: Patient screened positive for mild anxiety and depressive symptoms. Procedures Performed: - Depression screening using the PHQ-9 questionnaire.
+- Anxiety assessment using the GAD-7 questionnaire. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. Plan: 1. Continue current medications for hypertension and hyperlipidemia.
+2. Monitor blood pressure and lipid levels at next visit.
+3. Refer to mental health services for further evaluation and management of anxiety and depressive symptoms.
+4. Encourage regular physical activity and a balanced diet.
+5. Schedule follow-up appointment in 3 months. Symptoms to Monitor: - Increased anxiety or depressive symptoms, including persistent sadness, loss of interest in activities, significant changes in appetite or sleep patterns, or any thoughts of self-harm.
+- Any new or worsening physical symptoms that may indicate underlying health issues. Patient Education: - Discussed the importance of mental health and the benefits of seeking professional help.
+- Provided information on lifestyle modifications to improve overall well-being.
+- Advised on potential side effects of the influenza vaccine, such as soreness at the injection site, low-grade fever, or mild body aches. Signature: Dictated By: ,
+
+============================================================
+
+## Note 21 (undefined - 7ef0655b-73af-c9cb-375a-e60675aec198)
+
+**Note ID:** 7ef0655b-73af-c9cb-375a-e60675aec198
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2022-09-24T11:54:01.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 55 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: Routine check-up for screening of malignant neoplasm of the colon. History of Present Illness: Mr. Kihn564 presents today for a routine screening colonoscopy. The patient reports no specific gastrointestinal symptoms at this time. He has no history of abdominal pain, changes in bowel habits, rectal bleeding, weight loss, or anemia. The patient is asymptomatic and undergoing this procedure as part of recommended preventive health measures due to his age. Past Medical History: - Hypertension (well-controlled on medication)
+- Hyperlipidemia (managed with diet and statin therapy)
+- No personal history of colorectal cancer or polyps
+- Family history: No first-degree relatives with colorectal cancer Medications: - Lisinopril 20 mg daily
+- Atorvastatin 20 mg daily
+- Aspirin 81 mg daily Social History: - Non-smoker
+- Occasional alcohol consumption
+- Employed as an office manager
+- No recent travel or exposure to infectious diseases Review of Systems: - General: No fever, chills, or night sweats
+- Cardiovascular: No chest pain or palpitations
+- Respiratory: No cough, shortness of breath, or wheezing
+- Gastrointestinal: No abdominal pain, nausea, vomiting, diarrhea, or constipation
+- Genitourinary: No dysuria or hematuria
+- Musculoskeletal: No joint pain or muscle weakness
+- Neurological: No headaches, dizziness, or changes in vision
+- Psychiatric: No anxiety, depression, or changes in mood Physical Examination: - Vital Signs: BP 130/80 mmHg, HR 72 bpm, RR 16 breaths/min, Temp 98.6°F, Height 5'10", Weight 180 lbs
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+- Abdomen: Soft, non-tender, no palpable masses, normal bowel sounds
+- Rectal: Normal tone, no masses, guaiac-negative stool Procedures Performed: - Colonoscopy: The procedure was performed under conscious sedation. The scope was advanced to the cecum with good visualization of the entire colon. No polyps or masses were identified. The bowel preparation was adequate. Assessment and Plan: 1. Screening for Malignant Neoplasm of Colon: - Assessment: Negative findings on colonoscopy. - Plan: Recommend follow-up colonoscopy in 10 years as per current guidelines, unless symptoms develop or there is a change in family history. 2. Routine Health Maintenance: - Continue current medications for hypertension and hyperlipidemia. - Encourage regular physical activity and a balanced diet. - Schedule annual physical examination. Symptoms to Monitor: - Abdominal pain
+- Changes in bowel habits (e.g., persistent diarrhea or constipation)
+- Rectal bleeding
+- Unexplained weight loss
+- Fatigue or anemia Patient Instructions: - If any of the above symptoms develop, contact the office for further evaluation.
+- Continue with routine health screenings as recommended. Follow-Up: - Return for annual physical examination.
+- Schedule next colonoscopy in 10 years. Provider: Dictated By: , Electronic Signature: Note: This medical note is a template and should be adjusted based on the specific details of the patient's encounter and the provider's findings.
+
+============================================================
+
+## Note 22 (undefined - 9453b7b5-fbcb-8f7d-fed4-62b7fac35c35)
+
+**Note ID:** 9453b7b5-fbcb-8f7d-fed4-62b7fac35c35
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2022-10-16T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 55 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: General examination and health assessment. History of Present Illness: Mr. Kihn564 presented for a routine general examination. The patient did not report any specific complaints or symptoms at this time. However, a comprehensive assessment was conducted to evaluate overall health and identify any potential underlying issues. Review of Systems: - General: No fever, chills, or weight loss.
+- Cardiovascular: No chest pain, palpitations, or edema.
+- Respiratory: No cough, shortness of breath, or wheezing.
+- Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits.
+- Neurological: No headaches, dizziness, or changes in vision.
+- Psychiatric: No reported symptoms of anxiety or depression. Past Medical History: - No significant past medical history reported. Social History: - Patient lives alone.
+- No history of smoking or alcohol use.
+- No known drug use. Family History: - Non-contributory. Medications: - No current medications. Allergies: - No known drug allergies. Procedures Performed: 1. Assessment of health and social care needs.
+2. Screening for domestic abuse: Negative.
+3. Depression screening: Negative.
+4. Assessment of substance use: Negative.
+5. Screening for drug abuse: Negative. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. Physical Examination: - Vital Signs: BP 120/80 mmHg, HR 72 bpm, RR 16 breaths/min, Temp 98.6°F.
+- General Appearance: Well-nourished, well-developed, alert, and oriented.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rhonchi, or rales.
+- Gastrointestinal: Soft, non-tender, no organomegaly.
+- Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Motor strength 5/5 in all extremities. Sensory examination normal. Assessment: 1. General good health with no acute concerns identified.
+2. Negative screenings for domestic abuse, depression, substance use, and drug abuse.
+3. Up-to-date with seasonal influenza vaccination. Plan: 1. Continue to monitor overall health and well-being.
+2. Encourage regular physical activity and a balanced diet.
+3. Schedule follow-up appointment in 6 months for routine check-up.
+4. Provide patient education on signs and symptoms that may warrant earlier medical evaluation, such as unexplained weight loss, persistent cough, changes in bowel habits, or mood disturbances. Symptoms to Monitor: - Unexplained weight loss or gain.
+- Persistent cough or shortness of breath.
+- Changes in bowel or bladder habits.
+- Mood changes, including feelings of sadness, hopelessness, or anxiety.
+- Any new or worsening symptoms. Provider's Signature: MD/DO Date:
+
+============================================================
+
+## Note 23 (undefined - 2c045298-4bc8-623b-d40f-02b83b452dc1)
+
+**Note ID:** 2c045298-4bc8-623b-d40f-02b83b452dc1
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2023-10-22T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Patient Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 56 years
+- Gender: Male
+- Ethnicity: White Date of Encounter: Reason for Visit: General examination Chief Complaint: Not specified History: - Patient reports no specific complaints at this time.
+- No significant changes in health status since last visit. Medication Reconciliation: - Reviewed current medications with the patient.
+- No changes made to the medication regimen at this time. Assessment of Health and Social Care Needs: - Patient's overall health appears stable.
+- No immediate concerns identified regarding social care needs. Screening for Domestic Abuse: - Negative screen for domestic abuse. Depression Screening: - Patient completed depression screening questionnaire.
+- Results indicate no signs of depression. Dental Care Referral: - Patient referred to dental care for routine dental procedures. Procedures Performed: - Medication reconciliation
+- Health and social care needs assessment
+- Screening for domestic abuse
+- Depression screening (x2)
+- Referral for dental care Immunizations Administered: - Influenza, seasonal, injectable, preservative-free Symptoms Monitoring: - Instructed patient to monitor for symptoms that may be caused by the administered immunization, such as: - Injection site pain, redness, or swelling - Low-grade fever - Muscle aches - Headache - Fatigue
+- Advised patient to contact the office if any of these symptoms persist or worsen. Plan: - Follow up as needed for any concerns.
+- Schedule routine follow-up appointment in 6 months.
+- Continue current medications unless otherwise directed.
+- Attend dental appointment as scheduled. Provider Signature: Additional Notes: - Patient appears to be in good spirits and cooperative.
+- No acute concerns identified during today's visit. Note: This template should be adapted to include any specific details relevant to the patient's medical history, current medications, and any additional findings or recommendations made during the encounter.
+
+============================================================
+
+## Note 24 (undefined - 52592e37-3ab0-d68b-fc5b-da3f368f096c)
+
+**Note ID:** 52592e37-3ab0-d68b-fc5b-da3f368f096c
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2023-11-05T10:20:24.984-05:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 56 years
+- Gender: Male
+- Race: White Date of Encounter: Reason for Visit: - Routine check-up for Gingivitis History of Present Illness: Mr. Kihn presents today for a routine dental check-up, specifically to address concerns related to gingivitis. The patient reports the following symptoms:
+- Gingival bleeding, particularly noticeable during brushing and flossing
+- Mild gingival swelling and redness
+- Occasional gingival tenderness
+- Persistent bad breath (halitosis) Dental Consultation and Report: The patient underwent a comprehensive dental consultation. The dental report indicates the presence of gingivitis, characterized by:
+- Gingival erythema and edema
+- Bleeding on probing
+- Presence of plaque and calculus both supragingivally and subgingivally Procedures Performed: 1. Dental Care (Regime/Therapy): - Detailed oral hygiene instructions provided, emphasizing proper brushing techniques and regular flossing. - Recommended use of an antiseptic mouthwash. 2. Removal of Supragingival Plaque and Calculus: - All teeth were scaled using dental instruments to remove supragingival plaque and calculus. 3. Removal of Subgingival Plaque and Calculus: - Subgingival scaling was performed to remove plaque and calculus from below the gum line. 4. Examination of Gingivae: - thorough examination of the gingival tissue to assess the extent of inflammation and bleeding. 5. Oral Health Education: - Educated the patient on the importance of maintaining good oral hygiene to prevent the progression of gingivitis to periodontitis. - Discussed the impact of smoking and diet on gingival health. Assessment: - Diagnosis: Gingivitis Plan: 1. Continue with improved oral hygiene practices as instructed.
+2. Schedule a follow-up appointment in 3 months to reassess gingival health.
+3. Recommend a dental cleaning every 6 months.
+4. Encourage the patient to quit smoking, if applicable, and to maintain a balanced diet. Patient Instructions: - Brush teeth at least twice daily with a soft-bristled toothbrush.
+- Floss daily to remove plaque between teeth.
+- Use an antiseptic mouthwash as directed.
+- Avoid smoking and maintain a healthy diet. Signature: Provider: Note: This medical note is a template and should be customized based on the specific details of the patient's encounter and the provider's preferences. Always ensure accuracy and completeness in documenting medical information.
+
+============================================================
+
+## Note 25 (undefined - a5a91c90-26ae-bb91-e5fe-9d8fa29517c6)
+
+**Note ID:** a5a91c90-26ae-bb91-e5fe-9d8fa29517c6
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Brendan864 Hintz995
+**Date:** 2024-10-27T11:20:24.984-04:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 57 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: General examination and comprehensive health assessment. History of Present Illness: Mr. Kihn564 presented for a routine general examination. The patient did not report any specific complaints at this time. However, a thorough assessment was conducted to evaluate various aspects of his health and well-being. Assessments Performed: 1. Health and Social Care Needs Assessment: - Evaluated the patient's overall health status and identified any social determinants that may impact his health. 2. Assessment of Anxiety: - Screened for symptoms of anxiety using standardized tools. Patient denied any significant anxiety symptoms. 3. Screening for Domestic Abuse: - Conducted a routine screening for any signs of domestic abuse. Patient denied any history or current experiences of abuse. 4. Assessment of Substance Use: - Evaluated the patient's history and current use of substances, including alcohol, tobacco, and other drugs. Patient reported occasional alcohol use but denied any substance abuse issues. 5. Screening for Drug Abuse: - Performed a detailed screening for drug abuse. No signs or symptoms of drug abuse were identified. 6. Referral for Dental Care: - Identified the need for dental evaluation and referred the patient for dental care procedures. Procedures Performed: - Administered the following immunization: - Influenza, seasonal, injectable, preservative-free. Symptoms That May Be Caused by : - While the patient did not report any specific symptoms today, it is important to remain vigilant for potential symptoms that may arise and could be indicative of underlying conditions. These may include: - General malaise or fatigue. - Changes in appetite or weight. - Sleep disturbances. - Mood changes or increased anxiety. - Unexplained pain or discomfort. Physical Examination: - Vital Signs: Stable and within normal limits.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear breath sounds bilaterally.
+- Gastrointestinal: Abdomen soft, non-tender, no organomegaly.
+- Musculoskeletal: Full range of motion, no joint swelling or tenderness.
+- Neurological: Alert and oriented, cranial nerves intact, no focal deficits. Plan: 1. Continue routine monitoring of overall health.
+2. Follow up on dental referral and ensure necessary dental procedures are completed.
+3. Maintain current immunization schedule.
+4. Reassess anxiety and substance use at next visit.
+5. Educate patient on recognizing potential symptoms of underlying conditions and encourage prompt reporting. Patient Education: - Discussed the importance of regular health screenings and follow-up care.
+- Provided information on recognizing and managing anxiety symptoms.
+- Emphasized the need for timely dental care. Next Appointment: - Scheduled for a follow-up visit in 6 months or sooner if any concerns arise. Provider's Signature: Date: Note: This medical note is a summary of the patient's encounter and should be reviewed in conjunction with the patient's complete medical record for a comprehensive understanding of his health status.
+
+============================================================
+
+## Note 26 (undefined - 4c89d024-936b-f353-4c05-b680c8ac48d4)
+
+**Note ID:** 4c89d024-936b-f353-4c05-b680c8ac48d4
+**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2024-11-10T10:20:24.984-05:00
+**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
+- Age: 57 years
+- Gender: Male
+- Race: White Date of Encounter: Chief Complaint: Patient referred for dental care and routine check-up. History of Present Illness: Patient presents for a dental consultation as part of a routine check-up. No specific complaints reported at this time. However, patient may experience symptoms such as gingival pain, bleeding gums, tooth sensitivity, or bad breath, which could be related to underlying dental issues. Physical Examination: - Oral Examination: - Gingivae: Examined and found to be . - Teeth: Presence of supragingival and subgingival plaque and calculus noted. Procedures Performed: 1. Dental consultation and report.
+2. Dental care regime/therapy.
+3. Removal of supragingival plaque and calculus from all teeth using dental instruments.
+4. Removal of subgingival plaque and calculus from all teeth using dental instruments.
+5. Examination of gingivae.
+6. Dental fluoride treatment.
+7. Oral health education procedure(s). Medications Prescribed: - Sodium Fluoride 0.0272 MG/MG Oral Gel Instructions for Sodium Fluoride 0.0272 MG/MG Oral Gel: 1. Dosage: Apply a small amount of the gel to a toothbrush or directly to the teeth as directed by the dentist.
+2. Frequency: Typically, use once daily, preferably at bedtime, unless otherwise instructed.
+3. Application: Brush thoroughly for at least 1 minute, ensuring coverage of all tooth surfaces.
+4. After Use: Spit out the excess gel. Do not rinse mouth, eat, or drink for at least 30 minutes after application to allow maximum absorption.
+5. Precautions: Avoid swallowing the gel. If swallowed, contact the dentist or healthcare provider immediately.
+6. Duration: Continue use as part of your dental care regimen or as advised by your dentist. Patient Education: - Emphasized the importance of maintaining good oral hygiene practices.
+- Discussed the benefits of regular dental check-ups and fluoride treatments in preventing dental caries and maintaining oral health.
+- Provided information on proper brushing and flossing techniques. Plan: - Follow-up dental appointment scheduled in 6 months.
+- Continue with prescribed fluoride treatment and oral hygiene practices.
+- Monitor for any adverse reactions to the fluoride gel and report to the dentist if any occur. Signature: Dentist's Signature: Note: This medical note is a template and should be adjusted based on the specific findings and instructions provided by the treating dentist. Always ensure accuracy and completeness in documenting patient encounters.
+
+============================================================
+

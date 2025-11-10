@@ -76,64 +76,72 @@ export function HealthSummaryCard({ fhirData }: HealthSummaryCardProps) {
         <CardTitle>Health Summary</CardTitle>
       </CardHeader>
       <CardContent>
-        <div className="space-y-3">
-          {summary.age !== null && (
-            <div className="flex items-center justify-between">
-              <span className="font-medium">Age:</span>
-              <span>{summary.age} years</span>
+        <div className="space-y-4">
+          {/* 3-column grid for Height/Weight/BMI */}
+          {(summary.height || summary.weight || summary.bmi) && (
+            <div className="grid grid-cols-3 gap-4">
+              {summary.height && (
+                <div className="text-center p-3 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                  <div className="text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-1">Height</div>
+                  <div className="font-semibold text-gray-900 dark:text-white">{summary.height}</div>
+                </div>
+              )}
+
+              {summary.weight && (
+                <div className="text-center p-3 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                  <div className="text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-1">Weight</div>
+                  <div className="font-semibold text-gray-900 dark:text-white">{summary.weight}</div>
+                </div>
+              )}
+
+              {summary.bmi && (
+                <div className="text-center p-3 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                  <div className="text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-1">BMI</div>
+                  <div className="flex flex-col items-center">
+                    <span className="font-semibold text-gray-900 dark:text-white">{summary.bmi}</span>
+                    <Badge variant={
+                      parseFloat(summary.bmi) < 18.5 ? 'secondary' :
+                      parseFloat(summary.bmi) < 25 ? 'default' :
+                      parseFloat(summary.bmi) < 30 ? 'destructive' : 'destructive'
+                    } className="mt-1 text-xs">
+                      {parseFloat(summary.bmi) < 18.5 ? 'Underweight' :
+                       parseFloat(summary.bmi) < 25 ? 'Normal' :
+                       parseFloat(summary.bmi) < 30 ? 'Overweight' : 'Obese'}
+                    </Badge>
+                  </div>
+                </div>
+              )}
             </div>
           )}
 
-          {summary.height && (
-            <div className="flex items-center justify-between">
-              <span className="font-medium">Height:</span>
-              <span>{summary.height}</span>
-            </div>
-          )}
-
-          {summary.weight && (
-            <div className="flex items-center justify-between">
-              <span className="font-medium">Weight:</span>
-              <span>{summary.weight}</span>
-            </div>
-          )}
-
-          {summary.bmi && (
-            <div className="flex items-center justify-between">
-              <span className="font-medium">BMI:</span>
-              <div className="flex items-center gap-2">
-                <span>{summary.bmi}</span>
-                <Badge variant={
-                  parseFloat(summary.bmi) < 18.5 ? 'secondary' :
-                  parseFloat(summary.bmi) < 25 ? 'default' :
-                  parseFloat(summary.bmi) < 30 ? 'destructive' : 'destructive'
-                }>
-                  {parseFloat(summary.bmi) < 18.5 ? 'Underweight' :
-                   parseFloat(summary.bmi) < 25 ? 'Normal' :
-                   parseFloat(summary.bmi) < 30 ? 'Overweight' : 'Obese'}
-                </Badge>
+          {/* Other health metrics */}
+          <div className="space-y-2">
+            {summary.age !== null && (
+              <div className="flex items-center justify-between p-2">
+                <span className="text-sm text-gray-600 dark:text-gray-400">Age:</span>
+                <span className="font-medium">{summary.age} years</span>
               </div>
-            </div>
-          )}
+            )}
 
-          {summary.lastVisit && (
-            <div className="flex items-center justify-between">
-              <span className="font-medium">Last Visit:</span>
-              <span>
-                {(() => {
-                  try {
-                    const date = new Date(summary.lastVisit);
-                    return isNaN(date.getTime()) ? 'Invalid date' : date.toLocaleDateString();
-                  } catch {
-                    return 'Invalid date';
-                  }
-                })()}
-              </span>
-            </div>
-          )}
+            {summary.lastVisit && (
+              <div className="flex items-center justify-between p-2">
+                <span className="text-sm text-gray-600 dark:text-gray-400">Last Visit:</span>
+                <span className="font-medium">
+                  {(() => {
+                    try {
+                      const date = new Date(summary.lastVisit);
+                      return isNaN(date.getTime()) ? 'Invalid date' : date.toLocaleDateString();
+                    } catch {
+                      return 'Invalid date';
+                    }
+                  })()}
+                </span>
+              </div>
+            )}
+          </div>
 
           {!summary.age && !summary.height && !summary.weight && !summary.lastVisit && (
-            <p className="text-sm text-muted-foreground">No health metrics available</p>
+            <p className="text-sm text-muted-foreground text-center py-4">No health metrics available</p>
           )}
         </div>
       </CardContent>

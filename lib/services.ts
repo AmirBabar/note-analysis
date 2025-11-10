@@ -50,9 +50,29 @@ export const apiService = {
   },
 
   /**
-   * Analyze FHIR data using Z.ai API
+   * Analyze FHIR data using enhanced RAG system with vector database
    */
-  async analyzeNote(fhirData: any, fileName: string): Promise<AnalyzeNoteResponse> {
+  async analyzeNote(fhirData: any, fileName: string, useRAG: boolean = true): Promise<AnalyzeNoteResponse> {
+    // Use enhanced RAG analysis if requested
+    if (useRAG) {
+      const response = await fetch("/api/enhanced-analysis", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ fhirData, fileName, includeVectorSearch: true }),
+      });
+
+      if (!response.ok) {
+        console.warn('Enhanced analysis failed, falling back to basic analysis');
+        // Fallback to basic analysis if enhanced fails
+        return this.analyzeNote(fhirData, fileName, false);
+      }
+
+      return response.json();
+    }
+
+    // Basic analysis fallback
     const response = await fetch("/api/analyze-note", {
       method: "POST",
       headers: {

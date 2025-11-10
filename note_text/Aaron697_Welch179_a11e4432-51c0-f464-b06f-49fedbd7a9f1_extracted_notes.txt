@@ -1,0 +1,499 @@
+# Clinical Notes from Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+## Note 1 (undefined - f68404a5-b525-c2c8-dd9b-bd14a891528b)
+
+**Note ID:** f68404a5-b525-c2c8-dd9b-bd14a891528b
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 1978-06-19T11:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 11 years - Sex: Male - Race: White Reason for Encounter: Symptom evaluation for suspected Sinusitis. History of Present Illness: The patient presents today with symptoms concerning for sinusitis. The patient reports the following: - Nasal congestion: Reports feeling stuffy and having difficulty breathing through the nose. - Facial pain/pressure: Describes pain or pressure localized to the cheeks, forehead, or around the eyes. - Thick nasal discharge: Reports discolored (yellow or green) mucus drainage from the nose. - Decreased sense of smell: Notes that his ability to smell is diminished. - Headache: Reports frontal or sinus-related headaches, possibly worsening when bending forward. - Fatigue: Expresses feeling tired or unwell. - Cough: May have a persistent cough, possibly worse at night. - Sore throat: Reports throat irritation, possibly from post-nasal drip. - Fever: May or may not have low-grade fever (document if present). Duration of Past Medical Review of Systems: - Constitutional: (Fever, fatigue noted above). - HEENT: (Nasal congestion, facial pain, discharge, decreased smell, headache). - Respiratory: (Cough, possible wheezing if asthma present). - Gastrointestinal: (Nausea or vomiting if post-nasal drip is severe). Physical Examination: - Vitals: (Document temperature, HR, RR, BP, O2 saturation). - HEENT: - Nasal mucosa: Inspected for erythema, edema, or discharge. - Sinus tenderness: Palpation of maxillary and frontal sinuses for tenderness. - Oropharynx: Inspected for erythema, post-nasal drip, or tonsillar enlargement. - Respiratory: Clear to auscultation bilaterally (if cough is present). Assessment: - Suspected acute sinusitis, likely viral or bacterial in etiology. - Rule out complications (e.g., orbital cellulitis, meningitis) if symptoms are severe or atypical. Plan: 1. Diagnostic Testing (if indicated): - Consider rapid strep test if sore throat is prominent. - Consider imaging (e.g., sinus X-ray or CT) if symptoms are prolonged or recurrent. 2. Treatment: - Symptomatic relief: - Saline nasal rinses. - Acetaminophen or ibuprofen for pain/fever. - Nasal decongestant (e.g., oxymetazoline, short-term use only). - Antibiotics: Consider if symptoms persist >7–10 days or if high suspicion for bacterial infection (e.g., amoxicillin-clavulanate). 3. Follow-Up: - Re-evaluate in 2–3 days if no improvement. - Refer to ENT if recurrent or chronic sinusitis suspected. 4. Patient Education: - Encourage hydration and rest. - Advise avoiding smoking exposure. - Discuss signs of worsening (e.g., high fever, vision changes, severe headache). Signature:
+
+============================================================
+
+## Note 2 (undefined - a4a7ae5b-fbd0-4b87-1219-a6b8dec75966)
+
+**Note ID:** a4a7ae5b-fbd0-4b87-1219-a6b8dec75966
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 1985-08-10T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron Pierre Welch - Age: 18 years - Sex: Male - Race: White Reason for Visit: General examination (no specific complaint reported). History of Present Illness (HPI): The patient is an 18-year-old male presenting for a general examination. He reports no acute or chronic symptoms at this time. However, during the review of systems, the following potential symptoms were inquired about, as they may arise from underlying conditions or lifestyle factors: - Fatigue: No reported persistent tiredness or lethargy. - Headache: No recent or recurrent headaches. - Dizziness or lightheadedness: None reported. - Chest pain or discomfort: No symptoms suggestive of cardiac or pulmonary issues. - Shortness of breath: No dyspnea on exertion or at rest. - Abdominal pain or gastrointestinal distress: No nausea, vomiting, diarrhea, or constipation. - Fever or chills: No recent infectious symptoms. - Musculoskeletal pain: No joint or muscle pain reported. - Changes in weight or appetite: No unintended weight loss or gain, and appetite is reportedly normal. - Sleep disturbances: No insomnia or hypersomnia noted. - Mood or cognitive changes: No symptoms of depression, anxiety, or cognitive impairment. Review of Systems: - Constitutional: No fever, chills, or night sweats. - Eyes: No vision changes, photophobia, or eye pain. - Ears, Nose, Throat: No ear pain, hearing loss, nasal congestion, sore throat, or hoarseness. - Cardiovascular: No palpitations, edema, or orthostatic symptoms. - Respiratory: No cough, sputum production, or wheezing. - Gastrointestinal: No dyspepsia, reflux, or changes in bowel habits. - Genitourinary: No dysuria, hematuria, or urinary frequency. - Musculoskeletal: No joint swelling, stiffness, or limitation of movement. - Skin: No rashes, itching, or changes in skin integrity. - Neurological: No numbness, tingling, or weakness. - Psychiatric: No reported stress, anxiety, or mood disturbances. Physical Examination: - Vital Signs: - Blood pressure: 120/80 mmHg - Heart rate: 72 bpm - Respiratory rate: 16 breaths/min - Temperature: 98.6°F (37°C) - Oxygen saturation: 98% on room air - General: Well-appearing, alert, and oriented ×3. - HEENT: Pupils equal, round, and reactive to light. Ears, nose, and throat appear normal. - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. - Pulmonary: Clear breath sounds bilaterally, no wheezes or crackles. - Abdominal: Soft, non-tender, and non-distended with normal bowel sounds. - Musculoskeletal: Full range of motion in all extremities, no tenderness or deformities. - Neurological: Cranial nerves intact, motor strength 5/5 bilaterally, sensation intact. - Skin: No rashes, lesions, or abnormal findings. Assessment: - The patient is a healthy 18-year-old male with no acute or chronic complaints. - No concerning symptoms were elicited during the review of systems. - Physical examination findings are within normal limits. Plan: 1. Education: Provide anticipatory guidance regarding healthy lifestyle choices, including nutrition, exercise, and avoidance of risky behaviors (e.g., smoking, substance use). 2. Screening: Consider age-appropriate screenings (e.g., blood pressure, cholesterol, depression screening if indicated). 3. Follow-Up: Schedule routine follow-up as needed or if new symptoms develop. 4. Referral: None indicated at this time. Provider Signature:
+
+============================================================
+
+## Note 3 (undefined - 82e5b16e-6b72-da63-465d-4ccae98a1321)
+
+**Note ID:** 82e5b16e-6b72-da63-465d-4ccae98a1321
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 1989-08-19T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 22 - Sex: Male - Race: White Reason for Encounter: General examination. History of Present Illness (HPI): The patient is a 22-year-old white male presenting for a general examination. He reports no specific complaints at this time. However, the following symptoms may be relevant to assess due to potential underlying causes: - Fatigue or malaise: May indicate anemia, thyroid dysfunction, or chronic infection. - Headache: Could suggest tension, migraine, or systemic illness. - Dizziness or lightheadedness: May be due to dehydration, orthostatic hypotension, or cardiac issues. - Abdominal pain or discomfort: Could be related to gastrointestinal issues (e.g., gastritis, irritable bowel syndrome) or other systemic conditions. - Musculoskeletal pain: May indicate overuse, arthritis, or referred pain. - Changes in weight or appetite: Could suggest metabolic, endocrine, or psychological factors. Review of Systems (ROS): - Constitutional: Denies fever, chills, night sweats. - HEENT: Denies vision changes, ear pain, sore throat, nasal congestion. - Cardiovascular: Denies chest pain, palpitations, shortness of breath. - Respiratory: Denies cough, wheezing, dyspnea. - Gastrointestinal: Denies nausea, vomiting, diarrhea, constipation. - Genitourinary: Denies dysuria, hematuria, frequency. - Musculoskeletal: Denies joint swelling, stiffness. - Neurological: Denies numbness, tingling, weakness. - Skin: Denies rashes, itching. - Psychiatric: Denies anxiety, depression, sleep disturbances. Physical Examination: - Vital Signs: BP 120/80 mmHg, HR 72 bpm, RR 16/min, Temp 98.6°F, SpO2 98% on room air. - General: Well-appearing, alert, and oriented. - HEENT: Pupils equal, round, reactive to light. No oropharyngeal abnormalities. - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. - Lungs: Clear to auscultation bilaterally. - Abdomen: Soft, non-tender, no hepatosplenomegaly. - Musculoskeletal: Full range of motion, no tenderness or swelling. - Neurological: Grossly intact motor and sensory function. Assessment and Plan: - Assessment: General examination with no acute findings. - Plan: - Continue monitoring for any new or worsening symptoms. - Educate patient on maintaining a healthy lifestyle (diet, exercise, hydration). - Schedule follow-up in 6 months or sooner if symptoms develop. - No further diagnostic testing indicated at this time. Provider Signature: ,
+
+============================================================
+
+## Note 4 (undefined - dadbccb8-05dc-e49e-19e7-6816e798b24d)
+
+**Note ID:** dadbccb8-05dc-e49e-19e7-6816e798b24d
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 1989-08-26T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Encounter Note Patient: Aaron697 Pierre431 Welch179, 22-year-old white male Date of Encounter: Reason for Visit: Evaluation and management of Anemia Subjective: The patient presents with symptoms consistent with anemia, including: - Fatigue and generalized weakness - Pallor (pale skin) noted upon examination - Shortness of breath with minimal exertion - Dizziness or lightheadedness - Possible paresthesia (numbness/tingling) in hands or feet (common with Vitamin B12 deficiency) The patient reports no recent blood loss, significant dietary changes, or family history of anemia. Objective: - Vital signs: - Physical exam: Mild pallor noted in conjunctiva and palms. No signs of bleeding or significant organomegaly. - Assessment: Anemia, likely due to Vitamin B12 deficiency, given the patient’s symptoms and lab findings. Plan: 1. Pharmacotherapy: Prescribe Vitamin B12 5 MG/ML Injectable Solution for parenteral administration. - Instructions for administration: - The solution should be administered intramuscularly (IM) or subcutaneously (SC) as directed by the prescribing physician. - The typical initial dose is 1 mL (5 mg) , given once weekly for several weeks, then adjusted based on response. - The patient or caregiver should be trained on proper injection technique by a healthcare professional. - Store the solution in a cool, dark place; do not freeze. - Rotate injection sites (e.g., deltoid, gluteal, or abdominal) to prevent lipohypertrophy. - The patient should monitor for any signs of allergic reaction (e.g., rash, itching, swelling) or adverse effects (e.g., injection site pain, headache). 2. Follow-up: Schedule a follow-up appointment in 4 weeks to assess symptom improvement and repeat labs if necessary. 3. Dietary counseling: Encourage a diet rich in Vitamin B12 sources (e.g., meat, fish, dairy) if appropriate, unless contraindicated. Patient Education: - Emphasize the importance of completing the prescribed course of Vitamin B12 injections. - Advise the patient to report worsening symptoms or new concerns (e.g., chest pain, severe dizziness) immediately. Provider Signature:
+
+============================================================
+
+## Note 5 (undefined - 281c937e-da0c-453b-970f-ff0e9cf35cf3)
+
+**Note ID:** 281c937e-da0c-453b-970f-ff0e9cf35cf3
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2007-06-23T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Subjective: The patient is a 40-year-old white male presenting for a general examination. The patient reports no specific complaints at this time, stating that he is here for a routine check-up. He denies any recent symptoms such as fever, chills, cough, shortness of breath, chest pain, or changes in bowel or bladder habits. He reports no recent injuries or accidents. The patient denies any new medications or recent changes in his medical regimen. He reports no known allergies and no recent travel history. He denies any recent sick contacts or exposure to infectious diseases. The patient reports maintaining a generally healthy lifestyle, including regular exercise and a balanced diet. He denies any smoking, alcohol, or illicit drug use. Objective: Vital Signs: BP 120/80, HR 72, RR 16, Temp 98.6°F, O2 Sat 98% on room air. General: The patient appears well-nourished, well-developed, and in no acute distress. HEENT: PERRLA, EOMI. Conjunctiva and sclera are clear. Nasal mucosa is pink and clear. Oropharynx is without erythema, exudate, or swelling. Neck: Supple without lymphadenopathy or thyromegaly. Trachea is midline. Lungs: Clear to auscultation bilaterally without wheezes, crackles, or rhonchi. Heart: Regular rate and rhythm without murmurs, gallops, or rubs. Abdomen: Soft, non-tender, and non-distended with normoactive bowel sounds. No hepatosplenomegaly appreciated. Extremities: No edema, cyanosis, or clubbing noted. Skin: No rashes, lesions, or abnormalities noted. Assessment: 1. 40-year-old white male presenting for a general examination. No acute or concerning findings noted on review of systems or physical examination. 2. The patient is otherwise healthy with no significant medical history reported. Plan: 1. Continue routine health maintenance, including annual physical examinations. 2. Encourage the patient to maintain a healthy lifestyle, including regular exercise and a balanced diet. 3. No further interventions or referrals are indicated at this time. 4. Schedule follow-up appointment in 1 year for routine check-up. Note: The note does not include symptoms caused by a specific condition, as the patient presented without any complaints. If a specific condition or symptomology was intended to be addressed, additional information would be required to tailor the assessment and plan accordingly.
+
+============================================================
+
+## Note 6 (undefined - 8d473245-d808-51ab-5b76-a323bedf7131)
+
+**Note ID:** 8d473245-d808-51ab-5b76-a323bedf7131
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2009-06-27T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Subject: General Examination of Patient for Unspecified Reason Patient Information:
+- Name: Aaron697 Pierre431 Welch179
+- Age: 42 years
+- Gender: Male
+- Race: White Reason for Encounter:
+The patient, a 42-year-old white male, presented for a general examination. The specific reason for the examination is unspecified at this time. History of Present Illness:
+The patient's history of present illness is unclear due to the lack of specific symptoms or complaints provided. However, it is important to consider potential symptoms that may arise from unspecified causes. These could include: 1. Fatigue: The patient may report feelings of tiredness or lack of energy, which could be indicative of various underlying conditions such as anemia, thyroid dysfunction, or chronic fatigue syndrome. 2. Abdominal Pain: The patient may complain of discomfort or pain in the abdominal region. This could be suggestive of gastrointestinal issues such as gastritis, peptic ulcers, or gallbladder disease. 3. Shortness of Breath: The patient may report difficulty breathing or experiencing a sensation of breathlessness. This symptom could be associated with respiratory conditions like asthma, chronic obstructive pulmonary disease (COPD), or cardiac issues. 4. Joint Pain: The patient may describe pain, swelling, or stiffness in the joints. This could be indicative of conditions such as arthritis, gout, or autoimmune disorders. 5. Headache: The patient may complain of recurrent or persistent headaches. These could range from tension headaches to migraines or even more serious conditions like meningitis or brain tumors. 6. Changes in Urination: The patient may report changes in urinary frequency, urgency, or the presence of blood in the urine. These symptoms could be related to urinary tract infections, kidney stones, or urinary tract abnormalities. 7. Skin Rash: The patient may present with a rash or skin lesions of unknown origin. This could be indicative of allergic reactions, infections, or underlying dermatological conditions. 8. Weight Changes: The patient may report unexplained weight loss or gain. This could be associated with various conditions such as hyperthyroidism, depression, or certain malignancies. 9. Cognitive or Mood Changes: The patient may describe changes in memory, concentration, or mood. These symptoms could be linked to neurological disorders, mental health conditions, or medication side effects. 10. Chest Pain: The patient may complain of chest discomfort or pain, which could be related to cardiac issues, musculoskeletal problems, or gastrointestinal conditions. Physical Examination:
+A comprehensive physical examination was performed, including vital signs assessment, inspection of the skin, palpation of the abdomen, auscultation of the heart and lungs, and examination of the joints. However, specific findings are not documented due to the lack of patient-reported symptoms. Further Evaluation:
+Given the lack of specific symptoms or complaints, further evaluation may not be immediately necessary. However, if the patient develops any new or concerning symptoms, it is recommended to seek medical attention promptly. Conclusion:
+This medical note serves as a general examination documentation for the 42-year-old white male patient. It is important to note that without specific symptoms or complaints, it is challenging to provide a definitive diagnosis or treatment plan. Close monitoring of the patient's health status and prompt evaluation of any new symptoms are advised.
+
+============================================================
+
+## Note 7 (undefined - 454cfe17-97c2-38c0-fe49-2c85134927f6)
+
+**Note ID:** 454cfe17-97c2-38c0-fe49-2c85134927f6
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2011-07-02T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Subjective: The patient is a 44-year-old white male presenting for a general examination. The patient reports no specific complaints at this time, stating that he is here for a routine check-up. He denies any current symptoms such as fever, chills, cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, or changes in bowel or bladder habits. He also denies any recent injuries, rashes, or unexplained weight changes. Objective: VS: BP 120/80, HR 72, RR 16, O2 Sat 98% on room air, Temp 98.6°F. HEENT: PERRLA, EOMI, sclerae anicteric, mucous membranes moist, nares patent without discharge or congestion. Neck: Supple, no lymphadenopathy, no thyroid abnormalities. Lungs: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Heart: Regular rate and rhythm, no murmurs, rubs, or gallops. Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds, no hepatosplenomegaly. Extremities: No edema, no cyanosis or clubbing. Neurological: Alert and oriented ×3, cranial nerves II-XII intact, motor strength 5/5 in all extremities, sensation intact. Assessment: 1. General examination: Patient appears well-nourished, well-developed, and in no acute distress. 2. No acute pathology identified. Plan: 1. Continue routine health maintenance, including annual physical examinations. 2. Counsel patient on lifestyle modifications as appropriate (e.g., diet, exercise, smoking cessation if applicable). 3. Screen for age-appropriate preventive measures (e.g., colorectal cancer screening, vaccinations). 4. Schedule follow-up as needed. Note: No specific symptoms were reported by the patient during this encounter. If any new symptoms arise, further evaluation may be warranted.
+
+============================================================
+
+## Note 8 (undefined - d077e92b-610d-5a66-93ef-8487df249324)
+
+**Note ID:** d077e92b-610d-5a66-93ef-8487df249324
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2013-07-06T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Okay, here is a medical note for the described encounter. Please note that since the specific reason for the visit ("for .") and the potential cause of symptoms ("caused by .") are missing, I have used placeholders and included common symptoms and considerations for a general examination in a 46-year-old male. PATIENT MEDICAL NOTE Patient Information: Name: Aaron697 Pierre431 Welch179 Age: 46 years Sex: Male Race: White Reason for Visit: General examination of patient for . Chief Complaint: Patient presents for a general examination . History of Present Illness: Patient is a 46-year-old white male here for a general examination. He reports feeling generally . He denies any specific acute complaints that prompted this visit, but mentions general interest in . Patient is currently employed as and lives a lifestyle. He reports no known recent exposures or specific concerns related to . Consider asking about any vague or non-specific symptoms common at this age, such as fatigue, changes in sleep, stress levels, minor aches/pains, bowel/bladder habits, etc. Review of Systems: Constitutional: Denies fever, chills, weight loss, night sweats. Cardiovascular: Denies chest pain, palpitations, dyspnea on exertion, edema. Respiratory: Denies cough, shortness of breath, wheezing, sputum production. Gastrointestinal: Denies nausea, vomiting, abdominal pain, change in bowel habits, hematochezia, melena. Denies dysphagia, heartburn. Genitourinary: Denies dysuria, hematuria, frequency, urgency, incontinence, testicular pain. Musculoskeletal: Denies joint pain, swelling, stiffness, muscle weakness, back pain (Specify if acute or chronic). Neurological: Denies headache, dizziness, syncope, numbness, tingling, weakness, seizure activity. Skin: Denies rash, itching, changes in moles. Psychiatric: Denies anxiety, depression, suicidal ideation. Reports . Endocrine: Denies polyuria, polydipsia, heat/cold intolerance, changes in energy level (though could be vague). Hematologic/Lymphatic: Denies easy bruising, bleeding, splenomegaly, lymphadenopathy. Allergic/Immunologic: Denies known allergies to medications, food, or environmental factors. Ophthalmologic: Denies visual changes, eye pain, photophobia. Last eye exam approximately . Otolaryngologic: Denies sore throat, ear pain, hearing changes, nasal congestion, sinus pain. (Add any other relevant systems based on the patient's history or specific concerns related to the potential cause - e.g., if concerned about stress, probe deeper into mental health/psychological symptoms. If concerned about diet, probe GI symptoms more deeply). Past Medical History: Example if related to potential cause: Patient reports a history of which he states may be related to . Past Surgical History: Medications: Note any medications related to potential cause. Allergies: Social History: Patient is a year-old white male. Denies tobacco use. Denies illicit drug use. Reports consuming alcoholic beverages per week (e.g., 1-2 beers on weekends). Lives with . Diet: Reports . Stress level: Reports . Consider linking social factors to potential cause if relevant (e.g., diet to metabolic issues, stress to cardiovascular risk, occupation to ergonomic concerns). Family History: Personal/Social History: (See Social History above) Immunization History: Physical Examination: VS: T , P , R , BP , SpO2 %, . General: Appears well-nourished, well-developed, alert, and oriented x3. Appears appropriate for stated age. HEENT: PERRLA, DTR x6. EOMI. Conjunctiva pink. Pupils equal, round, reactive to light and accommodation. External nares patent. TMs intact, mobile, landmarks clear bilaterally. Oral mucosa moist, posterior pharynx clear. Neck: Supple. Trachea midline. No JVD. No thyromegaly or lymphadenopathy. Lungs: Clear to auscultation bilaterally, without wheezes, rales, or rhonchi. CV: Regular rate and rhythm, S1, S2 heard, no murmurs, gallops, or rubs appreciated. Abdomen: Soft, non-tender, non-distended. Bowel sounds present x4 quadrants. No organomegaly. Back: Spine straight, without tenderness to palpation. No point tenderness over spinous processes. Extremities: No edema. Capillary refill <2 seconds bilaterally. Pulses 2+ bilaterally. Neurological: Grossly intact cranial nerves II-XII. Motor strength 5/5 bilaterally. Sensation intact to light touch bilaterally. DTRs 2+ symmetrically. Gait steady if assessed. Skin: Normal turgor. No rashes, lesions, or significant abnormalities noted. (Add focused exam findings related to potential cause if indicated - e.g., detailed cardiac exam if risk factors for cardiovascular disease, detailed abdominal exam if GI symptoms, detailed neurological exam if neurological symptoms). Assessment: 1. 46-year-old white male presenting for general examination . Overall, the patient appears well on initial assessment.
+2. .
+3. could potentially contribute to future health risks.] Plan: 1. Education: Reviewed importance of . Discussed findings and addressed patient questions regarding .
+2. Screening Labs: Ordered . Consider labs relevant to potential cause if indicated. 3. Immunizations: Updated . Scheduled appointment for .
+4. Follow-up: Advised patient to follow up in for routine check-up. Advised return sooner if any new or concerning symptoms develop, particularly .
+5. Referrals: None indicated at this time.
+6. Signature:
+
+============================================================
+
+## Note 9 (undefined - 8e7d64a0-4013-5867-51f4-fffcbe2a9125)
+
+**Note ID:** 8e7d64a0-4013-5867-51f4-fffcbe2a9125
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2015-07-11T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 48 - Sex: Male - Race: White Reason for Encounter: General examination. History of Present Illness: The patient is a 48-year-old male presenting for a general examination. No specific complaints were reported, but a thorough evaluation was conducted to assess for potential symptoms that may arise from underlying conditions. Review of Systems: - Cardiovascular: No reported chest pain, palpitations, or dyspnea. - Respiratory: No reported cough, shortness of breath, or wheezing. - Gastrointestinal: No reported abdominal pain, nausea, vomiting, or changes in bowel habits. - Musculoskeletal: No reported joint pain, swelling, or limitations in mobility. - Neurological: No reported headaches, dizziness, or neurological deficits. - Genitourinary: No reported dysuria, hematuria, or changes in urinary frequency. - Endocrine: No reported changes in weight, fatigue, or symptoms of hypo/hyperthyroidism. - Skin: No reported rashes, itching, or lesions. - Psychiatric: No reported anxiety, depression, or mood changes. Potential Symptoms to Monitor (Based on General Health Assessment): - Fatigue: May indicate anemia, thyroid dysfunction, or other systemic illness. - Unexplained Weight Loss: Could suggest malignancy, hyperthyroidism, or chronic infection. - Joint Pain/Swelling: May point to inflammatory arthritis or autoimmune conditions. - Shortness of Breath: Could indicate cardiac or pulmonary pathology. - Cognitive Changes: May suggest neurodegenerative disorders or metabolic disturbances. Physical Examination: - Vitals: Temperature: 98.6°F, BP: 120/80 mmHg, HR: 72 bpm, RR: 16/min, O2 Sat: 98% on room air. - General: Well-appearing, alert, and oriented to person, place, and time. - Cardiovascular: Regular rate and rhythm, normal S1/S2, no murmurs, gallops, or rubs. - Respiratory: Clear to auscultation bilaterally, no wheezes or crackles. - Abdominal: Soft, non-tender, non-distended, normal bowel sounds. - Musculoskeletal: Full range of motion in all extremities, no swelling or tenderness. - Neurological: Cranial nerves II-XII intact, normal motor and sensory function, normal reflexes. - Skin: No rashes, lesions, or abnormal findings. Assessment and Plan: - Assessment: General examination without acute findings. No specific symptoms reported, but ongoing monitoring for potential symptoms such as fatigue, weight changes, or joint pain is advised. - Plan: - Encourage the patient to return if new or concerning symptoms develop. - Consider baseline laboratory studies (e.g., CBC, CMP, TSH) if symptoms arise or as part of preventive care. - Reinforce healthy lifestyle habits (e.g., regular exercise, balanced diet, smoking cessation if applicable). Signature: ,
+
+============================================================
+
+## Note 10 (undefined - 66557eff-3dc4-b780-4d2c-9e850bf4285e)
+
+**Note ID:** 66557eff-3dc4-b780-4d2c-9e850bf4285e
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2016-04-18T15:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 48 years - Sex: Male - Race: White Chief Complaint: Acute viral pharyngitis. History of Present Illness: The patient presents with symptoms consistent with acute viral pharyngitis. He reports: - Sore throat: Describes as moderate to severe pain, worse with swallowing. - odynophagia (painful swallowing): Difficulty eating and drinking due to discomfort. - Fever: Reports a temperature of 100.4°F (38°C) earlier today. - Malaise: Generalized fatigue and lack of energy. - Myalgia: Muscle aches and body pain. - Headache: Mild to moderate severity. - Hoarseness: Notes a change in his voice quality. - Cough: Non-productive, dry cough present. - Rhinorrhea: Clear nasal discharge. - Sneezing: Occasional episodes. Symptoms began approximately 2 days ago and have progressively worsened. No known sick contacts. Review of Systems: - No dyspnea or shortness of breath. - No chest pain. - No nausea or vomiting. - No rash. - No conjunctivitis. Physical Examination: - Vitals: Temperature 99.8°F (37.7°C), HR 82 bpm, BP 120/78 mmHg, RR 16/min, SpO2 98% on room air. - HEENT: Mild erythema of the pharynx, no exudates noted. Tonsils are mildly enlarged but without pus. No cervical lymphadenopathy. - Lungs: Clear to auscultation bilaterally. - Abdomen: Soft, non-tender, no organomegaly. - Skin: No rashes or lesions. Assessment: 1. Acute viral pharyngitis: Symptoms and exam findings are consistent with a viral upper respiratory infection. 2. Rule out bacterial pharyngitis (e.g., strep throat) if symptoms persist or worsen. Plan: 1. Symptomatic treatment: - Encourage hydration (e.g., water, broth, electrolyte fluids). - Pain relief with over-the-counter acetaminophen or ibuprofen. - Lozenges or throat sprays for sore throat relief. - Rest and avoidance of irritants (e.g., smoking, dry air). 2. Monitoring: Advise to return if fever persists >101°F, worsening symptoms, or development of respiratory distress. 3. Testing: No routine testing indicated at this time, but rapid strep test or throat culture may be considered if clinical suspicion arises. 4. Follow-up: Re-evaluate in 3-5 days if symptoms do not improve. Disposition: Patient advised to rest and follow treatment recommendations. Discharged home in stable condition.
+
+============================================================
+
+## Note 11 (undefined - 0e0786ca-67fd-54f6-c3f5-a28742e145af)
+
+**Note ID:** 0e0786ca-67fd-54f6-c3f5-a28742e145af
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2017-06-17T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 50 years - Sex: Male - Race: White Reason for Visit: General examination of patient for . History of Present Illness (HPI): The patient presented for a general health assessment. No specific complaints were reported at this time. The encounter included an evaluation of the patient’s overall health and social care needs. Review of Systems (ROS): - Constitutional: No fever, chills, or weight changes reported. - Cardiovascular: No chest pain, palpitations, or dyspnea reported. - Respiratory: No cough, shortness of breath, or wheezing reported. - Gastrointestinal: No nausea, vomiting, diarrhea, or abdominal pain reported. - Musculoskeletal: No joint pain, stiffness, or weakness reported. - Neurological: No headache, dizziness, or neurological deficits reported. - Psychiatric: No anxiety, mood changes, or suicidal ideation reported. Assessment of Health and Social Care Needs: The patient’s health and social care needs were assessed, including screening for potential barriers to care, support systems, and lifestyle factors. Screening for Domestic Abuse: The patient was screened for domestic abuse, and no concerns were reported. Depression Screening: The patient underwent depression screening using . No symptoms of depression were reported. Immunizations Administered: - Zoster vaccine, live (Shingrix or Zostavax, specify if known) - Influenza, seasonal, injectable, preservative-free Potential Symptoms (if applicable): Given the nature of this general examination, no specific symptoms were reported. However, common side effects of the administered immunizations may include: - Zoster vaccine: Mild injection site reactions (pain, redness, swelling), headache, or fatigue. - Influenza vaccine: Local reactions (soreness, redness), mild fever, or myalgia. Plan: - Educate patient on expected side effects of vaccines and when to seek medical attention. - Schedule follow-up as needed based on screening results or patient concerns. - No additional interventions were required at this time. Provider Signature:
+
+============================================================
+
+## Note 12 (undefined - 7087a25f-ee1c-8450-df7b-0defb1039c08)
+
+**Note ID:** 7087a25f-ee1c-8450-df7b-0defb1039c08
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2017-06-24T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 50 years - Sex: Male - Race: White Encounter Date: Reason for Visit: Routine check-up for screening of malignant neoplasm of colon. History of Present Illness: The patient is a 50-year-old male presenting for a routine screening colonoscopy. He reports no significant symptoms, including abdominal pain, changes in bowel habits, rectal bleeding, or unexplained weight loss. He was referred for screening based on age-appropriate guidelines. Procedures Performed: 1. Colonoscopy – Completed for screening of colorectal cancer. 2. Fecal Occult Blood Test (FOBT) – Performed to screen for occult blood in feces. 3. Rectal Polypectomy – One or more polyps were identified and removed during the colonoscopy. Symptoms Associated with Screening Procedures: While the patient was asymptomatic prior to the screening, potential symptoms that may arise from these procedures include: - Abdominal Discomfort or Cramping – Due to air insufflation during colonoscopy. - Bloating or Flatulence – Temporary side effects post-procedure. - Mild Rectal Bleeding – Possible after polypectomy, though typically minor and self-limiting. - Constipation or Diarrhea – May occur due to sedation or changes in bowel motility. - Sedation-Related Drowsiness or Nausea – If sedation was administered. The patient was instructed to monitor for any signs of excessive bleeding (e.g., bright red blood per rectum, dizziness) or abdominal pain, and to seek immediate medical attention if such symptoms occur. Post-Procedure Instructions: - Resume normal diet and activity as tolerated. - Avoid strenuous activity for 24 hours if sedation was used. - Follow up with primary care physician or gastroenterologist for pathology results. Assessment: - Asymptomatic patient undergoing routine colorectal cancer screening. - Polyps detected and removed; further evaluation of pathology is pending. Plan: - Schedule follow-up in to discuss pathology results. - Educate patient on importance of continued screening based on findings. - Provide written discharge instructions regarding post-procedure care. Signature: ,
+
+============================================================
+
+## Note 13 (undefined - 617ce9f1-7e3d-f8bf-1b32-d80d3b18dcb0)
+
+**Note ID:** 617ce9f1-7e3d-f8bf-1b32-d80d3b18dcb0
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2018-04-21T23:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 50 - Gender: Male - Race: White Reason for Encounter: Patient presents with symptoms suggestive of viral sinusitis. History of Present Illness: The patient reports the following symptoms consistent with viral sinusitis: - Nasal congestion - Facial pain or pressure, particularly in the sinus regions - Thick, discolored nasal discharge (may be yellow or green) - Postnasal drip - Headache - Fatigue - Mild to moderate fever - Cough (may worsen at night) - Decreased sense of smell or taste The patient denies any recent history of trauma, allergies, or exposure to irritants. Symptoms have been present for approximately . Physical Examination: - General: Alert and oriented, appears uncomfortable. - HEENT: Nasal mucosa erythematous and edematous, with purulent secretions noted. Sinuses tender to palpation. - Neck: Supple, no lymphadenopathy. - Lungs: Clear to auscultation bilaterally. Differential Diagnosis: 1. Viral sinusitis (most likely) 2. Bacterial sinusitis (if symptoms persist >10 days or worsen after initial improvement) 3. Allergic rhinitis 4. Acute rhinosinusitis Plan: 1. Medication: - Prescribed Amoxicillin 250 mg / Clavulanate 125 mg oral tablet , 1 tablet twice daily for 7-10 days. - Instructions: Take with food or milk to minimize gastrointestinal upset. Complete the full course of antibiotics, even if symptoms improve. Do not skip doses. - Additional: Encourage hydration, saline nasal irrigation, and over-the-counter pain relievers (e.g., acetaminophen or ibuprofen) as needed for symptom relief. 2. Follow-Up: - Return if symptoms worsen or persist beyond 7-10 days, or if signs of complications (e.g., high fever, severe facial pain, vision changes) occur. 3. Education: - Explain that viral sinusitis is self-limiting but may take 7-10 days to resolve. Antibiotics are prescribed to reduce the risk of secondary bacterial infection. - Advise avoiding smoking and irritants, as these can exacerbate symptoms. Disposition: Patient advised to follow the prescribed treatment plan and follow up as needed. Provider Signature: Date:
+
+============================================================
+
+## Note 14 (undefined - 2a060bb6-a6da-37f2-6911-a715889605a0)
+
+**Note ID:** 2a060bb6-a6da-37f2-6911-a715889605a0
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2018-06-23T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 51 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination for . History of Present Illness (HPI): The patient presents for a general examination. No specific acute complaints were reported. The visit focused on assessment of health and social care needs, including screening for anxiety, depression, and substance use. No significant symptoms were elicited that may be attributed to . Review of Systems (ROS): - General: No fever, chills, or weight changes reported. - Cardiovascular: No chest pain, palpitations, or dyspnea. - Respiratory: No cough, shortness of breath, or wheezing. - Gastrointestinal: No nausea, vomiting, abdominal pain, or changes in bowel habits. - Neurological: No headaches, dizziness, or focal neurological deficits. - Mental Health: Patient denied symptoms of anxiety or depression but agreed to screening. No history of substance abuse reported, though screening was performed. - Musculoskeletal: No joint pain, swelling, or limitation of movement. - Skin: No rashes, lesions, or itching. Assessment and Plan: 1. Health and Social Care Needs Assessment: Completed. No immediate social or care needs identified. 2. Anxiety Screening: Negative. No symptoms of anxiety reported. 3. Depression Screening: Negative. No symptoms of depression reported. 4. Substance Use Assessment: Negative. No history of substance abuse. 5. Drug Abuse Screening: Negative. 6. Dental Referral: Patient referred for dental care procedure(s) due to . 7. Immunizations: - Zoster vaccine, live (1 dose) administered. - Influenza, seasonal, injectable, preservative-free (1 dose) administered. - Td (adult), 5 Lf tetanus toxoid, preservative-free, adsorbed (1 dose) administered. Symptoms Possibly Caused By : No symptoms were reported that may be directly attributed to . The patient appears stable with no acute concerns requiring further investigation at this time. Follow-Up: - Dental referral to be scheduled. - Repeat depression and anxiety screening in . - Routine follow-up in for health maintenance. Physician Signature: Date:
+
+============================================================
+
+## Note 15 (undefined - f3e91ffc-9264-f4a4-d6e0-2ddaffd6ed01)
+
+**Note ID:** f3e91ffc-9264-f4a4-d6e0-2ddaffd6ed01
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2018-07-07T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 51 years - Gender: Male - Race: White Reason for Encounter: Check-up and patient referral for dental care (procedure). History of Present Illness: The patient presents for a dental check-up following a referral for dental care. He reports symptoms that may be associated with poor oral hygiene or periodontal disease, including: - Persistent bad breath (halitosis) - Bleeding gums, particularly during brushing or flossing - Mild tooth sensitivity - Visible plaque and tartar buildup on teeth - Potential early signs of gingivitis or periodontitis (e.g., redness, swelling of gingiva) Dental Consultation and Procedures Performed: 1. Dental Consultation and Report: A thorough evaluation was conducted, including discussion of the patient’s oral hygiene habits and risk factors for dental disease. 2. Dental Care (Regime/Therapy): A personalized oral hygiene regimen was recommended, including proper brushing and flossing techniques. 3. Removal of Supragingival Plaque and Calculus: Performed using dental instruments to remove hardened plaque (tartar) from the tooth surfaces above the gumline. 4. Removal of Subgingival Plaque and Calculus: Performed using dental instruments to clean below the gumline, addressing potential periodontal pockets. 5. Dental Plain X-ray (Bitewing): Taken to assess interdental bone levels and detect any hidden decay or calculus. 6. Examination of Gingivae: Gingival health was evaluated, noting any inflammation, bleeding, or recession. 7. Oral Health Education Procedures: Patient was educated on proper brushing, flossing, and dietary recommendations to prevent future dental issues. Findings: - Moderate supragingival calculus noted on most tooth surfaces. - Mild subgingival calculus present in some areas. - Gingival inflammation and slight bleeding upon probing observed. - Bitewing X-rays show no evidence of cavities but indicate potential early bone loss in localized areas. Plan: - Continue with recommended oral hygiene regimen. - Return for follow-up in 6 months for re-evaluation. - Consider referral to a periodontist if gingival inflammation or bone loss progresses. Signature:
+
+============================================================
+
+## Note 16 (undefined - 2a1c8690-8730-b467-95ac-49779ee9235a)
+
+**Note ID:** 2a1c8690-8730-b467-95ac-49779ee9235a
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2018-08-03T03:02:54.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 51 - Sex: Male - Race: White Reason for Encounter: Routine check-up for a previously identified polyp of the colon. History of Present Illness: The patient presents for a follow-up evaluation regarding a polyp detected during a prior colonoscopy. The patient reports no acute symptoms but mentions occasional concerns that may be related to colorectal polyps, including: - Mild, intermittent abdominal discomfort or bloating. - Occasional changes in bowel habits (e.g., alternating constipation and diarrhea). - No overt rectal bleeding, melena, or hematochezia noted. - No significant weight loss or fatigue. Past Medical History: - History of colon polyp (exact type and location unspecified from prior records). - Otherwise, no significant medical history reported. Procedures: - Colonoscopy performed . Review of Systems: - No dysphagia, odynophagia, or gastrointestinal reflux. - No nausea, vomiting, or anorexia. - No melena, hematochezia, or occult blood loss. - No jaundice or hepatomegaly. Physical Examination: - Abdominal exam: Soft, non-tender, no palpable masses. Bowel sounds normal. - Rectal exam: No abnormalities noted (e.g., masses, tenderness, or blood). Assessment: 1. Polyp of colon (likely adenomatous, based on prior findings). 2. Asymptomatic colorectal polyp surveillance. Plan: 1. Schedule repeat colonoscopy per standard surveillance guidelines (e.g., 3-5 years, depending on polyp size, histology, and number). 2. Advise patient to maintain a high-fiber diet and continue routine colorectal cancer screening. 3. Educate patient on potential symptoms of polyps (e.g., bleeding, changes in bowel habits, abdominal pain) and encourage prompt reporting if these occur. 4. No further intervention indicated at this time. Follow-Up: Return in for routine surveillance colonoscopy. Signature:
+
+============================================================
+
+## Note 17 (undefined - 67a44333-9b43-bbc9-ee93-79ec97722944)
+
+**Note ID:** 67a44333-9b43-bbc9-ee93-79ec97722944
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2019-06-29T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron Pierre Welch - Age: 52 - Gender: Male - Race: White Encounter Date: Reason for Visit: General examination. History of Present Illness: The patient presents for a general examination. No specific complaints were reported at this time. The encounter was focused on medication reconciliation, assessment of health and social care needs, screening for domestic abuse, assessment of substance use, and screening for drug abuse. Review of Systems: - No acute symptoms reported. - Symptoms that may be caused by were not elicited. Physical Examination: - General: Well-appearing male in no acute distress. - Vital - Head, Eyes, Ears, Nose, Throat: Unremarkable. - Cardiovascular: Regular rate and rhythm, no murmurs. - Pulmonary: Clear to auscultation bilaterally. - Abdomen: Soft, non-tender, no masses. - Extremities: No edema, intact pulses. - Neurological: Grossly intact. Procedures Performed: 1. Medication reconciliation completed. 2. Assessment of health and social care needs performed. 3. Screening for domestic abuse conducted (negative findings). 4. Assessment of substance use performed (negative findings). 5. Screening for drug abuse procedure(s) completed (negative findings). 6. Immunizations administered: - Influenza, seasonal, injectable, preservative-free. Assessment: - General examination completed. - No acute medical concerns identified. - Patient screened and found negative for domestic abuse, substance use, and drug abuse. - Influenza vaccination administered. Plan: - Continue routine health maintenance. - Follow up as needed based on screening results. - Educate patient on signs of potential side effects from vaccination (e.g., injection site soreness, mild fever, headache) and advise to seek medical attention if severe symptoms develop. Signature: ,
+
+============================================================
+
+## Note 18 (undefined - e57bb62d-c5b8-aa80-9dea-a999557b9198)
+
+**Note ID:** e57bb62d-c5b8-aa80-9dea-a999557b9198
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2020-07-04T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 53 - Sex: Male - Race: White Reason for Encounter: General examination. History of Present Illness: The patient presented for a general examination. No specific chief complaint was reported, but assessments were conducted for health and social care needs, anxiety, and substance use. The patient also underwent alcohol use disorders identification test (AUDIT-C) and was referred for dental care procedures. Medication Reconciliation: Medication reconciliation was performed. (Note: No specific medications were listed in the provided information; further details should be obtained if needed.) Immunizations: - Influenza, seasonal, injectable, preservative-free: 1 dose administered. Assessments: 1. Health and Social Care Needs: Assessment completed. (Note: No specific concerns were reported, but further details should be documented if any issues arise.) 2. Anxiety Assessment: The patient was evaluated for anxiety symptoms. (Note: No symptoms were explicitly reported, but if anxiety-related symptoms such as excessive worry, restlessness, or irritability are present, they should be documented.) 3. Substance Use Assessment: The patient was assessed for substance use. (Note: No specific substance use concerns were noted, but if symptoms such as withdrawal, cravings, or functional impairment are present, they should be documented.) 4. AUDIT-C (Alcohol Use Disorders Identification Test - Consumption): The patient was evaluated for alcohol consumption patterns. (Note: If the patient reports heavy or risky drinking, symptoms such as tremors, sweating, or blackouts may be relevant.) Referrals: - Dental care: The patient was referred for dental care procedures. (Note: Symptoms such as tooth pain, bleeding gums, or oral lesions may be relevant.) Symptoms That May Be Caused By : Since no specific condition or factor is mentioned in the provided information, no symptoms can be attributed to a particular cause. However, if the patient reports any new or worsening symptoms (e.g., fatigue, pain, mood changes, or cognitive difficulties), these should be documented and further evaluated. Plan: - Follow up as needed for dental care. - Monitor for any new symptoms or concerns. - Reinforce the importance of adherence to immunizations and referrals. Provider Signature:
+
+============================================================
+
+## Note 19 (undefined - e991d9ed-fbe7-ffc5-204a-d61c696386b5)
+
+**Note ID:** e991d9ed-fbe7-ffc5-204a-d61c696386b5
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2020-07-18T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 53 - Sex: Male - Race: White Encounter Date: Reason for Visit: Check-up for Gingivitis History of Present Illness: The patient presents for a dental check-up due to concerns regarding Gingivitis. He reports symptoms consistent with Gingivitis, including: - Mild to moderate gingival redness and swelling - Bleeding gums , particularly during brushing or flossing - Bad breath (halitosis) - Tenderness or discomfort in the gums The patient denies any systemic symptoms such as fever or malaise. He reports no recent changes in oral hygiene habits but expresses interest in improving his dental care regimen. Dental Consultation and Findings: - Dental consultation and report reviewed. - Dental care (regime/therapy) discussed, emphasizing proper brushing and flossing techniques. - Supragingival plaque and calculus removal performed using dental instruments on all teeth. - Subgingival plaque and calculus removal performed using dental instruments on all teeth. - Dental plain x-ray (bitewing) taken to assess for underlying bone loss or decay. - Examination of gingivae revealed generalized mild to moderate gingival inflammation with areas of bleeding on probing. - Oral health education provided, including demonstration of proper brushing and flossing techniques. Plan: 1. Continue meticulous oral hygiene with twice-daily brushing and daily flossing. 2. Follow up in 3 months for re-evaluation of gingival health. 3. Consider fluoride toothpaste and antimicrobial mouth rinse for adjunctive therapy. 4. Encourage regular dental visits to prevent recurrence. Signature:
+
+============================================================
+
+## Note 20 (undefined - 46e6b917-d7b3-3d48-04aa-30b334315481)
+
+**Note ID:** 46e6b917-d7b3-3d48-04aa-30b334315481
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2021-07-10T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Okay, here is a medical note based on the information provided. Medical Record Note Patient Information: Name: Aaron Pierre Welch MRN: 179 (Assuming Welch179 is the identifier used) Age: 54 Sex: Male Race: White Date of Service: Reason for Visit: General examination and wellness check-up. History of Present Illness (HPI): This is a 54-year-old white male presenting for a general examination. The patient reports feeling generally well today but has not had a recent comprehensive check-up. No specific acute complaints were reported during the visit. Review of Systems (ROS): Patient reports no current symptoms. (Note: No specific symptoms were provided by the user prompt related to the cause of the encounter). Past Medical History (PMH): History obtained today is non-contributory. Past Surgical History (PSH): History obtained today is non-contributory. Medications: Medication reconciliation performed today. Patient reports taking , denies any recent changes or new medications started. Allergies: History obtained today is non-contributory. Social History: Patient is a 54-year-old white male. Assessment of health and social care needs performed. Patient reports adequate social support and stable housing. . Assessment of substance use performed. Patient reports . Alcohol Use Disorders Identification Test - Consumption (AUDIT-C) screening performed. Mental Health: Depression screening performed (e.g., PHQ-9). Patient reports feeling generally okay mood-wise, denies current feelings of depression or anxiety. Immunizations: Influenza, seasonal, injectable, preservative-free vaccine administered today. Lot # , Expiration Date , Site: , administered by . Assessment: 1. General Examination: Patient is a well-appearing 54-year-old male who appears his stated age. General wellness assessment completed.
+2. Health and Social Care Needs: Assessment indicates .
+3. Substance Use: Assessment indicates .
+4. Depression: Screening indicates .
+5. Immunization Status: Seasonal influenza vaccination updated. Plan: 1. Continued monitoring of health status.
+2. Advised patient on the importance of regular health screenings.
+3. Provided education regarding the influenza vaccine and its administration.
+4. Scheduled follow-up as indicated by screening results or patient needs .
+5. Referral made to if indicated by screening results or assessment findings. Provider Signature: Note on "Symptoms that may be caused by .": The prompt requested inclusion of symptoms potentially caused by something, but the specific cause was not provided. Therefore, no specific symptoms related to an unknown cause were documented. If you can provide the cause or a specific condition, I can revise the note to include relevant potential symptoms.
+
+============================================================
+
+## Note 21 (undefined - 84867bc3-92f4-aa97-4054-2a029e900979)
+
+**Note ID:** 84867bc3-92f4-aa97-4054-2a029e900979
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2021-08-14T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Encounter Note Patient: Aaron697 Pierre431 Welch179 Age: 54 Sex: Male Race: White Date of Encounter: Reason for Visit: Administration of vaccine to produce active immunity. Vaccination Details: - Vaccine: COVID-19 mRNA vaccine (LNP-S, PF formulation) - Dose: 100 mcg/0.5 mL or 50 mcg/0.25 mL (as per manufacturer’s recommended dose) - Route: Intramuscular (IM) - Site: Observations: - The patient tolerated the vaccination well. - No immediate adverse reactions noted at the time of administration. Potential Symptoms Post-Vaccination: The patient should be informed of potential side effects, which may include: - Local reactions: Pain, redness, swelling, or itching at the injection site. - Systemic reactions: Fatigue, headache, muscle aches, chills, fever, or nausea. - Less common reactions: Allergic reactions (e.g., rash, itching, difficulty breathing), although rare. The patient was educated on these potential symptoms and advised to contact medical staff if severe or persistent symptoms occur. He was also instructed to monitor for any signs of anaphylaxis (e.g., difficulty breathing, swelling of the face/throat) and to seek immediate medical attention if such symptoms arise. Plan: - Patient advised to rest and stay hydrated post-vaccination. - Recommended to take over-the-counter analgesics (e.g., acetaminophen or ibuprofen) for mild symptoms if needed. - Follow-up as per standard guidelines or if concerning symptoms develop. Signature: ,
+
+============================================================
+
+## Note 22 (undefined - 03dc73b0-01fb-1235-fc39-56a70fd97fa6)
+
+**Note ID:** 03dc73b0-01fb-1235-fc39-56a70fd97fa6
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2021-09-11T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 54 - Sex: Male - Race: White Reason for Visit: Administration of vaccine to produce active immunity. Vaccination Details: - Vaccine: COVID-19 mRNA vaccine (LNP-S, PF formulation) - Dose: 100 mcg/0.5 mL or 50 mcg/0.25 mL (per manufacturer’s recommendation) Procedure: The patient was administered the COVID-19 mRNA vaccine via intramuscular injection. The site was cleaned with an alcohol swab, and the vaccine was administered into the deltoid muscle. Standard post-vaccination instructions were provided, including monitoring for potential side effects. Potential Symptoms Post-Vaccination: The patient was informed that the following symptoms may occur as a result of vaccination: 1. Local Reactions: - Pain, redness, or swelling at the injection site. - Mild bruising or itching. 2. Systemic Reactions: - Fatigue or tiredness. - Headache. - Muscle or joint aches. - Fever or chills. - Nausea. - Mild to moderate allergic reactions (e.g., rash, itching, hives) in rare cases. - Severe allergic reactions (anaphylaxis) are possible but rare; the patient was advised to seek immediate medical attention if symptoms such as difficulty breathing, swelling of the face/throat, or dizziness occur. Patient Education: - The patient was instructed to monitor for any adverse reactions and report them to the clinic if they worsen or persist. - He was advised to take over-the-counter anti-inflammatory medication (e.g., ibuprofen or acetaminophen) for mild discomfort, if needed. - The importance of completing the vaccination series (if applicable) was emphasized. Follow-Up: None planned at this time. The patient will be instructed to return if any concerning symptoms develop. Signature: ,
+
+============================================================
+
+## Note 23 (undefined - 28a5d218-39c6-2a97-601f-87e01b39b673)
+
+**Note ID:** 28a5d218-39c6-2a97-601f-87e01b39b673
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2021-12-30T17:19:53.960-05:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron Pierre Welch - Age: 54 - Sex: Male - Race: White Chief Complaint: Acute viral pharyngitis. History of Present Illness: The patient is a 54-year-old male presenting with symptoms consistent with acute viral pharyngitis. He reports the onset of symptoms approximately 2-3 days ago, including: - Sore throat: Describes it as moderately severe, worse with swallowing. - Fever: Reports feeling feverish with a measured temperature of 101.2°F. - Malaise and fatigue: Feels generally unwell and lacks energy. - Headache: Mild to moderate severity. - Myalgias: Reports generalized muscle aches. - Mild cough: Non-productive. - Possible rhinorrhea: Reports occasional clear nasal discharge. - Hoarseness: Mild voice changes. No reported shortness of breath, dyspnea, or chest pain. No vomiting or diarrhea. Review of Systems: - Constitutional: Positive for fever, malaise, fatigue. - Respiratory: Positive for cough, sore throat; negative for wheezing, shortness of breath. - Musculoskeletal: Positive for myalgias. - Neurological: Positive for headache. - Gastrointestinal: Negative for nausea, vomiting, diarrhea. Physical Examination: - Vital Signs: Temp 101.2°F, HR 88 bpm, BP 130/80 mmHg, RR 16/min, O2 Sat 98% on room air. - HEENT: Mild erythema of the oropharynx; no exudates noted. Tonsillar enlargement 1+. No cervical lymphadenopathy appreciated. - Lungs: Clear to auscultation bilaterally. - Cardiovascular: Regular rate and rhythm, no murmurs. - Abdomen: Soft, non-tender, no organomegaly. - Musculoskeletal: Mild tenderness with palpation of major muscle groups. Assessment: 1. Acute viral pharyngitis – likely viral etiology (e.g., adenovirus, rhinovirus, or influenza) given the constellation of symptoms (fever, malaise, myalgias, cough). 2. Rule out streptococcal pharyngitis (consider rapid strep test if no improvement in 48-72 hours). Plan: 1. Symptomatic treatment: - Acetaminophen or ibuprofen for fever and pain relief. - Encourage adequate hydration (e.g., water, electrolyte fluids). - Lozenges or warm saline gargles for throat discomfort. 2. Supportive care: - Rest and symptom monitoring. 3. Further workup: - Consider rapid strep test if no improvement or if symptoms worsen. 4. Follow-up: - Re-evaluate in 2-3 days if symptoms persist or worsen. Disposition: Patient discharged home with above instructions. Educated on signs of complications (e.g., worsening sore throat, difficulty swallowing, high fever) and when to seek further medical attention.
+
+============================================================
+
+## Note 24 (undefined - 8dfee789-1dbd-ea97-0985-d6bfd6ba1905)
+
+**Note ID:** 8dfee789-1dbd-ea97-0985-d6bfd6ba1905
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2022-07-16T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 55 years - Gender: Male - Race: White Encounter Date: Reason for Visit: General examination and health assessment. History of Present Illness: The patient presents for a general examination. No specific chief complaint was reported, but a comprehensive assessment of health and social care needs was performed. Social and Mental Health Assessment: - Anxiety Assessment: The patient was evaluated for symptoms of anxiety. No specific symptoms were reported, but screening was completed. - Depression Screening: The patient underwent depression screening. No depressive symptoms were reported at this time. - Substance Use Assessment: The patient was screened for substance use and drug abuse. No current or past significant substance use was reported. Physical Examination: - General: The patient appears well-nourished and in no acute distress. - Vital Signs: - Systematic Review: No specific symptoms were reported by the patient. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. Referrals: - Dental care: The patient was referred for dental care procedures. Plan: - Follow up as needed for dental care. - Continue monitoring for any symptoms of anxiety, depression, or substance use. - Repeat annual influenza vaccination next season. Symptoms to Monitor: Given the lack of reported symptoms, no specific symptoms were noted during this encounter. However, the patient should be monitored for any new or worsening symptoms, such as: - Anxiety-related symptoms (e.g., excessive worry, restlessness, irritability). - Depression-related symptoms (e.g., persistent sadness, loss of interest, fatigue). - Substance use or drug abuse signs (e.g., changes in behavior, neglect of responsibilities). Provider Signature:
+
+============================================================
+
+## Note 25 (undefined - f3f771dd-0045-8740-d6ee-7fbb6db77f9d)
+
+**Note ID:** f3f771dd-0045-8740-d6ee-7fbb6db77f9d
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2022-07-30T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 55 years - Sex: Male - Race: White Reason for Encounter: Follow-up and treatment for gingivitis. History of Present Illness: The patient presents for a dental check-up due to concerns regarding gingivitis. He reports symptoms consistent with gingivitis, including: - Red, swollen, or tender gums - Bleeding gums, especially during brushing or flossing - Bad breath (halitosis) - Gums that appear shiny or pulled away from the teeth (gingival recession) - Loose teeth (in advanced cases) The patient denies systemic symptoms such as fever or malaise. Dental Consultation and Findings: - Dental consultation and report completed. - Examination of gingivae revealed mild-to-moderate gingivitis with localized inflammation. - Supragingival and subgingival plaque and calculus were noted on all teeth. - Dental plain x-ray (bitewing) was performed to assess bone levels and detect any early signs of periodontal disease. Procedures Performed: 1. Removal of supragingival plaque and calculus from all teeth using dental instruments. 2. Removal of subgingival plaque and calculus from all teeth using dental instruments. 3. Dental fluoride treatment administered to strengthen enamel and reduce bacterial growth. 4. Oral health education provided, emphasizing proper brushing, flossing, and dietary modifications. Medication Prescribed: - Sodium Fluoride 0.0272 MG/MG Oral Gel - Instructions: Apply a thin ribbon of gel along the gumline using a toothbrush or special applicator. Leave in place for 1 minute, then spit out. Do not rinse, eat, or drink for at least 30 minutes afterward. Use once daily before bedtime, preferably after brushing. Plan: - Continue with improved oral hygiene practices. - Return for follow-up in 3 months to assess gingival health and evaluate the need for further intervention. - Consider additional fluoride treatments or antimicrobial rinses if gingivitis persists. Patient Education: - Emphasized the importance of consistent oral hygiene to prevent recurrence of gingivitis. - Advised on proper brushing technique, daily flossing, and avoiding sugary foods/drinks. Signature:
+
+============================================================
+
+## Note 26 (undefined - 0ddcd08a-67fe-469a-c3ca-ec4742e23753)
+
+**Note ID:** 0ddcd08a-67fe-469a-c3ca-ec4742e23753
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2023-07-22T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 56 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination for assessment of health and social care needs. History of Present Illness: The patient presented for a general examination. No specific complaints were reported, but the encounter included a comprehensive assessment of health and social care needs. The patient was also screened for anxiety and depression. Additionally, a referral for dental care procedures was made, though no specific dental complaints were documented. Review of Systems: - General: No fever, chills, or recent weight changes reported. - Cardiovascular: No chest pain, palpitations, or shortness of breath. - Respiratory: No cough, dyspnea, or wheezing. - Gastrointestinal: No abdominal pain, nausea, or changes in bowel habits. - Musculoskeletal: No joint pain, swelling, or limitations in mobility. - Neurological: No headaches, dizziness, or changes in cognition. - Psychiatric: Anxiety and depression screening was performed (see below). - Dental: No specific symptoms reported, but referral was made for dental care. Mental Health Screening: - Anxiety Assessment: The patient was screened for anxiety symptoms. No specific symptoms were reported, but further monitoring may be needed. - Depression Screening: The patient was screened for depression. No significant symptoms were noted at this time. Dental Referral: The patient was referred for dental care procedures. No symptoms were reported, but routine or preventative care may be indicated. Immunizations: - Influenza Vaccine: Administered (seasonal, injectable, preservative-free). No immediate adverse reactions observed. Physical Examination: - Vital Signs: - General: Well-appearing, alert, and oriented. - HEENT: PERRLA, EOMI. No signs of infection or abnormalities. - Cardiovascular: Regular rate and rhythm, no murmurs or gallops. - Respiratory: Clear to auscultation bilaterally. - Abdomen: Soft, non-tender, no organomegaly. - Extremities: No edema, cyanosis, or clubbing. - Dental: Not examined (referral made). Assessment: 1. General health assessment completed. 2. Anxiety and depression screening negative at this time. 3. Dental care referral issued. 4. Influenza vaccination administered without complications. Plan: 1. Continue monitoring for any new symptoms. 2. Follow up as needed based on dental referral. 3. Repeat depression and anxiety screening in . 4. Educate patient on signs/symptoms that may arise post-vaccination (e.g., mild soreness at injection site, low-grade fever, fatigue). Symptoms to Monitor: Given the vaccination and general health assessment, the patient should be monitored for: - Mild injection site reactions (soreness, redness, swelling). - Systemic symptoms post-vaccination (fever, fatigue, headache) if they occur. - Any new or worsening anxiety or depressive symptoms. - Dental-related symptoms (pain, swelling, bleeding) after the referral. Signature:
+
+============================================================
+
+## Note 27 (undefined - 60f6d033-362f-f492-d2ef-2d162d3dd2ff)
+
+**Note ID:** 60f6d033-362f-f492-d2ef-2d162d3dd2ff
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2023-08-03T03:45:36.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 56 years - Sex: Male - Race: White Reason for Encounter: Routine check-up for screening of malignant neoplasm of the colon. Procedure Performed: Colonoscopy. History and Findings: The patient is a 56-year-old male presenting for a routine colon cancer screening. He reports no significant gastrointestinal symptoms, including no abdominal pain, changes in bowel habits, rectal bleeding, or unexplained weight loss. The patient has no family history of colorectal cancer or polyps. A colonoscopy was performed to evaluate the colon for any suspicious lesions or polyps. The procedure was well-tolerated. Potential symptoms or side effects associated with the screening procedure include: - Mild abdominal discomfort or bloating post-procedure due to air insufflation during the exam. - Temporary cramping or gas pains as the bowel adjusts after the procedure. - Risk of bleeding or perforation, though these are rare complications. No abnormalities were noted during the colonoscopy. The bowel preparation was adequate, and the patient was instructed on post-procedure care, including hydration and dietary recommendations. The patient will be advised to follow up as per standard screening guidelines. Plan: - Follow-up in 10 years if results remain normal, per current screening guidelines. - Educate patient on maintaining a healthy lifestyle and recognizing symptoms that warrant further evaluation. Signature:
+
+============================================================
+
+## Note 28 (undefined - 6eabc33e-44f8-f5c1-df89-aa15647ec3f0)
+
+**Note ID:** 6eabc33e-44f8-f5c1-df89-aa15647ec3f0
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2023-08-05T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 56 - Sex: Male - Race: White Reason for Encounter: Follow-up and treatment for Gingivitis. History of Present Illness: The patient presents with symptoms consistent with Gingivitis, including: - Red, swollen, or tender gums - Bleeding gums, especially during brushing or flossing - Bad breath (halitosis) - Gums that pull away from the teeth (recession) - Loose teeth - Changes in bite or fit of partial dentures The patient underwent a comprehensive dental evaluation and treatment plan to address the gingival inflammation and plaque accumulation. Dental Procedures Performed: - Dental consultation and report - Dental care (regime/therapy) - Removal of supragingival plaque and calculus from all teeth using dental instruments - Removal of subgingival plaque and calculus from all teeth using dental instruments - Examination of gingivae - Dental surgical procedure (gingivectomy or gingivoplasty, per tooth) - Dental application of desensitizing medicament - Postoperative care for dental procedure (regime/therapy) - Dental fluoride treatment - Oral health education Medication Prescribed: - Sodium Fluoride 0.0272 MG/MG Oral Gel Instructions for Sodium Fluoride 0.0272 MG/MG Oral Gel: 1. Apply a thin ribbon of the gel to the teeth using a toothbrush or special applicator. 2. Leave the gel on the teeth for 1 minute, then spit out excess gel. 3. Do not rinse, eat, or drink for at least 30 minutes after application to allow the fluoride to work effectively. 4. Use once daily, preferably at bedtime, unless otherwise directed. 5. Monitor for any signs of irritation or allergic reaction. If irritation occurs, discontinue use and contact the dentist. Plan: - Continue with good oral hygiene practices, including brushing twice daily and flossing. - Return for follow-up in 3 months for reevaluation of gingival health. - Report any worsening symptoms or new concerns to the dental provider. Signature:
+
+============================================================
+
+## Note 29 (undefined - 45fb7325-28f7-728c-3417-30000ce82c42)
+
+**Note ID:** 45fb7325-28f7-728c-3417-30000ce82c42
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2024-07-27T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 57 years - Sex: Male - Race: White Reason for Visit: General examination for assessment of health and social care needs. History of Present Illness: The patient presented for a general examination. No specific chief complaint was reported. The patient underwent assessment of health and social care needs, including depression screening. The patient was also referred for dental care procedures. Review of Systems: - No active symptoms reported. - No reported symptoms suggestive of underlying conditions (e.g., pain, fatigue, mood disturbances). Assessment: - Depression Screening: Completed (results pending/normal). - Dental Referral: Performed due to identified need for dental care. - Immunizations: Administered as follows: - Influenza, seasonal, injectable, preservative-free. Potential Symptoms to Monitor Post-Encounter: - Given the influenza vaccination, the patient may experience mild symptoms such as injection site pain, redness, or swelling. - Systemic reactions like fever, headache, or malaise are possible but typically mild and transient. - If symptoms worsen or persist beyond 48 hours, the patient should follow up. Plan: - Follow up as needed based on depression screening results. - Schedule dental referral appointment. - Educate patient on expected post-vaccination symptoms and when to seek further evaluation. Signature:
+
+============================================================
+
+## Note 30 (undefined - b880ad02-4c41-fa22-f13e-7079e79e7839)
+
+**Note ID:** b880ad02-4c41-fa22-f13e-7079e79e7839
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2024-08-10T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 57 - Sex: Male - Race: White Reason for Encounter: Check-up and patient referral for dental care (procedure). Symptoms/Concerns (Potential Indications for Dental Referral): - Possible symptoms may include tooth sensitivity, pain or discomfort upon chewing, visible fracture or damage to a tooth, bleeding gums, swollen or inflamed gingiva, halitosis (bad breath), or signs of plaque/calculus buildup. Dental Consultation and Procedures Performed: - Dental consultation and report completed. - Dental care regime/therapy initiated. - Supragingival plaque and calculus removal from all teeth using dental instruments. - Subgingival plaque and calculus removal from all teeth using dental instruments. - Examination of gingiva. - Application of composite dental filling material to dentin of a fractured tooth. - Dental fluoride treatment administered. - Oral health education provided. Prescription: - Sodium Fluoride 0.0272 MG/MG Oral Gel (prescribed for dental caries prevention and remineralization). Instructions for Taking Sodium Fluoride 0.0272 MG/MG Oral Gel: 1. Apply a pea-sized amount of gel to a toothbrush. 2. Brush teeth thoroughly for 1 minute, ensuring gel reaches all tooth surfaces. 3. Do not rinse, spit, or eat for at least 30 minutes after application to allow fluoride absorption. 4. Use once daily, preferably at bedtime, unless otherwise directed. 5. Supervise children under 6 years to minimize swallowing. If accidental ingestion occurs, contact a healthcare provider. 6. Store at room temperature, away from moisture and heat. Follow-Up: - Schedule routine dental check-ups as advised by the dentist. - Monitor for any signs of tooth sensitivity or irritation after fluoride application. Provider: Date:
+
+============================================================
+
+## Note 31 (undefined - 37d53470-4d67-5868-fb4c-cfcccb7e9125)
+
+**Note ID:** 37d53470-4d67-5868-fb4c-cfcccb7e9125
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2024-09-02T22:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Okay, here is a medical note for the encounter based on the information provided. PATIENT PROFILE Patient: Aaron697 Pierre431 Welch179 Age: 57 Sex: Male Race: White Reason for Visit: Evaluation for symptoms concerning for Acute Bacterial Sinusitis (ABS) HISTORY OF PRESENT ILLNESS The patient is a 57-year-old white male presenting today with symptoms concerning for acute bacterial sinusitis. He reports that his symptoms began approximately days ago, initially presenting with symptoms suggestive of a viral upper respiratory infection (URI), such as . However, over the past days, he reports experiencing worsening symptoms, including: 1. Facial Pain/Pressure: Reports significant pain and pressure localized to the sinus regions. Describes the pain as in nature, often worse when bending forward. The pain is .
+2. Nasal Discharge: Reports thick, nasal discharge, which is more prominent than earlier in the illness.
+3. Nasal Obstruction: Experiences significant nasal stuffiness and congestion, .
+4. Fever: Reports subjective fever/chills or measured temperature of . (Note: Fever is not always present but can occur).
+5. Fatigue/Malaise: Reports feeling generally unwell, fatigued, and lacking energy.
+6. Headache: May report headaches, often localized to the frontal or facial regions.
+7. Hyposmia/Anosmia: Reports decreased or loss of sense of smell.
+8. Toothache: May report pain in the upper teeth, radiating from the maxillary sinuses. He denies any recent trauma or significant changes in environmental exposures. He has not experienced improvement with any over-the-counter remedies tried thus far. The patient is concerned about his symptoms and seeks medical evaluation. PAST MEDICAL HISTORY ALLERGIES MEDICATIONS SOCIAL HISTORY FAMILY HISTORY REVIEW OF SYSTEMS Denies night sweats. HEENT: . Throat appears . Cardiopulmonary: Denies shortness of breath, chest pain, cough. Gastrointestinal: Denies nausea, vomiting, diarrhea, abdominal pain. Genitourinary: Denies dysuria, frequency, hematuria. Musculoskeletal: Denies joint pain, muscle weakness. Neurological: Denies altered mental status, numbness, tingling. Skin: Denies rashes. PHYSICAL EXAMINATION Vital Signs: HEENT: Head: Normocephalic, atraumatic. No tenderness to palpation over sinuses at this time . Eyes: PERRL, EOMI. No periorbital edema or erythema. Ears: TMs clear bilaterally. Nose: Mucous membranes . Turbinates . Moderate amount of discharge noted. . Throat: Oropharynx . No exudates. Tonsils . Neck: Supple. No lymphadenopathy. No thyromegaly. Lungs: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi. Cardiovascular: Regular rate and rhythm. No murmurs, rubs, or gallops. Abdomen: Soft, non-tender, non-distended. No hepatosplenomegaly. Extremities: No edema. Capillary refill < 2 seconds. ASSESSMENT / PLAN Assessment: 1. Acute Bacterial Sinusitis (ABS), likely secondary to involvement, based on: Acute onset of symptoms. Presence of 2 or more major criteria: Facial pain/pressure, purulent nasal discharge, and/or localized tenderness. Symptom duration of days with possible worsening after initial viral symptoms.
+2. Acute Upper Respiratory Infection (URI) - Possible preceding viral illness. Plan: 1. Diagnosis: Acute Bacterial Sinusitis.
+2. Treatment: Antibiotics: Prescribe . Educate patient on potential side effects and importance of completing the course. Symptomatic Relief: Nasal decongestant spray (e.g., Oxymetazoline): Use as directed for to relieve nasal obstruction. Oral decongestant (e.g., Pseudoephedrine): As needed for nasal congestion. Analgesics (e.g., Acetaminophen, Ibuprofen): As needed for facial pain and headache. Saline nasal irrigation/drops: Encourage regular use for nasal clearance. Hydration: Encourage adequate fluid intake. Rest: Advise adequate rest.
+3. Follow-up: Instruct patient to follow up in days or sooner if symptoms worsen significantly, fail to improve after days of antibiotics, or if new concerning symptoms develop (e.g., high fever, severe headache, vision changes, stiff neck, facial swelling, altered mental status).
+4. Education: Educated patient on the nature of ABS, the rationale for antibiotic therapy, potential side effects, and the importance of adherence to the treatment plan and follow-up instructions. Discussed that it may take several days to see improvement. Reviewed signs of possible complications.
+5. Referrals: None at this time. Physician Signature: Scribe Signature:
+
+============================================================
+
+## Note 32 (undefined - 9cd9ca1b-5edb-af97-8c10-83178d492b1e)
+
+**Note ID:** 9cd9ca1b-5edb-af97-8c10-83178d492b1e
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Josephine273 Collier206
+**Date:** 2025-08-02T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron Pierre Welch - Age: 58 years - Sex: Male - Race: White Reason for Encounter: General examination and health assessment. History of Present Illness (HPI): The patient presented for a general examination. No specific complaints were reported at this time. The encounter included medication reconciliation, assessment of health and social care needs, screening for domestic abuse, depression screening (performed twice), assessment of substance use, and assessment using the Alcohol Use Disorders Identification Test - Consumption (AUDIT-C). The patient was also referred for dental care. Review of Systems (ROS): Unremarkable unless otherwise noted. No reported symptoms at this time. Medication Reconciliation: - Review of current medications completed; no discrepancies noted. Screening Results: - Domestic Abuse Screening: Negative. - Depression Screening (PHQ-9): Results pending/awaiting completion. - Substance Use Assessment: No significant concerns reported. - AUDIT-C (Alcohol Use): Results pending/awaiting completion. Immunizations: - Influenza, seasonal, injectable, preservative-free: Administered. Referrals: - Dental care: Referral issued for dental procedure(s) to be performed. Assessment of Health and Social Care Needs: - General health assessment completed; no acute concerns identified. Social care needs were assessed, and no immediate interventions were required. Symptoms Possibly Caused by : No specific symptoms were reported or observed that could be attributed to an unknown factor. The patient did not describe any recent changes in health status or new symptoms. Plan: 1. Follow up on depression screening and AUDIT-C results. 2. Schedule dental referral as needed. 3. Monitor for any post-immunization reactions (e.g., injection site soreness, mild fever). 4. Reassess at next visit. Signature:
+
+============================================================
+
+## Note 33 (undefined - f00ad242-22d0-f402-7fcd-b959db3fe76e)
+
+**Note ID:** f00ad242-22d0-f402-7fcd-b959db3fe76e
+**Patient ID:** a11e4432-51c0-f464-b06f-49fedbd7a9f1
+**Note Type:** DocumentReference
+**Provider:** Dr. Miguel815 Roberts511
+**Date:** 2025-08-16T02:19:53.960-04:00
+**Source:** Aaron697_Welch179_a11e4432-51c0-f464-b06f-49fedbd7a9f1.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Aaron697 Pierre431 Welch179 - Age: 58 years - Sex: Male - Race: White Reason for Encounter: - Routine dental check-up and referral for dental care (procedure). History of Present Illness: The patient presented for a dental check-up and consultation. No specific symptoms were reported, but the patient was referred for dental care due to concerns regarding oral hygiene, potential gingival inflammation, and the need for preventive measures such as fluoride treatment. Possible symptoms that may have prompted the referral include: - Gingival bleeding or tenderness - Halitosis (bad breath) - Visible plaque or calculus buildup - Sensitivity to hot/cold stimuli (potential early signs of dental decay) Physical Examination: - General: Alert and oriented. - Oral Cavity: Examination of gingivae revealed mild inflammation in some areas. Supragingival and subgingival plaque and calculus were noted on multiple teeth. - Dental X-ray (bitewing): No significant caries or bone loss noted. Procedures Performed: 1. Dental consultation and report. 2. Removal of supragingival plaque and calculus from all teeth using dental instruments. 3. Removal of subgingival plaque and calculus from all teeth using dental instruments. 4. Dental plain x-ray (bitewing). 5. Examination of gingivae. 6. Dental fluoride treatment (topical application). 7. Oral health education. Medication Prescribed: - Sodium Fluoride 0.0272 MG/MG Oral Gel (prescribed for home use to prevent dental caries). Instructions for Sodium Fluoride 0.0272 MG/MG Oral Gel: - Apply a thin ribbon of gel (approximately 1 cm or as directed by dentist) to a toothbrush. - Brush teeth thoroughly for 1 minute, ensuring all tooth surfaces are covered. - Spit out excess gel after brushing; do not swallow. - Avoid eating, drinking, or rinsing for at least 30 minutes after application. - Use once daily, preferably at bedtime, or as directed by the dentist. - Do not exceed the recommended dose to avoid fluorosis. Plan: - Continue with good oral hygiene practices, including brushing twice daily with fluoride toothpaste and flossing. - Return for follow-up dental exams as recommended (e.g., every 6 months). - Monitor for any signs of dental sensitivity or gingival changes. Discharge Status: - Stable, advised to follow prescribed dental care regimen. Physician Signature:
+
+============================================================
+

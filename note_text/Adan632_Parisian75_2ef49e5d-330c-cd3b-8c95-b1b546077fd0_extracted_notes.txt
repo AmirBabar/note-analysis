@@ -1,0 +1,452 @@
+# Clinical Notes from Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+## Note 1 (undefined - f9d2f98f-5ce5-808c-13ff-c8c289329143)
+
+**Note ID:** f9d2f98f-5ce5-808c-13ff-c8c289329143
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2007-08-08T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75
+- Age: 17 years
+- Gender: Male
+- Race: Black or African American
+- Reason for Visit: Well Child Visit Chief Complaint: Well child visit for routine health maintenance. History of Present Illness: The patient is a 17-year-old male who presents for his annual well-child visit. He reports no current symptoms or complaints. The patient states that he has been feeling well overall and has no concerns to report at this time. He denies any recent illnesses, injuries, or changes in his health status. The patient reports maintaining a generally healthy lifestyle with regular physical activity and a balanced diet. Review of Systems: - Constitutional: No fever, chills, night sweats, or unexplained weight loss.
+- Cardiovascular: No chest pain, palpitations, or shortness of breath.
+- Respiratory: No cough, shortness of breath, wheezing, or chest congestion.
+- Gastrointestinal: No abdominal pain, nausea, vomiting, diarrhea, or changes in bowel habits.
+- Genitourinary: No dysuria, frequency, urgency, or hematuria.
+- Musculoskeletal: No joint pain, swelling, or limitation of movement.
+- Neurological: No headaches, dizziness, or changes in vision or hearing.
+- Psychiatric: No depression, anxiety, or mood changes.
+- Allergies: No known allergies to medications, foods, or environmental factors.
+- Skin: No rashes, itching, or changes in skin condition.
+- Endocrine: No changes in energy levels, sleep patterns, or appetite. Symptoms that May Be Caused by : Given that the specific factor causing potential symptoms is not provided, a general review of systems is conducted to ensure no underlying issues are present. Should any symptoms arise in the future, they may be related to various factors such as lifestyle, environmental exposures, or underlying medical conditions. It is important to monitor for any new or worsening symptoms and seek medical attention if necessary. Physical Examination: - General: The patient appears healthy, well-nourished, and well-developed.
+- Vital Signs: Temperature: 98.6°F, Heart Rate: 72 bpm, Respiratory Rate: 16 breaths per minute, Blood Pressure: 120/80 mmHg, Oxygen Saturation: 98% on room air.
+- Head, Eyes, Ears, Nose, and Throat (HEENT): PERRLA, EOMI, no signs of congestion or inflammation.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes or crackles.
+- Abdomen: Soft, non-tender, non-distended, with normal bowel sounds.
+- Musculoskeletal: Full range of motion in all extremities, no tenderness or swelling.
+- Neurological: Alert and oriented ×3, normal reflexes, no focal deficits.
+- Skin: No rashes, lesions, or abnormalities. Assessment and Plan: - Assessment: The patient is a healthy 17-year-old male presenting for a well-child visit with no significant medical history or current complaints.
+- Plan: - Immunizations: Review immunization status and administer any necessary vaccines as per the recommended schedule. - Screenings: Perform age-appropriate screenings, including blood pressure, vision, and hearing tests. - Lifestyle Counseling: Discuss healthy lifestyle choices, including nutrition, physical activity, and avoidance of tobacco, alcohol, and illicit drugs. - Safety Education: Provide education on safety measures, such as seatbelt use, helmet use, and safe driving practices. - Follow-Up: Schedule the next well-child visit in one year. Conclusion: The patient is in good health and requires no further intervention at this time. Continued monitoring and routine health maintenance are recommended to ensure optimal health and well-being.
+
+============================================================
+
+## Note 2 (undefined - 54e29217-2ac5-1b29-21ad-a55b584ba65d)
+
+**Note ID:** 54e29217-2ac5-1b29-21ad-a55b584ba65d
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2008-08-13T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 18 years - Sex: Male - Race: Black or African American Chief Complaint: General examination of patient for . History of Present Illness: The patient is an 18-year-old male presenting for a general examination. The patient reports no specific complaints but is being evaluated for potential symptoms that may be caused by . He denies any recent illness, fever, chills, or changes in energy levels. The patient states he has been feeling generally well but was referred for a comprehensive assessment. Review of Systems: - Constitutional: No fever, chills, night sweats, or unexplained weight loss. - Cardiovascular: No chest pain, palpitations, or shortness of breath. - Respiratory: No cough, dyspnea, or wheezing. - Gastrointestinal: No nausea, vomiting, diarrhea, or abdominal pain. - Genitourinary: No dysuria, hematuria, or changes in urinary frequency. - Musculoskeletal: No joint pain, swelling, or limited mobility. - Neurological: No headaches, dizziness, or changes in vision or sensation. - Skin: No rashes, itching, or unusual lesions. - Psychiatric: No reported anxiety, depression, or sleep disturbances. Physical Examination: - Vital Signs: Temperature: 98.6°F, HR: 72 bpm, BP: 120/80 mmHg, RR: 16 breaths/min, SpO2: 98% on room air. - General: Well-appearing, alert, and oriented male in no acute distress. - HEENT: Pupils equal, round, and reactive to light. EOMI. No nasal congestion, sinus tenderness, or oropharyngeal abnormalities. - Neck: Supple, no lymphadenopathy or thyroid abnormalities. - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. - Lungs: Clear to auscultation bilaterally, no wheezes or crackles. - Abdomen: Soft, non-tender, non-distended, no organomegaly. - Extremities: No edema, cyanosis, or clubbing. - Skin: Normal turgor, no lesions or discoloration. - Neurological: Grossly intact motor and sensory function. Reflexes 2+ symmetrically. Differential Diagnosis (Potential causes for unspecified symptoms): 1. Viral syndrome – May present with nonspecific symptoms like fatigue or myalgia. 2. Anemia – Could cause fatigue or pallor, especially if chronic. 3. Hypothyroidism – May lead to fatigue, weight changes, or mood disturbances. 4. Hypertension – Elevated BP noted, may require further monitoring. 5. Psychosocial stressors – Anxiety or depression could manifest as general malaise. Plan: 1. Lab Work: Order a complete blood count (CBC), comprehensive metabolic panel (CMP), and thyroid-stimulating hormone (TSH) to evaluate for anemia, metabolic abnormalities, or thyroid dysfunction. 2. Further Evaluation: If symptoms persist or new ones arise, consider referral to a specialist (e.g., endocrinology, cardiology). 3. Lifestyle Counseling: Encourage healthy diet, hydration, and stress management. 4. Follow-Up: Schedule a follow-up appointment in 4-6 weeks to reassess. Disposition: Patient will be discharged home with instructions to follow up as planned. No acute interventions required at this time. Signed:
+
+============================================================
+
+## Note 3 (undefined - f5f51236-9708-b07e-8f57-fabc47da16f8)
+
+**Note ID:** f5f51236-9708-b07e-8f57-fabc47da16f8
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Kai187 Mann644
+**Date:** 2014-01-31T00:42:38.325-05:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75
+- Age: 23
+- Gender: Male
+- Race/Ethnicity: Black or African American Reason for Encounter: Chronic pain management follow-up. History of Present Illness: The patient is a 23-year-old male presenting with chronic pain. He reports a history of . The pain has been persistent for . The patient describes the pain as . The chronic pain has resulted in several associated symptoms, including:
+- Fatigue: The patient reports feeling tired and lacking energy, which impacts his daily activities.
+- Sleep disturbances: Difficulty falling asleep or staying asleep due to pain.
+- Mood changes: The patient has reported feelings of irritability, anxiety, and occasional episodes of depression.
+- Reduced mobility: Pain limits the patient’s ability to perform daily tasks and engage in physical activities.
+- Decreased concentration: Difficulty focusing on work or personal tasks due to persistent pain.
+- Headaches: The patient has experienced frequent headaches, possibly related to stress or pain. Past Medical History: - .
+- . Medications: - .
+- . Allergies: - . Physical Examination: - . Assessment: The patient is experiencing chronic pain with significant impact on his quality of life, including fatigue, sleep disturbances, mood changes, reduced mobility, and cognitive difficulties. Further evaluation and management are needed to address both the pain and its associated symptoms. Plan: 1. Pain Management: - Continue current pain medications as prescribed, with close monitoring for efficacy and side effects. - Consider adjusting dosage or switching to alternative analgesics if current regimen is insufficient.
+2. Physical Therapy: - Referral to physical therapy to improve mobility and strengthen affected areas.
+3. Psychological Support: - Referral to a mental health professional to address mood changes, anxiety, and depression.
+4. Lifestyle Modifications: - Encourage regular low-impact exercise, such as walking or swimming, to improve pain and mobility. - Recommend stress management techniques, such as mindfulness or meditation, to help with mood and sleep.
+5. Follow-Up: - Schedule follow-up appointment in to assess progress and adjust treatment plan as needed. Patient Education: - Educated patient on the importance of adhering to the treatment plan and attending follow-up appointments.
+- Advised patient on potential side effects of medications and when to seek medical attention.
+- Emphasized the importance of balancing rest and activity to avoid exacerbating pain. Signature:
+
+============================================================
+
+## Note 4 (undefined - 761bac3f-a82b-50f0-ceb5-cdabdc84ef56)
+
+**Note ID:** 761bac3f-a82b-50f0-ceb5-cdabdc84ef56
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2014-02-12T00:42:38.325-05:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75
+- Age: 23 years
+- Gender: Male
+- Race: Black or African American Chief Complaint: General examination of patient for unspecified reasons. History of Present Illness: The patient is a 23-year-old male presenting for a general examination. He reports no specific complaints at this time. However, the patient mentions a history of fatigue, occasional headaches, and mild joint pain that have been intermittent over the past few months. He denies any fever, chills, or night sweats. The patient also reports no recent weight changes, nausea, vomiting, or changes in bowel or bladder habits. He states that his symptoms may be related to stress or lack of sleep but is seeking a medical evaluation to rule out any underlying conditions. Review of Systems: - Constitutional: Denies fever, chills, night sweats, or recent weight changes.
+- Head, Eyes, Ears, Nose, and Throat: Reports occasional headaches, denies visual disturbances, ear pain, or nasal congestion.
+- Cardiovascular: Denies chest pain, palpitations, or shortness of breath.
+- Respiratory: Denies cough, shortness of anastomosis, or wheezing.
+- Gastrointestinal: Denies nausea, vomiting, diarrhea, or constipation.
+- Musculoskeletal: Reports mild joint pain, denies swelling or redness.
+- Skin: Denies rashes, itching, or changes in skin color.
+- Neurological: Denies numbness, tingling, or weakness.
+- Psychiatric: Reports occasional stress but denies depression or anxiety.
+- Genitourinary: Denies dysuria, frequency, or urgency. Physical Examination: - Vital Signs: Blood pressure 120/80 mmHg, heart rate 72 bpm, respiratory rate 16 breaths per minute, temperature 98.6°F, oxygen saturation 98% on room air.
+- General: Well-appearing male in no acute distress.
+- HEENT: Pupils equal, round, and reactive to light. No conjunctival injection. TMs clear bilaterally. Nasal mucosa clear. Mild erythema noted in the pharynx.
+- Neck: Supple, no lymphadenopathy, no thyromegaly.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Pulmonary: Clear to auscultation bilaterally, no wheezes or crackles.
+- Abdominal: Soft, non-tender, no organomegaly.
+- Musculoskeletal: Full range of motion noted in all extremities. Mild tenderness noted in bilateral knees and wrists upon palpation.
+- Skin: No rashes or lesions noted.
+- Neurological: Grossly intact, no focal deficits noted. Assessment: 1. General examination for fatigue, headaches, and joint pain.
+2. Rule out underlying conditions such as anemia, infection, or inflammatory processes. Plan: 1. Obtain a complete blood count (CBC) to assess for anemia or infection.
+2. Consider inflammatory markers such as erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) if initial findings are inconclusive.
+3. Advise the patient on stress management techniques and adequate sleep hygiene.
+4. Follow up in two weeks to reassess symptoms and review laboratory results.
+5. Refer to a rheumatologist if joint pain persists or worsens. Patient Education: The patient was educated on the importance of maintaining a healthy lifestyle, including adequate sleep, balanced diet, and regular exercise. He was also advised to monitor his symptoms and seek immediate medical attention if they worsen or new symptoms develop.
+
+============================================================
+
+## Note 5 (undefined - abbb8b50-5cea-1206-d942-168429b5254a)
+
+**Note ID:** abbb8b50-5cea-1206-d942-168429b5254a
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2015-02-18T00:42:38.325-05:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 24 - Race: Black or African American - Gender: Male Reason for Encounter: General examination. Subjective: The patient presents for a general examination. No specific chief complaint is documented, but the encounter may be related to mild pain or inflammation, given the prescription of Ibuprofen. The patient may report symptoms such as headache, muscle soreness, joint pain, or fever, which could be managed with Ibuprofen. Objective: - General examination performed (vitals, physical exam findings not specified). - Prescribed Ibuprofen 400 MG Oral Tablet for potential pain or inflammatory symptoms. Assessment: The patient is a 24-year-old male with no significant medical history reported. He is prescribed Ibuprofen for mild to moderate pain or inflammation. Plan: - Medication: Ibuprofen 400 MG Oral Tablet - Instructions: Take 1 tablet (400 mg) every 4 to 6 hours as needed for pain or inflammation. Do not exceed 3 tablets (1200 mg) in 24 hours unless directed by a healthcare provider. - Administration: Take with food or milk to minimize gastrointestinal discomfort. - Precautions: Avoid alcohol while taking Ibuprofen, as it may increase the risk of stomach bleeding. Discontinue use and contact a healthcare provider if symptoms persist or worsen, or if signs of an allergic reaction (rash, itching, swelling, severe dizziness) occur. Follow-Up: The patient should follow up if symptoms do not improve or if new or worsening symptoms arise. Provider: Date:
+
+============================================================
+
+## Note 6 (undefined - c55f548e-59e6-4df5-098c-db198db31909)
+
+**Note ID:** c55f548e-59e6-4df5-098c-db198db31909
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2016-02-24T00:42:38.325-05:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 25 - Race: Black or African American - Sex: Male Encounter Date: Chief Complaint: General examination for . History of Present Illness: The patient presented for a general examination. No specific complaints were reported, but the assessment included screening for potential symptoms such as: - Pain (may be related to musculoskeletal issues, headache, or other sources) - Fatigue or malaise - Mood disturbances (screening for depression) - Signs of domestic abuse or social stressors Review of Systems: - General: No fever, chills, or weight changes reported. - Pain: No acute pain described, but patient may have underlying discomfort prompting Ibuprofen. - Psychiatric: Patient underwent depression screening (e.g., PHQ-9 or similar tool). - Social: Domestic abuse screening performed (no concerns reported unless noted). Assessment & Plan: 1. Medication Prescribed: - Ibuprofen 400 MG Oral Tablet : Prescribed for potential pain management. - Instructions: Take 1 tablet (400 mg) every 4-6 hours as needed for pain. Do not exceed 3 tablets (1200 mg) in 24 hours. - Side Effects: Instruct patient to monitor for gastrointestinal upset, nausea, or dyspepsia. Advise to take with food or milk to minimize irritation. Discontinue if severe symptoms (e.g., black stools, vomiting blood) occur and seek medical attention. 2. Screenings Performed: - Depression Screening: Completed (e.g., PHQ-9); results pending/normal unless otherwise documented. - Domestic Abuse Screening: Negative unless concerns arise. - Immunizations: - Influenza, seasonal, injectable, preservative-free: Administered. Patient educated on potential mild side effects (e.g., soreness at injection site, low-grade fever) and advised to rest and hydrate. 3. Follow-Up: - Return if symptoms worsen or new concerns arise. - Re-evaluate if pain persists despite Ibuprofen or if depression screening indicates further intervention. Plan: Continue monitoring patient’s symptoms and social support needs. No further diagnostics ordered unless follow-up reveals new findings. Provider Signature:
+
+============================================================
+
+## Note 7 (undefined - a3d2666e-b555-eb3f-d6fe-b37f6b70180e)
+
+**Note ID:** a3d2666e-b555-eb3f-d6fe-b37f6b70180e
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2017-03-01T00:42:38.325-05:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 26 - Race/Ethnicity: Black or African American - Sex: Male Encounter Date: Reason for Visit: General examination History of Present Illness: The patient presented for a general examination. No specific acute complaints were reported at this time. Review of Systems: - General: No fever, chills, or weight changes. - Cardiovascular: No chest pain, palpitations, or shortness of breath. - Respiratory: No cough, dyspnea, or wheezing. - Gastrointestinal: No nausea, vomiting, abdominal pain, or changes in bowel habits. - Musculoskeletal: No joint pain, swelling, or limitation of movement. - Neurological: No headaches, dizziness, or focal deficits. - Psychiatric: Patient reports no current symptoms of anxiety or depression. Medication Reconciliation: - Ibuprofen 400 MG Oral Tablet : Prescribed for potential musculoskeletal pain or inflammation. - No other current medications reported. Immunizations: - Influenza, seasonal, injectable, preservative free : Administered today. Procedures Performed: - Assessment of health and social care needs. - Assessment of anxiety. - Depression screening (Patient Health Questionnaire-9 score: ). - Assessment of substance use. - Screening for drug abuse. Assessment: The patient is a 26-year-old male with no acute complaints. Medication reconciliation was performed, and no contraindications to Ibuprofen were identified. Depression screening was negative, and no substance use concerns were noted. Plan: 1. Ibuprofen 400 MG Oral Tablet : - Instructions: Take one tablet (400 mg) by mouth every 4 to 6 hours as needed for pain or inflammation. - Max daily dose: Do not exceed 1200 mg in 24 hours unless directed by a healthcare provider. - Precautions: - Take with food or milk to reduce the risk of gastrointestinal upset. - Avoid alcohol while taking this medication. - Discontinue use if signs of an allergic reaction (e.g., rash, swelling, difficulty breathing) or severe gastrointestinal symptoms (e.g., black/tarry stools, vomiting blood) occur. - Report any unusual side effects, such as ringing in the ears, severe dizziness, or unusual bruising/bleeding. 2. Follow-Up: - Patient to follow up if symptoms worsen or if new symptoms develop. - Schedule routine follow-up as needed. 3. Education: - Reviewed the importance of completing the influenza vaccination. - Advised to practice good hand hygiene and respiratory etiquette to prevent illness. Disposition: Patient discharged home in stable condition. Physician Signature:
+
+============================================================
+
+## Note 8 (undefined - 0fb1f18c-0724-274d-dac5-35b98daf5b19)
+
+**Note ID:** 0fb1f18c-0724-274d-dac5-35b98daf5b19
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2018-03-07T00:42:38.325-05:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Name: Adan632 Sandy901 Parisian75 Age: 27 Race: Black or African American Gender: Male Reason for Visit: General examination History of Present Illness: The patient presents for a general examination. During the encounter, a comprehensive assessment was conducted, including medication reconciliation, assessment of health and social care needs, assessment of anxiety, depression screening, assessment of substance use, and screening using the Alcohol Use Disorders Identification Test - Consumption (AUDIT-C). Review of Systems: The patient reports no specific complaints at this time. However, potential symptoms that may arise include: - Gastrointestinal discomfort (e.g., nausea, stomach pain) - Dizziness or lightheadedness - Headache - Rash or itching (allergic reaction) - Fatigue Medications: - Ibuprofen 400 MG Oral Tablet prescribed for pain relief. Instructions for Ibuprofen 400 MG Oral Tablet : - Take one tablet (400 mg) every 4 to 6 hours as needed for pain or fever. - Do not exceed 6 tablets (2400 mg) in 24 hours unless directed by a healthcare provider. - Take with food or milk to minimize gastrointestinal discomfort. - Avoid alcohol while taking this medication, as it may increase the risk of stomach bleeding. - If symptoms persist or worsen, contact the clinic for further evaluation. Immunizations: - Influenza, seasonal, injectable, preservative-free: administered today. Assessments Performed: - Medication reconciliation - Assessment of health and social care needs - Assessment of anxiety - Depression screening - Assessment of substance use - Alcohol Use Disorders Identification Test - Consumption (AUDIT-C) Plan: - Continue monitoring for any adverse effects from Ibuprofen. - Follow up as needed for ongoing care. - Encourage the patient to adhere to immunization recommendations for future visits. Provider Signature:
+
+============================================================
+
+## Note 9 (undefined - beb1c5b7-6939-a125-5898-2b410b50646b)
+
+**Note ID:** beb1c5b7-6939-a125-5898-2b410b50646b
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2019-03-13T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 28 - Race: Black or African American - Sex: Male Date of Encounter: Reason for Visit: General examination Subjective: The patient presented for a general examination. No specific chief complaint was reported at this time. Objective: - Vitals: - Medication Reconciliation: Completed. No new medications reported. - Health and Social Care Needs Assessment: Performed. No immediate concerns identified. - Anxiety Assessment: Completed. No significant symptoms reported. - Depression Screening: Completed. Negative for major depressive disorder. - Substance Use Assessment: Completed. No current substance abuse reported. - Drug Abuse Screening: Negative. - Dental Referral: Patient referred for dental care procedure(s) due to . Immunizations: - Influenza, seasonal, injectable, preservative-free: Administered. Medications: - Ibuprofen 400 MG Oral Tablet : Prescribed. Assessment: The patient is generally healthy with no acute complaints. Routine screening and assessments were performed, with no significant findings. The patient was referred for dental care and received an influenza vaccination. Ibuprofen was prescribed for potential symptoms such as mild pain or inflammation. Plan: 1. Ibuprofen 400 MG Oral Tablet Instructions: - Take one tablet every 6 hours as needed for pain or inflammation. - Do not exceed 1200 mg (3 tablets) in 24 hours unless directed by a provider. - Take with food or milk to minimize gastrointestinal discomfort. - Avoid alcohol while taking this medication. - Discontinue use and contact a provider if symptoms worsen or if signs of an allergic reaction (e.g., rash, difficulty breathing) occur. 2. Follow-Up: - Schedule follow-up as needed for dental care. - Return if symptoms persist or worsen. Provider Signature: Date:
+
+============================================================
+
+## Note 10 (undefined - 46b2a865-6d13-b25a-837f-5999afec1b0d)
+
+**Note ID:** 46b2a865-6d13-b25a-837f-5999afec1b0d
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2019-03-27T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 28 - Race: Black or African American - Sex: Male Encounter Date: Reason for Visit: Check-up for Gingivitis History of Present Illness: The patient presents with symptoms consistent with gingivitis, including: - Red, swollen, or tender gums - Bleeding gums, especially during brushing or flossing - Bad breath (halitosis) - Gums that look shiny or glossy - Possible recession of gums Physical Examination: - Examination of gingivae revealed erythematous, edematous gingival tissue with evidence of bleeding on probing. - Supragingival and subgingival plaque and calculus were noted on all teeth. - No signs of periodontal pockets >3mm were observed. Procedures Performed: 1. Dental Consultation and Report: Comprehensive evaluation of oral health status. 2. Dental Care (Regime/Therapy): Initiation of a personalized oral hygiene plan. 3. Removal of Supragingival Plaque and Calculus: Performed using dental instruments. 4. Removal of Subgingival Plaque and Calculus: Performed using dental instruments. 5. Dental Plain X-ray (Bitewing): To assess bone levels and detect any underlying issues. 6. Examination of Gingivae: Detailed assessment of gum health. 7. Dental Fluoride Treatment: Applied to strengthen enamel and prevent further decay. 8. Oral Health Education: Provided instructions on proper brushing, flossing, and plaque control. Medication Prescribed: - Sodium Fluoride 0.0272 MG/MG Oral Gel - Instructions: Apply a thin ribbon of gel along the gumline using a toothbrush or special applicator. Leave in place for 1 minute, then spit out. Do not rinse, eat, or drink for at least 30 minutes afterward. Use once daily before bedtime, preferably after brushing. Plan: - Continue with diligent oral hygiene practices, including brushing twice daily and flossing once daily. - Return for follow-up in 3 months for re-evaluation of gingival health. - Reinforce the importance of regular dental visits for prevention and early intervention. Provider Signature:
+
+============================================================
+
+## Note 11 (undefined - 5a1eec75-daaf-f485-8deb-b7891edd7b10)
+
+**Note ID:** 5a1eec75-daaf-f485-8deb-b7891edd7b10
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2019-12-24T10:42:38.325-05:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75
+- Age: 29 years
+- Race: Black or African American
+- Gender: Male Chief Complaint: Viral sinusitis symptoms. History of Present Illness: The patient is a 29-year-old male presenting with symptoms consistent with viral sinusitis. He reports the following symptoms:
+- Nasal congestion
+- Facial pain or pressure, particularly in the sinus regions
+- Headache
+- Post-nasal drip
+- Fatigue
+- Mild fever (if applicable)
+- Cough (often worse at night)
+- Hyposmia (reduced sense of smell) or anosmia (loss of sense of smell)
+- Toothache (if maxillary sinus involvement) The patient reports that the symptoms began approximately days ago and have progressively worsened. He denies any recent history of upper respiratory infection or known exposure to sick contacts. He also denies any recent travel history. Review of Systems: - Constitutional: Reports fatigue, denies significant weight loss or night sweats.
+- HEENT: Reports nasal congestion, facial pain, headache, post-nasal drip, and reduced sense of smell. Denies sore throat, ear pain, or visual disturbances.
+- Respiratory: Reports cough, denies shortness of breath or wheezing.
+- Cardiovascular: Denies chest pain or palpitations.
+- Gastrointestinal: Denies nausea, vomiting, or diarrhea.
+- Musculoskeletal: Denies joint pain or muscle aches.
+- Neurological: Denies altered mental status or seizures.
+- Skin: Denies rash or itching. Physical Examination: - Vital Signs: Temperature , Heart Rate , Respiratory Rate , Blood Pressure , Oxygen Saturation on room air.
+- General: Alert and oriented, appears fatigued.
+- HEENT: Mild erythema of the nasal mucosa, clear to slightly mucoid discharge noted. Tenderness over the maxillary and ethmoid sinuses on palpation. Mild facial swelling may be present.
+- Neck: Supple, no lymphadenopathy.
+- Lungs: Clear to auscultation bilaterally, no wheezes or crackles.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Abdomen: Soft, non-tender, no organomegaly.
+- Extremities: No edema, normal capillary refill. Assessment: 1. Viral sinusitis (acute)
+2. Rule out bacterial sinusitis Plan: 1. Symptomatic management: - Encourage adequate hydration. - Recommend over-the-counter (OTC) saline nasal irrigation (e.g., neti pot or squeeze bottle) for nasal congestion. - Suggest OTC pain relievers such as acetaminophen or ibuprofen for headache and facial pain. - Advise on the use of decongestants (oral or nasal) for a maximum of 3-5 days to avoid rebound congestion. - Encourage rest and adequate sleep.
+2. Monitor for signs of complications or worsening symptoms that may indicate bacterial sinusitis (e.g., persistent high fever, purulent nasal discharge, facial swelling, or worsening pain).
+3. Reassurance that viral sinusitis is usually self-limiting and resolves within 7-10 days.
+4. Follow-up as needed or if symptoms do not improve or worsen. Patient Education: - Educate the patient on the typical course of viral sinusitis and the importance of completing the recommended treatment plan.
+- Advise the patient to seek immediate medical attention if they develop severe symptoms, such as high fever, difficulty breathing, or signs of meningitis (e.g., severe headache, neck stiffness). Signature:
+
+============================================================
+
+## Note 12 (undefined - 6b1a055c-84c8-1608-98a0-90905193294c)
+
+**Note ID:** 6b1a055c-84c8-1608-98a0-90905193294c
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2020-03-18T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 29 - Race: Black or African American - Gender: Male Reason for Encounter: General examination for . History of Present Illness: The patient presented for a general examination. No specific chief complaint was reported, but the encounter included a comprehensive assessment of health and social care needs, including screening for anxiety, depression, and domestic abuse. The patient was also screened for influenza and received the seasonal influenza vaccine. Review of Systems: - Pain: The patient reported no acute pain at this time. Ibuprofen 400 mg was prescribed for potential mild-to-moderate pain management if symptoms arise. - Anxiety/Depression: The patient completed screening tools for anxiety and depression. No acute concerns were identified, but follow-up is recommended if symptoms develop. - Other: No other significant symptoms reported. Medication Reconciliation: - Prescribed: Ibuprofen 400 mg oral tablets as needed for pain or inflammation. - Immunizations: Influenza, seasonal, injectable, preservative-free, administered today. Instructions for Ibuprofen 400 mg Oral Tablet : - Take one tablet every 4 to 6 hours as needed for pain or fever. - Do not exceed 1200 mg in 24 hours unless directed by a healthcare provider. - Take with food or milk to minimize gastrointestinal discomfort. - Avoid alcohol while taking this medication. - Stop use and seek medical attention if symptoms worsen or new symptoms occur. Potential Symptoms Caused by Ibuprofen: - Gastrointestinal upset (e.g., nausea, heartburn, stomach pain) - Dizziness or drowsiness - Allergic reactions (rare, but seek immediate care if rash, swelling, or difficulty breathing occurs) - Kidney or liver issues (monitor for changes in urination or fatigue) Assessments Performed: - Medication reconciliation - Health and social care needs assessment - Anxiety screening - Domestic abuse screening - Depression screening Immunizations Administered: - Influenza, seasonal, injectable, preservative-free Plan: - Continue monitoring for any new or worsening symptoms. - Follow up if anxiety, depression, or pain symptoms persist or worsen. - No further interventions at this time. Signature:
+
+============================================================
+
+## Note 13 (undefined - 85fe6643-e749-6cf7-b92a-b3549d6399c6)
+
+**Note ID:** 85fe6643-e749-6cf7-b92a-b3549d6399c6
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2021-03-24T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 30 years - Race: Black or African American - Sex: Male Reason for Encounter: General examination of patient for . Subjective: The patient presented for a general health assessment. No specific complaints were reported at this time. The patient was screened for depression and assessed for health and social care needs. No acute symptoms were noted, though the patient may be experiencing . Objective: - Vital signs: - Physical examination: ] - Depression screening: Completed using . - Immunizations: Influenza, seasonal, injectable, preservative-free administered. Assessment: 1. General health assessment completed. 2. Depression screening negative for significant symptoms. 3. No acute pathology identified, though may be present. Plan: 1. Medication: - Prescribed Ibuprofen 400 MG Oral Tablet for . - Instructions: Take 1 tablet (400 mg) by mouth every 6 hours as needed for pain or fever. Do not exceed 3 tablets (1200 mg) in 24 hours. Take with food or milk to minimize gastrointestinal discomfort. Avoid alcohol while taking this medication. Discontinue and contact the clinic if symptoms worsen or if signs of an allergic reaction (e.g., rash, difficulty breathing) occur. 2. Follow-Up: Return in if symptoms persist or worsen. 3. Immunizations: Influenza vaccine administered. Educated on potential side effects (e.g., soreness at injection site, mild fatigue) and advised to contact the clinic if severe reactions occur. 4. Depression Screening: Re-screen in as per guidelines. Plan for : - If experiencing , contact the clinic for further evaluation. - Consider non-pharmacologic measures such as rest, hydration, and over-the-counter pain relief as directed. Discharge Instructions: - Monitor for any adverse effects from Ibuprofen or the influenza vaccine. - Maintain good hydration and rest. - Follow up as scheduled. Provider Signature:
+
+============================================================
+
+## Note 14 (undefined - 2def61fb-4e26-0785-44b2-a795348b9127)
+
+**Note ID:** 2def61fb-4e26-0785-44b2-a795348b9127
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2021-07-28T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75
+- Age: 31
+- Gender: Male
+- Race: Black or African American Chief Complaint: Acute infective cystitis History of Present Illness: The patient is a 31-year-old male presenting with symptoms consistent with acute infective cystitis. He reports experiencing:
+- Dysuria (painful urination)
+- Increased urinary frequency
+- Urinary urgency
+- Suprapubic discomfort
+- Possible hematuria (blood in urine)
+- Mild low back pain (if applicable) The patient denies any recent sexual activity that could contribute to the infection. He also denies any history of urinary tract infections (UTIs) in the past. Past Medical History: - No significant past medical history reported. Medications: - Cephalexin 500 mg oral tablet, prescribed for acute infective cystitis. Allergies: - No known drug allergies reported. Social History: - No significant social history reported. Physical Examination: - General: Patient appears well-nourished and in no acute distress.
+- Abdominal: Suprapubic tenderness noted upon palpation.
+- Genitourinary: No significant abnormalities noted upon examination. Diagnostic Tests: - Urine specimen collection for urinalysis with reflex to microscopy and culture. Plan: 1. Antibiotic Therapy: - Prescribed cephalexin 500 mg oral tablet, to be taken every 6 hours for 7 days. - Instructions for taking cephalexin: - Take one tablet (500 mg) by mouth every 6 hours, or as prescribed by the healthcare provider. - It is recommended to take cephalexin with a full glass of water. - Complete the full course of antibiotics as prescribed, even if symptoms improve before the medication is finished. - If a dose is missed, take it as soon as possible unless it is close to the next scheduled dose. Do not double up on doses. - Report any side effects such as severe diarrhea, rash, or allergic reactions to the healthcare provider immediately. 2. Follow-Up: - Follow up in 3-5 days to assess response to treatment and review urinalysis and culture results. 3. Patient Education: - Encourage increased fluid intake to help flush the urinary tract. - Advise the patient to avoid irritants such as caffeine, alcohol, and spicy foods, which can exacerbate symptoms. - Discuss the importance of completing the full course of antibiotics to prevent recurrence and development of antibiotic resistance. Signature:
+
+============================================================
+
+## Note 15 (undefined - f729d353-82c8-761e-ad44-0022b5f4c32f)
+
+**Note ID:** f729d353-82c8-761e-ad44-0022b5f4c32f
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2022-03-30T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 31 - Race: Black or African American - Sex: Male Date of Encounter: Reason for Visit: General examination and health assessment. History of Present Illness: The patient presents for a general examination. No specific acute symptoms were reported at this time. The encounter included a comprehensive assessment of health and social care needs, depression screening (performed twice), and assessment of substance use. The patient was also evaluated using the Alcohol Use Disorders Identification Test - Consumption (AUDIT-C). Medication Reconciliation: - Ibuprofen 400 MG Oral Tablet was prescribed. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. - Td (adult), 5 Lf tetanus toxoid, preservative-free, adsorbed. Referrals: - Dental care referral was provided for necessary procedures. Instructions for Ibuprofen 400 MG Oral Tablet : - Take one tablet (400 mg) orally every 4-6 hours as needed for pain or fever. - Do not exceed 1200 mg in 24 hours unless directed by a healthcare provider. - Take with food or milk to minimize stomach upset. - Avoid alcohol while taking this medication, as it may increase the risk of stomach bleeding. - Discontinue use and seek medical attention if symptoms worsen or if new symptoms (e.g., severe stomach pain, black/tarry stools, vomiting blood, chest pain, shortness of breath) occur. Assessment: The patient was assessed for potential symptoms that may arise from an underlying condition or from the use of Ibuprofen. Common side effects of Ibuprofen include: - Stomach upset or pain - Nausea - Dizziness - Headache - Rash or itching (rare) Plan: - Continue monitoring for any adverse effects from Ibuprofen. - Follow up as needed for dental care. - Repeat depression and substance use screening at future visits if indicated. Signature: ,
+
+============================================================
+
+## Note 16 (undefined - b65a1864-f374-8fde-f326-c999364cf891)
+
+**Note ID:** b65a1864-f374-8fde-f326-c999364cf891
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2022-04-13T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75
+- Age: 31
+- Gender: Male
+- Race: Black or African American Reason for Encounter: Check-up for Gingivitis. History of Present Illness: The patient presents for a dental check-up due to concerns related to gingivitis. The patient reports experiencing symptoms commonly associated with gingivitis, including:
+- Redness and swelling of the gums
+- Bleeding gums, particularly during brushing or flossing
+- Bad breath (halitosis)
+- Tenderness or discomfort in the gum tissues The patient has no reported history of severe pain or tooth mobility, but is concerned about the aesthetic and potential long-term effects of gingivitis on oral health. Review of Systems: - No reported systemic symptoms such as fever or malaise.
+- No reported history of recent illness or changes in medication that may affect oral health. Past Dental History: The patient has a history of occasional dental visits but admits to inconsistent oral hygiene practices in the past. The patient has not had a comprehensive dental cleaning in over a year. Physical Examination: - Oral Cavity: Examination of the oral cavity reveals generalized mild to moderate gingival inflammation. The gums appear red, swollen, and demonstrate bleeding upon probing.
+- Teeth: No obvious dental caries or restorations noted during the visual examination. No signs of periodontal pockets greater than 4mm detected.
+- Bite-wing X-rays: Dental plain x-ray bitewing shows no evidence of significant bone loss or periodontal disease at this time. Procedures Performed: 1. Dental Consultation and Report: Discussion with the patient regarding their dental history, symptoms, and concerns. A comprehensive report of findings and treatment plan was provided.
+2. Dental Care (Regime/Therapy): A personalized oral hygiene regimen was outlined, emphasizing proper brushing techniques, flossing, and the use of an antiseptic mouth rinse.
+3. Removal of Supragingival Plaque and Calculus: Scaling was performed to remove plaque and calculus deposits from the visible surfaces of all teeth using dental instruments.
+4. Removal of Subgingival Plaque and Calculus: Subgingival scaling was performed to remove plaque and calculus deposits from below the gumline using dental instruments.
+5. Dental Plain X-ray Bitewing: Bitewing radiographs were taken to assess for cavities between teeth and to evaluate the bone levels around the teeth.
+6. Examination of Gingivae: A thorough examination of the gums was conducted to assess for signs of inflammation, bleeding, and pocket depth.
+7. Oral Health Education Procedure(s): The patient received detailed oral hygiene instruction, including proper brushing and flossing techniques, and the importance of regular dental visits. Diagnosis: Gingivitis Plan: 1. Follow-Up: The patient will return for a follow-up visit in three months for a re-evaluation of gingival health and to ensure compliance with the oral hygiene regimen.
+2. Oral Hygiene: The patient is instructed to adhere strictly to the recommended oral hygiene practices, including brushing twice daily with fluoride toothpaste, daily flossing, and using an antiseptic mouth rinse as directed.
+3. Lifestyle Modifications: Encourage the patient to maintain a balanced diet and avoid tobacco use, as these factors can impact oral health.
+4. Education: Reinforce the importance of regular dental check-ups and professional cleanings in preventing gingivitis and maintaining overall oral health. Provider Signature:
+
+============================================================
+
+## Note 17 (undefined - 1c66f896-62e9-faa1-cd9b-3b6ecb9d376d)
+
+**Note ID:** 1c66f896-62e9-faa1-cd9b-3b6ecb9d376d
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2023-04-05T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 32 years - Race: Black or African American - Gender: Male Reason for Encounter: General examination. History of Present Illness: The patient presented for a general examination. No specific chief complaint was reported, but the assessment included evaluation for potential symptoms such as pain, fever, or other discomfort that may necessitate the use of Ibuprofen 400 MG Oral Tablet . Medication Reconciliation: - Ibuprofen 400 MG Oral Tablet was prescribed. - No other medications were reported. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. Procedures Performed: - Medication reconciliation. - Assessment of health and social care needs. - Assessment of anxiety. Assessment: The patient appears to be in generally good health, though the examination was performed to evaluate for any underlying issues that may cause symptoms such as: - Headache - Muscle or joint pain - Fever - Mild inflammation Plan: 1. Medication Instruction (Ibuprofen 400 MG Oral Tablet ): - Take 1 tablet (400 mg) every 4 to 6 hours as needed for pain or fever. - Do not exceed 3 tablets (1200 mg) in 24 hours unless directed by a healthcare provider. - Take with food or milk to minimize stomach upset. - Avoid alcohol while taking this medication. - If symptoms persist or worsen, contact the clinic. 2. Follow-Up: - Schedule a follow-up if new or worsening symptoms occur. 3. Immunization: - The patient received the seasonal influenza vaccine. Educate on potential side effects (e.g., soreness at injection site, mild fever) and encourage monitoring for any adverse reactions. 4. Anxiety Assessment: - Further evaluation or referral may be needed if anxiety symptoms persist or interfere with daily functioning. Discharge Instructions: - Monitor for any signs of adverse reactions to Ibuprofen (e.g., stomach pain, nausea, dizziness). - Report any severe symptoms (e.g., difficulty breathing, chest pain) immediately. - Follow up as needed. Signature:
+
+============================================================
+
+## Note 18 (undefined - 74e92837-40fc-363c-0e7f-56bf9c094ca4)
+
+**Note ID:** 74e92837-40fc-363c-0e7f-56bf9c094ca4
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2024-04-10T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 33 - Race: Black or African American - Sex: Male Reason for Visit: General examination for . History of Present Illness: The patient presented for a general health assessment. No specific acute complaints were reported at this time. The visit included an evaluation of overall health and social care needs. Review of Systems: - No acute symptoms reported. - Possible symptoms to monitor include: - Headache - Mild musculoskeletal pain - Fever or chills (if applicable) - General malaise (if applicable) Physical Examination: - General: Alert and oriented ×3. - Vital Signs: Within normal limits (BP, HR, RR, Temp, O2 sat). - HEENT: Unremarkable. - Cardiovascular: Regular rate and rhythm. - Respiratory: Clear to auscultation bilaterally. - Abdominal: Soft, non-tender, no guarding. - Extremities: No swelling or deformities noted. Assessments Performed: - Health and social care needs assessment. - Depression screening (e.g., PHQ-9 or similar tool). - Influenza vaccination administered. Immunizations Given: - Influenza, seasonal, injectable, preservative-free. Medications Prescribed: - Ibuprofen 400 MG Oral Tablet - Indication: For mild to moderate pain or fever relief. - Instructions: - Take one tablet (400 mg) every 4 to 6 hours as needed for pain or fever. - Do not exceed 1200 mg in 24 hours unless directed by a healthcare provider. - Take with food or milk to minimize gastrointestinal upset. - Avoid alcohol while taking this medication. - Discontinue if signs of an allergic reaction (e.g., rash, swelling, difficulty breathing) occur. Follow-Up: - Return if symptoms worsen or new concerns arise. - Follow up as needed for ongoing care. Disposition: - Patient tolerated the visit well. Education provided regarding medication and vaccination. Provider Signature:
+
+============================================================
+
+## Note 19 (undefined - 3db4ee6f-7d35-dcf6-c440-223c48492123)
+
+**Note ID:** 3db4ee6f-7d35-dcf6-c440-223c48492123
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2024-04-17T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Encounter Note Patient Information: - Name: Adan632 Sandy901 Parisian75
+- Age: 33 years
+- Race/Ethnicity: Black or African American
+- Gender: Male Date of Encounter: Reason for Encounter: The patient presents today for evaluation and management of Anemia. History of Present Illness: The patient reports experiencing symptoms consistent with anemia, including: - Fatigue: Reports feeling tired and lacking energy, even after adequate rest.
+- Weakness: Subjectively describes a feeling of physical weakness and reduced stamina.
+- Pale Skin: Patient notes that his skin appears paler than usual.
+- Shortness of Breath: Experiences dyspnea, particularly with minimal exertion.
+- Dizziness: Reports occasional episodes of dizziness or lightheadedness.
+- Headaches: Frequent headaches have been noted.
+- Chest Pain: The patient denies any chest pain or palpitations.
+- Cold Hands and Feet: Reports feeling cold in his extremities.
+- Irregular Heartbeat: Denies any palpitations or irregular heart rhythms. The onset of these symptoms is . Review of Systems: - Constitutional: As above.
+- Cardiovascular: Denies chest pain, palpitations, orthopnea, or paroxysmal nocturnal dyspnea.
+- Respiratory: Denies cough, sputum production, wheezing, or shortness of breath at rest.
+- Gastrointestinal: Denies abdominal pain, nausea, vomiting, diarrhea, or changes in bowel habits. Reports normal appetite but notes unintentional weight loss of .
+- Musculoskeletal: Denies joint pain, swelling, or stiffness.
+- Neurological: Denies numbness, tingling, or changes in sensation.
+- Integumentary: Denies rash, itching, or easy bruising/bleeding. Medication Reconciliation: - - Denies use of over-the-counter iron supplements or vitamins. Past Medical History: - Social History: - Family History: - Physical Examination: - General: Patient appears well-nourished but fatigued.
+- Vital Signs: - HEENT: PERRLA, EOMI. Conjunctiva appear pale. No jaundice noted.
+- Neck: Supple, no lymphadenopathy.
+- Lungs: Clear to auscultation bilaterally.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. S1, S2 normal.
+- Abdomen: Soft, non-tender, non-distended. No hepatosplenomegaly.
+- Extremities: No edema, cool to touch.
+- Skin: Pale in appearance. Procedures Performed: 1. Peripheral Blood Smear Interpretation: 2. Review of Systems: Completed as above.
+3. Medication Reconciliation: Completed as above.
+4. Brief General Examination: Performed as documented above. Assessment: 1. Anemia: The patient presents with symptoms of fatigue, weakness, pallor, and dyspnea consistent with anemia. Further workup is needed to determine the etiology (e.g., iron deficiency, hemolysis, chronic disease, etc.). Peripheral blood smear findings will guide initial diagnostic considerations. Plan: 1. Diagnostic Workup: - Order complete blood count (CBC) with differential and reticulocyte count. - Order iron studies (ferritin, iron, TIBC, transferrin saturation). - Consider additional tests based on initial results and peripheral smear findings (e.g., vitamin B12, folate levels, hemoglobin electrophoresis if indicated).
+2. Management: - Educate patient on the symptoms of anemia and the importance of follow-up. - Counsel on potential dietary modifications (e.g., iron-rich foods) if applicable. - Prescribe oral iron supplementation if iron deficiency is confirmed.
+3. Follow-Up: - Schedule follow-up appointment in to review results and adjust management as needed.
+4. Referral: - Consider referral to Hematology if initial workup is inconclusive or if concerning findings are identified. Provider Signature:
+
+============================================================
+
+## Note 20 (undefined - bf6e0e55-3ed0-d0f5-039b-94e0729d9c09)
+
+**Note ID:** bf6e0e55-3ed0-d0f5-039b-94e0729d9c09
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Hank686 Schneider199
+**Date:** 2025-04-16T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 34 - Race: Black or African American - Gender: Male Date of Encounter: Reason for Visit: General examination. History of Present Illness (HPI): The patient presented for a general examination. No specific complaints were reported at this time. The encounter was conducted to assess overall health status and address any potential concerns. Medication Reconciliation: - Prescribed Medication: Ibuprofen 400 MG Oral Tablet – 1 tablet every 4-6 hours as needed for pain or inflammation, with a maximum of 3 tablets in 24 hours. Instructed to take with food or milk to minimize gastrointestinal upset. Assessments Performed: - Assessment of health and social care needs. - Assessment of anxiety. - Depression screening (completed; results pending). - Patient referral for dental care procedure(s) performed (referral documentation submitted). Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. Symptoms to Monitor (Potential Side Effects of Ibuprofen): - Gastrointestinal symptoms (e.g., nausea, abdominal pain, heartburn). - Dizziness or drowsiness. - Allergic reactions (e.g., rash, itching, swelling). - Signs of kidney or liver issues (e.g., dark urine, yellowing of skin/eyes, unusual fatigue). - Signs of cardiovascular issues (e.g., chest pain, shortness of breath). Instructions for Ibuprofen 400 MG Oral Tablet : - Take 1 tablet every 4-6 hours as needed for pain or inflammation. - Do not exceed 3 tablets in 24 hours. - Take with food or milk to reduce the risk of stomach upset. - If symptoms persist or worsen, contact the clinic. - Discontinue use and seek medical attention if severe side effects occur. Follow-Up: - Follow up as needed for depression screening results. - Follow up with the referred dental provider for scheduled procedure(s). Signature: ,
+
+============================================================
+
+## Note 21 (undefined - 52fc8c1a-7bae-08a9-f162-e4b49d1a3d02)
+
+**Note ID:** 52fc8c1a-7bae-08a9-f162-e4b49d1a3d02
+**Patient ID:** 2ef49e5d-330c-cd3b-8c95-b1b546077fd0
+**Note Type:** DocumentReference
+**Provider:** Dr. Marcus77 Schamberger479
+**Date:** 2025-04-30T01:42:38.325-04:00
+**Source:** Adan632_Parisian75_2ef49e5d-330c-cd3b-8c95-b1b546077fd0.json
+
+**Clinical Content:**
+Medical Note Patient Information: - Name: Adan632 Sandy901 Parisian75 - Age: 34 - Race: Black or African American - Gender: Male Reason for Encounter: Check-up for Gingivitis History of Present Illness: The patient presents with symptoms consistent with gingivitis, including: - Redness and swelling of the gums - Bleeding gums, particularly during brushing or flossing - Bad breath (halitosis) - Gum tenderness or discomfort The patient has been experiencing these symptoms for an unspecified duration and sought dental evaluation. Dental Consultation and Findings: - Dental consultation and report completed. - Examination of gingivae revealed generalized inflammation, erythema, and bleeding on probing. - Supragingival and subgingival plaque and calculus were present on all teeth. Procedures Performed: 1. Dental Cleaning: - Removal of supragingival plaque and calculus from all teeth using dental instruments. - Removal of subgingival plaque and calculus from all teeth using dental instruments. 2. Dental Fluoride Treatment: Applied to enhance enamel strength and prevent further decay. 3. Oral Health Education: Provided instruction on proper brushing and flossing techniques, as well as the importance of regular dental visits. Prescription: - Sodium Fluoride 0.0272 MG/MG Oral Gel – To be used as follows: - Apply a small amount (pea-sized) of gel to a toothbrush. - Brush teeth thoroughly for 1 minute. - Do not rinse, spit, or eat for at least 30 minutes after application. - Use once daily before bedtime, after brushing with regular toothpaste. - Continue use as directed unless otherwise advised. Plan: - Schedule follow-up dental visit in 3 months to assess gingival health and plaque control. - Reinforce oral hygiene practices and advise patient to monitor for any worsening symptoms. Signature:
+
+============================================================
+
