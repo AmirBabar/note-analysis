@@ -76,7 +76,7 @@ export function MedicationsCard({ fhirData }: MedicationsCardProps) {
             <div className="space-y-2">
               <h4 className="font-medium text-sm">Current Medications:</h4>
               <div className="space-y-2">
-                {meds.medications.map((med, index) => (
+                {meds.medications.map((med: { name: string; dosage?: string; status?: string; category?: string }, index: number) => (
                   <div key={index} className="flex items-start justify-between p-2 bg-muted/50 rounded text-xs">
                     <div className="flex-1">
                       <p className="font-medium">{med.name}</p>
