@@ -1,13 +1,9 @@
-# Clinical Notes from Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
-
-## Note 1 (undefined - 1aa8c8bb-2d78-7718-8457-7373ba886bf5)
-
-**Note ID:** 1aa8c8bb-2d78-7718-8457-7373ba886bf5
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 1991-12-17T12:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+============================================================
+## Note 1 (Type: DocumentReference - ID: 1aa8c8bb-2d78-7718-8457-7373ba886bf5)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 1991-12-17T12:54:29.438-05:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Adah Jenni Ward MRN: 626-670-668 DATE OF ENCOUNTER: AGE: 2 years SEX: Female CHIEF COMPLAINT (CC): Persistent runny nose, cough, and fever. SUBJECTIVE History of Present Illness (HPI): Adah is a 2-year-old white female who presents to the clinic for evaluation of persistent upper respiratory symptoms. Her mother reports that the illness began approximately 11 days ago with a clear runny nose and mild cough. Over the past 4-5 days, her mother states her symptoms have worsened. The nasal discharge has changed from clear to thick, purulent, and consistently yellow. The cough has become more frequent and is described as a "deep, wet cough," worse at night and upon waking in the morning, often causing her to gag. She has had a fever for the last 3 days, with a maximum temperature of 102.3°F (39.1°C) at home, which has responded temporarily to acetaminophen or ibuprofen. Mother notes the patient has been more irritable and fussy than usual, has a decreased appetite, and has had some disrupted sleep. Mother also reports noticing some bad breath. She denies any episodes of vomiting, diarrhea, rash, or ear pain. Medications: Acetaminophen and Ibuprofen, given as needed for fever/pain. No other recent medications. Allergies: No Known Drug Allergies (NKDA). Past Medical History (PMH): Full-term birth, uncomplicated. Immunizations are up to date. No known chronic conditions. OBJECTIVE Vitals: Temp: 101.9°F (38.8°C) HR: 115 bpm RR: 24/min BP: 92/58 mmHg SpO2: 99% on room air Weight: 28.2 lbs (12.8 kg) Physical Exam: General: Alert, oriented, and interactive but appears acutely ill and mildly irritable. Well-nourished, well-developed. HEENT: Head: Normocephalic, atraumatic. Eyes: PERRLA. Conjunctivae clear without injection. No periorbital edema. Ears: TMs gray, normal light reflex, good mobility. No erythema or effusion. Nose: Nasal mucosa is erythematous and edematous. Thick, purulent, yellow secretions are visualized in both nasal passages. Throat: Oropharynx mildly erythematous without exudates. Tonsils 1+, non-erythematous. No intraoral lesions. Foul breath noted. Neck: Supple, full range of motion. Shotty anterior cervical lymphadenopathy. Lungs: Cough noted throughout exam. Lungs are clear to auscultation bilaterally. Good air entry. No wheezes, rales, or rhonchi. Heart: Regular rate and rhythm. No murmurs, rubs, or gallops. Abdomen: Soft, non-tender, non-distended. Bowel sounds active in all four quadrants. ASSESSMENT & PLAN Assessment: 1. Acute Bacterial Sinusitis: Characterized by >10 days of symptoms without improvement, purulent nasal discharge, and secondary worsening with fever and cough. Exam findings of purulent discharge support this diagnosis.
@@ -16,43 +12,31 @@ MEDICAL NOTE PATIENT: Adah Jenni Ward MRN: 626-670-668 DATE OF ENCOUNTER: AGE: 2
 4. Follow-up: Follow-up via telephone call in 2-3 days to assess response to treatment, otherwise as needed. , MD
 
 ============================================================
-
-## Note 2 (undefined - 6a80c3e9-d8cd-18b8-f790-b8c7427bc370)
-
-**Note ID:** 6a80c3e9-d8cd-18b8-f790-b8c7427bc370
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2007-08-21T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 2 (Type: DocumentReference - ID: 6a80c3e9-d8cd-18b8-f790-b8c7427bc370)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2007-08-21T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF SERVICE: PATIENT NAME: Adah Jenni MRN: Adah626 Jenni670 Ward668 DATE OF BIRTH: AGE: 18 SEX: Female ENCOUNTER TYPE: Office Visit - General Examination CHIEF COMPLAINT (CC): "I'm here for my pre-college physical, but I've also been feeling really tired and getting headaches a lot." HISTORY OF PRESENT ILLNESS (HPI): Adah is an 18-year-old white female presenting for a routine pre-college physical examination. She reports that over the past 2-3 months, she has been experiencing increased fatigue and frequent headaches. The fatigue is described as a general lack of energy, worse in the afternoons and evenings, sometimes interfering with her ability to study. She denies any significant weight changes, fever, or night sweats. Her headaches are described as bilateral, frontal, and of a pressing/tight quality. They occur 3-4 times per week, last for a few hours, and are not associated with nausea, vomiting, photophobia, or visual aura. She notes they seem to be worse when she is stressed about upcoming exams and moving to college. She reports some difficulty falling asleep due to "racing thoughts" but otherwise sleeps 7-8 hours. She has been using acetaminophen with minimal relief. REVIEW OF SYSTEMS (ROS): Constitutional: Reports fatigue as above. Denies fever, chills, or recent weight change. HEENT: Denies vision changes, hearing loss, rhinorrhea, or sore throat. Cardiovascular: Denies chest pain, palpitations, or shortness of breath. Respiratory: Denies cough or wheezing. Gastrointestinal: Denies abdominal pain, nausea, or changes in bowel habits. Neurological: Reports headaches as above. Denies dizziness, weakness, or numbness. Psychiatric: Reports feeling "on edge" and stressed about upcoming life changes. PHYSICAL EXAMINATION: Vitals: T: 98.6°F, HR: 72 bpm, BP: 108/68 mmHg, RR: 14/min, SpO2: 99% on room air. Height: 5'6", Weight: 135 lbs, BMI: 21.8 kg/m² General: Alert, oriented, well-developed, well-nourished, in no acute distress. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light. Tympanic membranes clear. Pharynx without erythema or exudate. Neck: Supple, full range of motion. No lymphadenopathy or thyromegaly. Mild tenderness to palpation in bilateral trapezius muscles. Lungs: Clear to auscultation bilaterally, no wheezes or rales. Heart: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, or gallops. Abdomen: Soft, non-tender, non-distended, bowel sounds present in all four quadrants. Extremities: No cyanosis, clubbing, or edema. Full range of motion. Neurological: Grossly intact. Cranial nerves II-XII intact. Sensation and strength are 5/5 in all four extremities. Coordination is normal. ASSESSMENT & PLAN: 1. Pre-college physical examination completed. All required forms have been completed. Immunizations are up to date per records. Plan: Provided patient with a copy of completed forms. Discussed importance of establishing care with university health services. 2. Tension-type headaches, likely stress-related. Plan: Discussed the likely relationship between stress, muscle tension, and headaches. Recommended trial of ibuprofen 400-600 mg every 6-8 hours as needed for headache pain, taking with food. Counseled on stress management techniques, including regular physical activity, mindfulness/meditation apps, and taking frequent study breaks. 3. Fatigue, multifactorial (likely stress and sleep-onset difficulty). Plan: Reinforced importance of sleep hygiene: consistent sleep/wake times, avoiding caffeine/screens before bed. Encouraged adequate hydration and balanced nutrition. Fatigue is expected to improve with management of stress and headaches. 4. Adjustment-related anxiety. Plan: Validated patient's feelings of stress regarding the transition to college. Strongly encouraged her to connect with the university's counseling and psychological services once on campus for support and coping strategies. Follow-up: Return to clinic as needed. Instructed to seek immediate medical attention for any "red flag" headache symptoms (worst headache of her life, fever with stiff neck, sudden onset, neurological deficits).
 
 ============================================================
-
-## Note 3 (undefined - 3330943d-3779-818f-e807-e9597e017bfd)
-
-**Note ID:** 3330943d-3779-818f-e807-e9597e017bfd
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2008-08-26T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 3 (Type: DocumentReference - ID: 3330943d-3779-818f-e807-e9597e017bfd)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2008-08-26T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF SERVICE: PATIENT: Jenni Ward MRN: 626-670-668 DATE OF BIRTH: AGE: 19 SEX: Female ETHNICITY: Caucasian CHIEF COMPLAINT (CC): Here for a general pre-college physical examination. HISTORY OF PRESENT ILLNESS (HPI): Ms. Ward is a 19-year-old white female who presents for a routine examination required prior to starting college. She is in generally good health. When asked about any concerns, she reports experiencing intermittent headaches for the past 2-3 months. She describes the headaches as a dull, aching, pressure-like sensation, typically bilateral and frontal, without radiation. She rates the pain as 3-4/10 in severity. Episodes last for a few hours and are not associated with nausea, vomiting, photophobia, or phonophobia. She notes no clear triggers but thinks they may be worse when she is studying late. She also reports a feeling of persistent, mild fatigue over the same period, stating she "doesn't feel as rested as she used to," despite getting 7-8 hours of sleep per night. She suspects these symptoms may be caused by stress related to upcoming college exams and moving away from home . She denies any recent illness, fever, chills, weight changes, vision changes, numbness, weakness, or head trauma. She uses ibuprofen occasionally for the headaches with partial relief. PAST MEDICAL HISTORY (PMH): Illnesses: None Surgeries: Tonsillectomy (age 5) Hospitalizations: None Allergies: No Known Drug Allergies (NKDA) Medications: Ibuprofen 400mg PRN for headache (approx. 2-3 times per month) Immunizations: Up to date; records reviewed. Will receive required Meningococcal B vaccine today. SOCIAL HISTORY (SH): Patient is a single, full-time student. Tobacco: Denies any use of tobacco, vaping, or e-cigarettes. Alcohol: Denies alcohol use. Drugs: Denies recreational drug use. Activity: Reports exercising 2-3 times per week (running, gym). FAMILY HISTORY (FH): Mother: (Age 40s), Hypertension. Father: (Age 40s), Healthy. Siblings: One younger brother, healthy. Grandparents: Maternal grandmother with Type 2 Diabetes. REVIEW OF SYSTEMS (ROS): Constitutional: Reports mild fatigue. Denies fever, chills, or recent weight loss/gain. HEENT: Reports headaches as above. Denies vision changes, hearing loss, tinnitus, sinus congestion, or sore throat. Cardiovascular: Denies chest pain, palpitations, or edema. Respiratory: Denies cough, shortness of breath, or wheezing. Gastrointestinal: Denies nausea, vomiting, diarrhea, constipation, or abdominal pain. Neurological: Denies dizziness, syncope, weakness, numbness, or tingling. Denures any history of migraines with aura. All other systems reviewed and are negative. PHYSICAL EXAMINATION: Vitals: BP: 112/68 mmHg, HR: 72 bpm, RR: 16/min, Temp: 98.4°F (36.9°C), SpO2: 99% on room air. Height: 5'6", Weight: 130 lbs, BMI: 21.0 kg/m² General: Well-developed, well-nourished female in no acute distress. Alert and oriented x4. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light and accommodation (PERRLA). Extraocular movements intact. Funduscopic exam shows sharp disc margins. Tympanic membranes clear. Nares patent. Mucous membranes moist. Pharynx without erythema or exudate. Neck: Supple, full range of motion. No lymphadenopathy or thyromegaly. Carotid pulses 2+ without bruits. Cardiovascular: Regular rate and rhythm. S1/S2 are distinct. No murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi. Abdomen: Soft, non-tender, non-distended. Bowel sounds are normoactive in all four quadrants. No hepatosplenomegaly. Extremities: No cyanosis, clubbing, or edema. Pulses 2+ and symmetric. Neurological: Mental status is appropriate. Cranial nerves II-XII intact. Sensation intact to light touch in all four extremities. Motor strength 5/5 throughout. Deep tendon reflexes 2+ and symmetric. Gait and coordination are normal. Skin: Warm, dry, and intact. No rashes, lesions, or abnormal pigmentation noted. ASSESSMENT AND PLAN: 1. Tension-Type Headaches: Likely related to stress. Symptoms are classic for tension headaches. Plan: Counseled on stress management techniques, including regular exercise, adequate sleep, and scheduled study breaks. Recommended continued use of OTC ibuprofen or acetaminophen as needed for headache pain. Will monitor. 2. Fatigue: Most likely secondary to stress and poor sleep quality. Plan: Reinforced sleep hygiene education (e.g., avoiding screens before bed, consistent sleep schedule). Will consider further workup if symptoms persist. 3. Pre-College Physical Examination: Completed. Plan: All required forms for college will be completed. Immunizations are up to date. 4. Health Maintenance: Plan: Discussed importance of a healthy diet, regular exercise, and avoidance of high-risk behaviors (tobacco, alcohol, drugs). Counseled on sun safety and skin cancer prevention. Recommended routine gynecological exam now that she is 19. Follow-up: Return as needed. Encouraged to call if headaches worsen in frequency or severity, or if any new symptoms develop. Will follow up on lab results if needed in the future. , MD
 
 ============================================================
-
-## Note 4 (undefined - e3d8bf3e-6bff-6c19-85d7-5aeba1d4b32b)
-
-**Note ID:** e3d8bf3e-6bff-6c19-85d7-5aeba1d4b32b
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2009-02-10T12:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 4 (Type: DocumentReference - ID: e3d8bf3e-6bff-6c19-85d7-5aeba1d4b32b)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2009-02-10T12:54:29.438-05:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Ward, Adah Jenni MRN: 626-670-668 DATE OF SERVICE: TYPE OF ENCOUNTER: Prenatal Initial Visit SUBJECTIVE Chief Complaint (CC): Patient is a 19-year-old G1P0 female presenting for initial prenatal care. History of Present Illness (HPI): Ms. Ward reports a positive home pregnancy test approximately 3 weeks ago. Her last menstrual period (LMP) was on , making her an estimated 8 weeks 0 days gestation by date. She denies any prior pregnancies. She reports symptoms consistent with early pregnancy, including: Nausea: Daily, primarily in the mornings, with occasional vomiting. She states it has not impacted her ability to stay hydrated. Fatigue: Reports significant increase in fatigue and desire to nap in the afternoons. Breast Tenderness: Notes her breasts are sore and sensitive to touch. Urinary Frequency: States she is voiding more often than usual. Food Cravings/Aversions: Reports aversion to the smell of coffee and greasy foods. Mild Cramping: Describes occasional, dull, low abdominal cramping, similar to menstrual cramps. She denies any vaginal bleeding, spotting, or fluid leakage. Lightheadedness: Reports occasional brief episodes of feeling lightheaded, especially when standing up quickly. She has started taking an over-the-counter prenatal vitamin. She denies any fever, chills, dysuria, or significant pain. Past Obstetric History (GTPAL): G1 T0 P0 A0 L0 Past Medical/Surgical History: None. Medications: - Prenatal Vitamin, daily
@@ -71,18 +55,14 @@ MEDICAL NOTE PATIENT: Ward, Adah Jenni MRN: 626-670-668 DATE OF SERVICE: TYPE OF
 - Abdomen: Soft, non-tender, non-distended. Bowel sounds normoactive in all four quadrants. Uterus is retroverted and palpable just above the pubic symphysis, consistent with an 8-week gestation. No rebound or guarding.
 - Extremities: No clubbing, cyanosis, or edema. Pulses are 2+ and symmetric. Labs/Diagnostics: - Bedside urine hCG: Positive. ASSESSMENT & PLAN Assessment: 1. Normal Pregnancy, 8 weeks EGA, G1P0 (ICD-10: Z34.00)
 2. Nausea of Pregnancy (ICD-10: O21.9)
-3. Fatigue secondary to pregnancy Plan: 1. Counseling and Education: - Discussed diet, nutrition, and importance of folic acid. - Advised on foods to avoid (unpasteurized cheeses, raw fish, deli meats). - Counseled on activity modification and safe exercise. - Reinforced abstinence from tobacco, alcohol, and illicit substances. - Reviewed warning signs (vaginal bleeding, severe abdominal pain, fever, persistent vomiting) and instructed to call the office or go to the ER if they occur. 2. Medications: - Continue daily prenatal vitamin. - Recommended small, frequent meals and bland snacks (e.g., crackers) for nausea. Discussed Vitamin B6 as a potential next step if nausea worsens. 3. Labs/Procedures: - Order standard prenatal labs: CBC, Blood type and Rh, Rubella titer, Hepatitis B surface antigen, Syphilis screen, Urine culture, and Chlamydia/Gonorrhea NAA. - Order a formal first-trimester ultrasound to confirm dating, establish fetal heart tones, and assess for viability. 4. Follow-Up: - Schedule return visit in 4 weeks, or sooner to discuss results of ultrasound and lab work. Scribed by:
+3. Fatigue secondary to pregnancy Plan: 1. Counseling and Education: - Discussed diet, nutrition, and importance of folic acid. - Advised on foods to avoid (unpasteurized cheeses, raw fish, deli meats). - Counseled on activity modification and safe exercise. - Reinforced abstinence from tobacco, alcohol, and illicit substances. - Reviewed warning signs (vaginal bleeding, severe abdominal pain, fever, persistent vomiting) and instructed to call the office or go to the ER if they occur. 2. Medications: - Continue daily prenatal vitamin. - Recommended small, frequent meals and bland snacks (e.g., crackers) for nausea. Discussed Vitamin B6 as a potential next step if nausea worsens. 3. Labs/Procedures: - Order standard prenatal labs: CBC, Blood type and Rh, Rubella titer, Hepatitis B surface antigen, Syphilis screen, Urine culture, and Chlamydia/Gonorrhea NAA. - Order a formal first-trimester ultrasound to confirm dating, establish fetal heart tones, and assess for viability. 4. Follow-Up: - Schedule return visit in 4 weeks, or sooner to discuss results of ultrasound and lab work. Scribed by: Medical Scribe
 
 ============================================================
-
-## Note 5 (undefined - d8df538e-3dcf-18eb-2654-a552a64ebfd7)
-
-**Note ID:** d8df538e-3dcf-18eb-2654-a552a64ebfd7
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2009-04-15T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 5 (Type: DocumentReference - ID: d8df538e-3dcf-18eb-2654-a552a64ebfd7)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2009-04-15T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Of course. Here is a prenatal visit medical note for the patient you described, written in a standard SOAP (Subjective, Objective, Assessment, Plan) format. PRENATAL OFFICE NOTE DATE OF SERVICE: PATIENT: Ward, Adah626 Jenni670 MRN: 668 DOB: AGE: 19 SEX: F RACE: White CHIEF COMPLAINT (CC): Routine prenatal visit for pregnancy complicated by congenital uterine anomaly. SUBJECTIVE (S): The patient is a G2 P0010, 19-year-old white female, here for a routine prenatal check-up at an estimated 20 weeks 0 days gestation. Her pregnancy has been complicated by a known congenital uterine anomaly, specifically a bicornuate uterus, diagnosed via a prior pelvic MRI. History of Present Illness (HPI): Patient reports feeling well overall. She states she has been consistent with taking her prenatal vitamins. She has felt fetal movements for the past two weeks, which she describes as "flutters" that are becoming more frequent. She reports occasional, mild, intermittent lower abdominal cramping, which is non-radiating and not associated with any activity. She denies any vaginal bleeding, spotting, or fluid leakage. She denies any regular or painful contractions. She has had some mild nausea but no vomiting. Patient expresses significant anxiety regarding her uterine anomaly and its potential impact on the pregnancy, specifically mentioning her fear of miscarriage and preterm delivery. She had a previous first-trimester miscarriage. Review of Systems (ROS): Constitutional: Denies fevers, chills, or recent weight changes. HEENT: No headaches, vision changes, or nasal congestion. Cardiovascular: No chest pain or palpitations. Respiratory: No shortness of breath or cough. Gastrointestinal: Occasional mild nausea. Denies diarrhea or constipation. Genitourinary: Denies dysuria, urgency, or frequency beyond that expected in pregnancy. No hematuria. Musculoskeletal: No back pain. Neurological: No dizziness or syncope. OBJECTIVE (O): Vitals: BP: 108/68 mmHg HR: 80 bpm RR: 16 bpm Temp: 98.4°F (36.9°C) Weight: 152 lbs (Weight gain of 3 lbs since last visit) Physical Exam: General: Alert, oriented x4, well-appearing, in no acute distress. Abdomen: Gravid, non-tender, soft. Fundal height is 20 cm, which is appropriate for gestational age. Uterine contour is slightly irregular, consistent with known bicornuate uterus. Fetal heart tones (FHT) auscultated with Doppler in the right upper quadrant, rate 148 bpm, regular. Extremities: No edema noted. No calf tenderness. Labs/Imaging: Patient's anatomy scan from last week was reviewed. Report indicates fetal growth is appropriate for gestational age. Amniotic fluid index is normal. Placenta is posterior, away from the internal cervical os. Fetal position is currently breech. ASSESSMENT (A): 1. Gestation, G2 P0010 at 20w0d. 2. Bicornuate Uterus: A major uterine anomaly, increasing risk for: Miscarriage (as per patient history) Preterm labor and delivery Malpresentation (as seen on current ultrasound) Fetal growth restriction
@@ -93,18 +73,14 @@ Of course. Here is a prenatal visit medical note for the patient you described, 
 5. Follow-up: Return to the clinic in 4 weeks for routine prenatal visit. Instructed to call sooner for any bleeding, cramping, leakage of fluid, or decreased fetal movement.
 
 ============================================================
-
-## Note 6 (undefined - 04d1e24e-333e-5e86-52a8-7d38dec72f85)
-
-**Note ID:** 04d1e24e-333e-5e86-52a8-7d38dec72f85
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2011-08-30T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 6 (Type: DocumentReference - ID: 04d1e24e-333e-5e86-52a8-7d38dec72f85)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2011-08-30T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
-好的，遵照指示。这是一份根据您提供的信息编写的医疗记录。 这份记录假设体检的原因为“新工作入职前体检”，并包含了与工作压力相关的症状。 ### 医疗记录 患者姓名： Adah626 Jenni670 Ward668 年龄： 22 性别： 女 种族： 白人 日期： 就诊类型： 入职前体检 S (Subjective - 主观信息) 主诉 (CC): 为新工作进行入职前体检。 现病史 (HPI): 患者是一位22岁女性，前来进行新工作的入职前体检。她自述总体健康状况良好，无已知慢性病。 在询问过程中，患者提到，过去几个月来，她感到一些轻微但持续的症状，这些症状可能源于对开始新工作和适应新环境的 压力 。具体症状包括： 1. 疲劳: 她表示经常感到疲倦，即使夜间睡眠后也觉得精力不足，这种情况在下午更为明显。
+好的，遵照指示。这是一份根据您提供的信息编写的医疗记录。 这份记录假设体检的原因为“新工作入职前体检”，并包含了与工作压力相关的症状。 医疗记录 患者姓名： Adah626 Jenni670 Ward668 年龄： 22 性别： 女 种族： 白人 日期： 就诊类型： 入职前体检 S (Subjective - 主观信息) 主诉 (CC): 为新工作进行入职前体检。 现病史 (HPI): 患者是一位22岁女性，前来进行新工作的入职前体检。她自述总体健康状况良好，无已知慢性病。 在询问过程中，患者提到，过去几个月来，她感到一些轻微但持续的症状，这些症状可能源于对开始新工作和适应新环境的 压力 。具体症状包括： 1. 疲劳: 她表示经常感到疲倦，即使夜间睡眠后也觉得精力不足，这种情况在下午更为明显。
 2. 紧张性头痛: 她报告有“偶尔的紧张性头痛”，通常描述为后枕部和颈部的压迫感，非搏动性，与特定时间或活动无关。
 3. 睡眠困难: 患者提到，她有时难以入睡，脑子里会反复思考新工作的事情，导致入睡时间超过30分钟。 患者否认有任何胸痛、呼吸急促、腹痛、恶心或视力变化。她未服用任何常规药物。 过往病史 (PMH): 无。 用药史: 无。 过敏史: 无已知药物或环境过敏。 社会史: 不吸烟，偶尔社交性饮酒。目前是学生，即将开始一份新的全职工作。 O (Objective - 客观信息) 生命体征: 血压: 118/75 mmHg 心率: 72 次/分钟 呼吸频率: 16 次/分钟 体温: 36.8°C 血氧饱和度: 99% (室内空气) 体格检查: 一般情况: 发育良好，营养良好，神志清晰，合作，无急性病容。 头颈部: 头颅无外伤。瞳孔等大等圆，对光反射灵敏。颈部活动范围正常，双侧斜方肌上缘有轻微压痛。 心肺: 心律齐，无杂音。双肺呼吸音清，无啰音。 腹部: 腹部柔软，无压痛，肝脾未触及，肠鸣音正常。 神经系统: 颅神经检查正常。肌力5/5级，感觉完整，深腱反射对称，步态正常。 A (Assessment - 评估) 1. 入职前体检: 为本次就诊的主要目的。
 2. 紧张性头痛: 症状与体格检查发现（斜方肌压痛）相符，很可能与压力有关。
@@ -115,29 +91,21 @@ Of course. Here is a prenatal visit medical note for the patient you described, 
 4. 随访: 患者将通过电话或患者门户获取化验结果。 建议如果头痛恶化或疲劳持续影响日常生活，需复诊进一步评估。
 
 ============================================================
-
-## Note 7 (undefined - 4fe20af4-02a9-705b-399c-de51571a8a7b)
-
-**Note ID:** 4fe20af4-02a9-705b-399c-de51571a8a7b
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2011-09-06T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 7 (Type: DocumentReference - ID: 4fe20af4-02a9-705b-399c-de51571a8a7b)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2011-09-06T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Medical Note Patient: Adah626 Jenni670 Ward668 Date of Encounter: Age: 22 Sex: Female SUBJECTIVE Chief Complaint (CC): Anemia History of Present Illness (HPI): Ms. Ward is a 22-year-old female who presents for evaluation of anemia. She reports a several-month history of progressively worsening fatigue, stating she feels tired even after a full night's sleep. She also notes experiencing shortness of breath with minimal exertion, such as climbing a flight of stairs. The patient reports occasional episodes of dizziness, particularly when standing up quickly. She denies any chest pain, palpitations, or syncope. She has not had any recent acute illnesses or surgeries. Medications: None. Allergies: No Known Drug Allergies. OBJECTIVE Vitals: Temp: 98.6°F BP: 105/68 mmHg HR: 92 bpm RR: 16 breaths/min SpO2: 98% on room air Physical Exam: General: Alert and oriented x4, appears tired. Mildly pale conjunctivae and nail beds noted. HEENT: Normocephalic, atraumatic. Sclera anicteric. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, no wheezes or rales. Abdomen: Soft, non-tender, non-distended. Bowel sounds normoactive in all four quadrants. ASSESSMENT & PLAN Assessment: 1. Iron Deficiency Anemia: Patient presents with classic symptoms of fatigue, exertional dyspnea, and dizziness. Physical exam is significant for pallor, consistent with anemia. Plan: 1. Ferrous Sulfate 325 MG Oral Tablet: Prescription: Ferrous sulfate 325 mg, 1 tablet by mouth once daily. Patient Education Provided: How to Take: For best absorption, take the iron tablet on an empty stomach (1 hour before or 2 hours after a meal). If it causes significant stomach upset, you may take it with a small amount of food. Enhance Absorption: Take the tablet with a source of Vitamin C, such as a glass of orange juice, to help your body absorb the iron more effectively. Avoid Interactions: Do not take iron at the same time as calcium supplements, antacids, or dairy products (milk, yogurt, cheese), as they can block absorption. Wait at least 2 hours between taking your iron and any of these items. Common Side Effects: Stool Changes: Your stools will likely become dark or black. This is a normal and harmless effect of the iron. Constipation: Iron can cause constipation. Increase your fluid intake, eat a high-fiber diet, and stay physically active. If constipation becomes a problem, you may use an over-the-counter stool softener. Stomach Upset: Nausea or stomach cramps can occur. Taking the supplement with food may help. Dietary Recommendations: Encouraged to increase intake of iron-rich foods, such as red meat, poultry, beans, lentils, spinach, and iron-fortified cereals. 2. Follow-up: Return to the clinic in 8-12 weeks for a follow-up appointment and to have blood work repeated to check your response to the treatment. The patient verbalized understanding of the plan and instructions. All questions were answered.
 
 ============================================================
-
-## Note 8 (undefined - 24b5c778-83aa-9139-0e70-9ad5d81bab59)
-
-**Note ID:** 24b5c778-83aa-9139-0e70-9ad5d81bab59
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2014-02-06T12:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 8 (Type: DocumentReference - ID: 24b5c778-83aa-9139-0e70-9ad5d81bab59)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2014-02-06T12:54:29.438-05:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE: PATIENT: Ward, Adah Jenni MRN: 668-626-670 DOB: VISIT TYPE: Office Follow-up CHIEF COMPLAINT (CC): Worsening chronic body pain. HISTORY OF PRESENT ILLNESS (HPI): Ms. Ward is a 24-year-old white female who presents for follow-up management of chronic pain. She reports her pain, which has been present for several years, has been more severe over the past 2-3 months. The pain is described as a constant, deep, aching sensation primarily in her lower back and hips, but with intermittent sharp pains in her neck and shoulders. She rates her daily pain as a 6/10, with spikes to 8/10 on a bad day. The pain is exacerbated by prolonged sitting, standing, and physical activity, and is minimally relieved by over-the-counter ibuprofen and heat packs. Symptoms potentially associated with her chronic pain include: Sleep Disturbance: She reports significant difficulty falling asleep and staying asleep due to pain, averaging only 4-5 hours of non-restorative sleep per night. She often wakes up feeling tired. Fatigue: She endorses a profound and persistent daily fatigue, which she attributes to both the pain and poor sleep quality. She states she feels "drained" by the early afternoon. Mood Changes: The patient expresses feeling "frustrated" and "down" about her condition. She notes a significant loss of interest in activities she once enjoyed, such as hiking and going out with friends, due to pain and energy limitations. She denies suicidal ideation but admits to frequent irritability. Cognitive Difficulties: She describes "brain fog," having trouble with focus and memory at work, which she finds distressing. Headaches: She reports new onset of tension-type headaches over the last month, which she feels are related to neck pain and stress. She denies any recent trauma, fever, chills, bowel or bladder dysfunction, or numbness/tingling in her extremities. OBJECTIVE (O): Vitals: BP: 125/80 mmHg HR: 76 bpm RR: 16 /min Temp: 98.4°F SpO2: 99% on room air Physical Exam: General: Alert and oriented x3. Appears tired. Moves with guarded, slow gait. Musculoskeletal: Tenderness to palpation over the lumbar paraspinal muscles, bilateral trapezius, and gluteal muscles. Limited range of motion in the lumbar spine with forward flexion and extension, reproducing her pain. No gross deformities or swelling noted. Strength 5/5 in all four extremities. Neurological: Sensation intact to light touch in all dermatomes. Deep tendon reflexes 2+ and symmetric. Coordination intact. ASSESSMENT & PLAN (A&P): Assessment: 1. Chronic Pain Syndrome, likely secondary to myofascial pain.
@@ -149,44 +117,32 @@ MEDICAL NOTE DATE: PATIENT: Ward, Adah Jenni MRN: 668-626-670 DOB: VISIT TYPE: O
 4. Follow-up: Return to the clinic in 4 weeks to assess response to the new medication and referrals. We will contact her sooner if any issues arise. , MD
 
 ============================================================
-
-## Note 9 (undefined - 2975927c-dcb3-06eb-3b17-911889e8dc32)
-
-**Note ID:** 2975927c-dcb3-06eb-3b17-911889e8dc32
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2014-02-18T12:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 9 (Type: DocumentReference - ID: 2975927c-dcb3-06eb-3b17-911889e8dc32)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2014-02-18T12:54:29.438-05:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Of course. Here is a medical note for the encounter, written in the standard SOAP (Subjective, Objective, Assessment, Plan) format. The invented " " is hypothyroidism , a common condition in young women that can cause a wide range of subtle symptoms. MEDICAL NOTE PATIENT: Adah J. Ward DOB: 06/15/2000 AGE: 24 SEX: Female DATE OF SERVICE: CHIEF COMPLAINT (CC): Annual examination for fatigue, weight gain, and feeling cold. SUBJECTIVE (S): History of Present Illness (HPI): Ms. Ward is a 24-year-old white female who presents for a general examination. She reports a gradual onset of symptoms over the past 4-6 months, which have become more bothersome. Her primary concern is persistent fatigue, which she rates as 6/10 in severity. She states she gets 7-8 hours of sleep nightly but wakes up feeling unrefreshed. She also notes an unintentional weight gain of approximately 12 pounds during this time frame, despite no significant changes in her diet or exercise routine (which she describes as light activity 2-3 times per week). She reports increased sensitivity to cold, often feeling chilled when others in the room are comfortable. Additionally, she complains of generalized dry skin, which is worse on her legs and arms, and that her hair has become more brittle and seems to be thinning. She endorses mild constipation, having bowel movements every 2-3 days. She also describes "brain fog," with difficulty concentrating at her job as a graphic designer. She denies any chest pain, shortness of breath, palpitations, fever, or changes in vision. Past Medical History (PMH): Unremarkable Medications: Daily multivitamin
 Occasional Ibuprofen PRN for headaches Allergies: No Known Drug Allergies (NKDA) Social History: Patient works full-time. Denies tobacco, e-cigarette, or illicit drug use. Reports drinking alcohol socially, approximately 2-3 drinks per week. Family History: Mother with a history of hypothyroidism. Father with hypertension. Otherwise non-contributory. Review of Systems (ROS): Constitutional: +fatigue, +weight gain. Denies fever, chills, or night sweats. HEENT: Denies headaches, vision changes, or hearing loss. +dry skin, +brittle hair. Cardiovascular: Denies chest pain, palpitations, or edema. Respiratory: Denies cough or shortness of breath. Gastrointestinal: +constipation. Denies nausea, vomiting, or abdominal pain. Neurological: +difficulty concentrating ("brain fog"). Denies dizziness or weakness. Endocrine: +cold intolerance. OBJECTIVE (O): Vitals: Temperature: 97.2°F (36.2°C) Blood Pressure: 118/72 mmHg Heart Rate: 58 bpm (bradycardic) Respiratory Rate: 16 breaths/min O2 Saturation: 99% on room air Height: 5'5" Weight: 155 lbs BMI: 25.8 (Overweight) Physical Examination: General: Well-appearing, in no acute distress. Alert and oriented x4. Skin: Dry, cool to touch on forearms and lower extremities. Turgor is normal. Hair: Scalp hair appears thin in texture. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light and accommodation (PERRLA). Thyroid gland is non-palpable, no thyromegaly, nodules, or tenderness. Cardiovascular: Regular rate and rhythm. S1/S2 distinct. No murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, no wheezes or rales. Abdomen: Soft, non-tender, non-distended. Bowel sounds are normoactive. Neurological: Deep tendon reflexes are 2+ throughout with a slightly delayed relaxation phase at the biceps and Achilles. Gross sensation and strength are intact in all four extremities. ASSESSMENT (A): 1. Hypothyroidism, likely primary (e.g., Hashimoto's thyroiditis) 2. Fatigue 3. Weight gain 4. Constipation PLAN (P): 1. Laboratory Studies: Draw blood for the following to confirm diagnosis: TSH (Thyroid-Stimulating Hormone) Free T4 TPO Antibodies (Thyroid Peroxidase) Complete Blood Count (CBC) with differential to rule out anemia. Comprehensive Metabolic Panel (CMP). 2. Patient Education: Discussed with the patient the suspicion for hypothyroidism based on her constellation of symptoms and physical exam findings. Explained that this is a common and manageable condition. Provided reassurance. 3. Follow-up: Instructed patient to schedule a follow-up appointment in approximately 1 week to review lab results and formulate a definitive treatment plan. If labs are highly suggestive of hypothyroidism, will initiate levothyroxine therapy at that time. Dr.
 
 ============================================================
-
-## Note 10 (undefined - c0617a6b-adfd-f3a1-da81-6426815b4812)
-
-**Note ID:** c0617a6b-adfd-f3a1-da81-6426815b4812
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2015-02-24T12:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 10 (Type: DocumentReference - ID: c0617a6b-adfd-f3a1-da81-6426815b4812)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2015-02-24T12:54:29.438-05:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah626 Jenni670 Ward668 DOB: AGE: 25 SEX: Female SUBJECTIVE Chief Complaint (CC): Patient presents for a general examination, reporting menstrual cramps. History of Present Illness (HPI): Ms. Ward is a 25-year-old female who presents for a general examination. She reports a several-year history of menstrual cramps that have become more bothersome over the last 6 months. The pain is described as a dull, constant ache in her lower abdomen with intermittent spasms. The pain begins on the first day of her menstrual cycle and lasts for 2-3 days. She rates the pain as a 6/10 at its worst. The pain occasionally radiates to her lower back. She reports associated symptoms of mild fatigue and a occasional headache during her period. She has used over-the-counter ibuprofen in the past with some relief, but finds it wears off quickly. She denies any fever, heavy bleeding, or irregular cycles. She denies dyspareunia, dysuria, or any abnormal vaginal discharge. Past Medical History (PMH): No known chronic illnesses. Past Surgical History (PSH): None. Medications: Occasional OTC ibuprofen for menstrual pain. Allergies: No Known Drug Allergies (NKDA). Social History: Denies tobacco, alcohol, or illicit drug use. Review of Systems (ROS): Constitutional: Denies fever, chills, or recent weight changes. Reports mild fatigue with menses. HEENT: Negative. Cardiovascular: Negative. Respiratory: Negative. Gastrointestinal: Denies nausea, vomiting, or diarrhea. Reports mild abdominal cramping with menses. Musculoskeletal: Reports occasional lower back ache with menses. Neurological: Reports occasional headache with menses. OBJECTIVE Vitals: T: 98.6°F BP: 118/76 mmHg HR: 72 bpm RR: 16/min SpO2: 99% on room air Physical Exam: General: Well-developed, well-nourished female in no acute distress. Alert and oriented x4. Abdomen: Soft, non-distended, active bowel sounds. Mild tenderness to palpation in the suprapubic area, no rebound or guarding. No organomegaly. Back: No CVA tenderness. Extremities: No edema, cyanosis, or clubbing. Neurologic: Grossly intact. ASSESSMENT & PLAN Assessment: 1. Primary Dysmenorrhea: Patient with classic symptoms of menstrual cramps, including lower abdominal pain radiating to the back, associated with fatigue and headache. Plan: 1. Ibuprofen 400 MG Oral Tablet : Dosage: Take 1 tablet by mouth every 6 hours as needed for pain. Instructions: Take with food or a full glass of water to minimize stomach upset. For best results, begin taking at the first sign of menstrual pain. Do not take more than 6 tablets (2400 mg) in a 24-hour period. 2. Patient Education: Discussed the nature of dysmenorrhea and the role of NSAIDs. Instructed patient on potential side effects of ibuprofen, including stomach upset, heartburn, and dizziness. Advised patient to seek immediate medical attention if she experiences signs of an allergic reaction (rash, itching, swelling), severe stomach pain, black or tarry stools, or vomits blood. Encouraged continued use of non-pharmacologic measures such as a heating pad for comfort. 3. Follow-Up: Patient is to follow up if her symptoms are not adequately controlled with this medication, if they worsen, or if any new symptoms develop. Otherwise, return as needed for routine care.
 
 ============================================================
-
-## Note 11 (undefined - 122cee33-57fd-6c50-fd7a-63851c65ebf6)
-
-**Note ID:** 122cee33-57fd-6c50-fd7a-63851c65ebf6
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2015-05-12T14:45:22.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 11 (Type: DocumentReference - ID: 122cee33-57fd-6c50-fd7a-63851c65ebf6)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2015-05-12T14:45:22.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Ward, Adah MRN: 626-670-668 DOB: 04/12/1999 (Age: 25) SEX: Female DATE OF ADMISSION: ADMITTING SERVICE: Surgery ADMITTING PHYSICIAN: CHIEF COMPLAINT (CC): "Here to get my tubes tied." HISTORY OF PRESENT ILLNESS (HPI): Ms. Ward is a 25-year-old G0P0 white female who presents to the surgical department for an admission for elective permanent sterilization via laparoscopic tubal ligation. The patient states she has been certain about her decision to not have children for many years and feels permanent sterilization is the most appropriate and responsible choice for her. The patient reports a long history of difficulty with various contraceptive methods, which has contributed to her desire for a permanent solution. She previously tried combined oral contraceptive pills (OCPs) for one year but discontinued them due to mood swings, headaches, and perceived weight gain. She was then fitted with a levonorgestrel intrauterine device (IUD), which she had for 18 months but had removed due to persistent irregular spotting and pelvic cramping. She most recently tried a copper IUD but had it removed after 8 months due to significantly heavier menstrual bleeding (menorrhagia) and increased dysmenorrhea that interfered with her daily activities. She denies any current pelvic pain, abnormal bleeding, or discharge. Her last menstrual period was 2 weeks ago, of normal flow for her. She has had no previous pregnancies. She states she is fully aware of the permanent nature of the procedure and has discussed the decision with her partner, who is supportive. She denies any pressure from family or partners. REVIEW OF SYSTEMS: Constitutional: Denies fever, chills, or recent weight changes. HEENT: Denies headaches, vision changes, or sore throat. Cardiovascular: Denies chest pain, palpitations, or edema. Respiratory: Denies cough or shortness of breath. Gastrointestinal: Denies nausea, vomiting, or abdominal pain. Genitourinary: As noted in HPI. Denies dysuria or hematuria. Musculoskeletal: Denies joint pain or swelling. Neurological: Denies numbness, tingling, or weakness. Psychiatric: Denies anxiety or depression. Reports feeling confident in her decision. PAST MEDICAL HISTORY (PMH): Menorrhagia (secondary to copper IUD, now resolved) Dysmenorrhea Contraceptive Intolerance PAST SURGICAL HISTORY: None MEDICATIONS: None ALLERGIES: No Known Drug Allergies (NKDA) GYNECOLOGICAL HISTORY: G0P0 LMP: Menstrual Cycle: Previously 28 days, lasting 5 days with moderate flow. History of heavy bleeding and cramping with copper IUD. Contraception: As detailed in HPI. Currently not using any method. SOCIAL HISTORY: Tobacco: Denies current or past use. Alcohol: Reports social use (1-2 drinks on weekends). Illicit Drugs: Denies use. Occupation: Office manager. Social Status: Lives with her long-term partner. Partner is supportive of the procedure. FAMILY HISTORY (FH): Mother: Hypertension. Father: Hyperlipidemia. Siblings: Healthy. Non-contributory for genetic or clotting disorders. PHYSICAL EXAMINATION VITALS: Temperature: 98.6°F (37.0°C) Blood Pressure: 118/76 mmHg Heart Rate: 72 bpm Respiratory Rate: 14 breaths/min SpO2: 99% on room air GENERAL: Well-appearing, alert, and oriented x4. In no acute distress. HEENT: Normocephalic. Pupils equal, round, and reactive to light. Mucous membranes moist. CARDIOVASCULAR: Regular rate and rhythm. No murmurs, rubs, or gallops. RESPIRATORY: Lungs clear to auscultation bilaterally. No wheezes or rales. ABDOMEN: Soft, non-tender, non-distended. Bowel sounds present in all four quadrants. No rebound or guarding. No hepatosplenomegaly. EXTREMITIES: No cyanosis, clubbing, or edema. Pulses 2+ and symmetric. ASSESSMENT & PLAN ASSESSMENT: 1. Request for Permanent Sterilization: 25-year-old G0P0 female desiring definitive contraception.
@@ -198,15 +154,11 @@ MEDICAL NOTE PATIENT: Ward, Adah MRN: 626-670-668 DOB: 04/12/1999 (Age: 25) SEX:
 5. Follow-up: Will follow up with her primary gynecologist in 2-4 weeks for a post-operative check. Attending Physician
 
 ============================================================
-
-## Note 12 (undefined - c407f289-499c-bffa-d3fc-cff2f8477887)
-
-**Note ID:** c407f289-499c-bffa-d3fc-cff2f8477887
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2016-03-01T12:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 12 (Type: DocumentReference - ID: c407f289-499c-bffa-d3fc-cff2f8477887)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2016-03-01T12:54:29.438-05:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah Jenni Ward MRN: Ward668 DOB: SEX: Female RACE: White SUBJECTIVE Chief Complaint: Patient here for a general examination and evaluation of frequent headaches. History of Present Illness (HPI): Ms. Ward is a 26-year-old female who presents for a routine general examination. She reports a several-month history of intermittent headaches, which she describes as a "tight band" around her forehead, particularly at the end of a workday. She rates the pain as a 4-6 out of 10. Symptoms include a dull, aching pain and occasional tenderness in her neck and shoulder muscles. She denies nausea, vomiting, photophobia, or visual aura. She reports symptoms seem worse during periods of high stress. She has been using over-the-counter pain relievers with some relief. Review of Systems: Constitutional: Denies fever, chills, or recent weight changes. HEENT: Denies vision changes, hearing loss, or sinus congestion. Cardiovascular: Denies chest pain, palpitations. Respiratory: Denies shortness of breath or cough. Gastrointestinal: Denies abdominal pain, nausea, or changes in bowel habits. Musculoskeletal: Reports occasional neck and shoulder muscle tension associated with headaches. Neurological: As per HPI. Denies dizziness, weakness, or numbness. Psychiatric: Reports occasional stress and worry but denies persistent sadness or anhedonia. Allergies: No Known Drug Allergies (NKDA) Medications: None at this time. Past Medical History: No significant past medical history. Social History: Tobacco: Denies current or past use. Alcohol: Reports occasional social drinking. Substances: Denies illicit drug use. OBJECTIVE Vitals: BP: 118/76 mmHg HR: 72 bpm RR: 16 breaths/min Temp: 98.4°F (36.9°C) SpO2: 99% on room air Physical Examination: General: Well-developed, well-nourished female in no acute distress. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light. Extraocular movements intact. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, no wheezes or rales. Abdomen: Soft, non-tender, non-distended, with active bowel sounds. Musculoskeletal: Full range of motion. Mild tenderness to palpation in the trapezius muscles bilaterally. Assessments and Screenings Performed: 1. Assessment of health and social care needs - Completed.
@@ -217,15 +169,11 @@ MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah Jenni Ward MRN: Ward668 DOB: SEX: Fe
 2. Referral: Patient referral for dental care procedure(s) - Placed. Patient provided with information and encouraged to schedule for a routine cleaning and exam. ASSESSMENT & PLAN 1. Tension-Type Headaches: Likely related to stress and muscle tension. Plan: Discussed stress management techniques, including regular breaks, posture correction, and gentle stretching. Prescribed: Ibuprofen 400 MG Oral Tablet. Instructions: Take 1 tablet by mouth every 6 to 8 hours as needed for headache or muscle pain. Take with food or milk to prevent stomach upset. Do not take more than 6 tablets (2400 mg) in a 24-hour period. If headaches persist or require use for more than 10 days, please follow up. 2. Anxiety, Mild: As indicated by GAD-7 screening. Plan: Counseled patient on coping strategies, including deep breathing exercises, mindfulness, and maintaining a regular exercise routine. Provided information on online mental health resources. Encouraged follow-up if symptoms worsen. 3. Preventive Health: Annual examination and screenings completed. Plan: All screenings reviewed with patient. Patient educated on results. Annual flu vaccine administered. 4. Dental Health: Patient due for routine dental care. Plan: Referral to general dentistry placed. Patient understands the recommendation and will schedule an appointment. Follow-up: Return as needed. Follow up in 1 year for annual examination, or sooner if headache symptoms worsen or become more frequent. Scribe: Attending Physician:
 
 ============================================================
-
-## Note 13 (undefined - 61223037-55f6-e379-4c6f-a5891a5f6320)
-
-**Note ID:** 61223037-55f6-e379-4c6f-a5891a5f6320
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2016-03-15T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 13 (Type: DocumentReference - ID: 61223037-55f6-e379-4c6f-a5891a5f6320)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2016-03-15T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Of course. Here is a medical note for the encounter, written in the standard SOAP (Subjective, Objective, Assessment, Plan) format. DATE OF SERVICE: PATIENT: Ward, Adah Jenni MRN: 668 DOB: SEX: Female RACE: White SUBJECTIVE: The patient is a 26-year-old white female presenting for a follow-up evaluation and treatment of known gingivitis. She reports her gums have been "bothering her" for the past few months. Symptoms: The patient endorses several symptoms consistent with gingivitis, including: Gum redness and swelling, particularly near the gumline. Bleeding when brushing her teeth or using dental floss. Occasional bad breath in the morning, which improves after brushing. Mild tenderness of the gums when touched. She denies any severe or throbbing tooth pain at this time. OBJECTIVE: Vitals: Stable, within normal limits. Oral Examination: General: The patient is alert and oriented, in no acute distress. Gingiva: Generalized moderate erythema and edema of the marginal gingiva. Spontaneous bleeding on probing noted at multiple sites. Moderate supragingival and subgingival calculus and plaque deposits are present on multiple teeth. Dentition: Occlusion: WNL (Within Normal Limits). Procedures Performed: 1. Dental consultation and report generated.
@@ -239,15 +187,11 @@ Of course. Here is a medical note for the encounter, written in the standard SOA
 9. Postoperative care instructions provided verbally and in writing. ASSESSMENT: 1. Chronic Generalized Gingivitis, moderate 2. Dental Plaque and Calculus, moderate 3. Status post simple extraction of tooth PLAN: 1. Medications: Prescribed: Sodium Fluoride 0.0272 MG/MG Oral Gel Instructions for Use: Use a pea-sized amount of the gel once daily, preferably at bedtime. Apply the gel to a toothbrush and brush thoroughly onto all tooth surfaces for at least one minute. After brushing, spit out the excess gel. Do not swallow. Do not eat, drink, or rinse your mouth for at least 30 minutes after use. 2. Procedures: All planned procedures were completed today as noted in the Objective section. 3. Patient Education: Reinforced the importance of meticulous home care. Advised to brush gently but thoroughly twice daily with a soft-bristled toothbrush. Instructed to floss daily to remove plaque from between the teeth and under the gumline. Reviewed postoperative care for the extraction site, including gauze pressure, diet, and activity restrictions. 4. Follow-up: Return to the clinic in 1 week for a post-operative check of the extraction site. Continue with routine dental cleaning and re-evaluation every 3-4 months to manage gingival health. Scribe:
 
 ============================================================
-
-## Note 14 (undefined - af959069-f09e-00b7-378f-ff1ec7f35cfe)
-
-**Note ID:** af959069-f09e-00b7-378f-ff1ec7f35cfe
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2016-03-22T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 14 (Type: DocumentReference - ID: af959069-f09e-00b7-378f-ff1ec7f35cfe)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2016-03-22T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah626 Jenni670 Ward668 DOB: AGE: 26 SEX: Female MRN: 626670668 CHIEF COMPLAINT (CC): Loss of teeth. SUBJECTIVE (S): The patient is a 26-year-old white female presenting for a dental consultation regarding missing teeth. She reports that she has been missing her lower left first molar for several years. She states that over the past 6-12 months, she has noticed increasing difficulty chewing on that side, frequent food impaction in the area, and feels that the adjacent teeth are "shifting." She is concerned about the long-term effects on her bite and oral health and is interested in exploring replacement options. She denies any current pain in the area. OBJECTIVE (O): VITALS: BP: 118/75 mmHg HR: 72 bpm RR: 16 bpm Temp: 98.4°F SpO2: 99% on room air PHYSICAL EXAMINATION: General: Alert and oriented x4, in no acute distress. HEENT: Normocephalic. Extraocular movements intact. Pupils equal, round, and reactive to light. Oral mucosa is pink and moist. Oral Cavity Examination: Dentition: Noted missing tooth #19 (lower left first molar). The surrounding gingival tissue appears healthy with no signs of active infection. Occlusion: Mild drifting of the adjacent teeth, tooth #18 (second premolar) and tooth #20 (second molar), is noted tipping towards the edentulous space. Opposing Arch: The opposing tooth, #14 (upper left first molar), shows slight supra-eruption into the space. Periodontal: No significant pocketing or bleeding on probing noted in the area. PROCEDURES/IMAGING PERFORMED: 1. Dental Consultation and Report: A comprehensive consultation was performed to evaluate the edentulous space and discuss treatment options.
@@ -260,15 +204,11 @@ MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah626 Jenni670 Ward668 DOB: AGE: 26 SEX
 4. Follow-up: Return to the clinic in 2-4 weeks for definitive treatment planning. Scribe: Attending Physician:
 
 ============================================================
-
-## Note 15 (undefined - 70bda7d4-27f0-a01c-1b76-34e41cce09cb)
-
-**Note ID:** 70bda7d4-27f0-a01c-1b76-34e41cce09cb
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2016-03-29T15:24:31.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 15 (Type: DocumentReference - ID: 70bda7d4-27f0-a01c-1b76-34e41cce09cb)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2016-03-29T15:24:31.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: DATE OF ENCOUNTER: SEX: Female RACE: White ENCOUNTER TYPE: Follow-up SUBJECTIVE Chief Complaint (CC): Follow-up for excision of torus palatinus. History of Present Illness (HPI): The patient is a 26-year-old female here for a postoperative check-up following an excision of a maxillary torus palatinus performed on . The patient reports her recovery is progressing well. Post-operative pain has significantly improved and is now rated as 1/10, controlled with ibuprofen as needed. She has advanced her diet from soft foods to solids but is still avoiding very hard, crunchy, or spicy items. She denies any fevers, increased swelling, or persistent numbness of the palate. The patient is very pleased with the results. She notes that the surgery has resolved the symptoms she experienced prior to the procedure. These pre-operative symptoms included a persistent feeling of pressure and fullness on the roof of her mouth, frequent irritation and trauma to the overlying mucosa from food, and difficulty with the fit of a previous orthodontic retainer. She also reported occasional discomfort localized to the area of the torus. The patient has been following all postoperative instructions, including gentle oral hygiene and saltwater rinses. Review of Systems: Constitutional: Denies fever, chills, or weight loss. HEENT: Denies headache, vision changes, hearing loss, or sinus congestion. As per HPI, oral status is improving. All other systems reviewed and are negative. OBJECTIVE Vitals: BP: HR: RR: Temp: SpO2: Physical Examination: General: Alert and oriented x4, in no acute distress. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light. Extraocular movements intact. Oral Cavity Exam: Lips/Mucosa: Moist, pink, without lesions. Hard Palate: The surgical site along the midline shows excellent healing. The area is well-approximated with a healthy, pink, granulating mucosa covering the previous bony prominence. No erythema, purulence, or dehiscence is noted. Several absorbable sutures are visualized and appear to be dissolving appropriately. Teeth: No dental caries noted. No mobility or tenderness to percussion of maxillary teeth. No evidence of infection or hematoma. ASSESSMENT & PLAN Assessment: 1. Status post maxillary torus palatinus excision: Healing well without complication.
@@ -279,15 +219,11 @@ MEDICAL NOTE PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: DATE OF ENCOUNTER:
 5. Patient Education: Patient was educated on signs of infection (increased pain, swelling, fever, pus) and was instructed to call the office immediately if any of these occur. She voiced understanding and had no further questions. Scribe: Attending Physician:
 
 ============================================================
-
-## Note 16 (undefined - e231b8cf-179d-bd8b-891d-06446962260b)
-
-**Note ID:** e231b8cf-179d-bd8b-891d-06446962260b
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2016-04-11T18:30:53.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 16 (Type: DocumentReference - ID: e231b8cf-179d-bd8b-891d-06446962260b)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2016-04-11T18:30:53.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL RECORD PATIENT: Adah Ward MRN: 668-26-626 DATE OF ENCOUNTER: AGE: 26 SEX: Female ETHNICITY: White SUBJECTIVE Chief Complaint (CC): Follow-up for tooth loss and recent denture fitting. History of Present Illness (HPI): Ms. Ward is a 26-year-old female presenting for a follow-up appointment after being fitted for a removable partial denture to address tooth loss. The patient reports that prior to receiving the denture, she experienced significant difficulty chewing (masticatory dysfunction), which led her to avoid many foods, particularly harder items like apples and nuts. She also reported a decrease in self-confidence and was reluctant to smile in public due to the aesthetic appearance of her missing teeth. Additionally, she noted occasional minor slurring of words that she attributed to the gaps in her dentition. Since the initial fitting, Ms. Ward states the denture has markedly improved her ability to chew and her confidence in her smile. However, she reports that after wearing the denture for several hours, she experiences soreness on her lower left gum line. She describes the pain as a "raw, rubbing feeling" (7/10) that is relieved by removing the appliance. She is otherwise adapting well to speaking with the denture but feels it "clicks" occasionally. She denies any bleeding, swelling, or lesions in her mouth that she has noticed. She has been removing the denture at night and cleaning it daily as instructed. OBJECTIVE Vitals: BP: 118/76 mmHg HR: 72 bpm RR: 16 breaths/min Temp: 98.4°F (36.9°C) Physical Examination: General: Alert and oriented x4, in no acute distress. Oral Cavity: Dentures: Patient is wearing a mandibular removable partial denture. The appliance appears intact and clean. Minor lateral movement is noted on stability testing. Mucosa/Gingiva: The oral mucosa is moist and pink. On the left mandibular alveolar ridge, there is a small (approx. 5mm) area of erythema and slight edema corresponding to the flange of the partial denture. The area is tender to palpation. No ulcerations or fungating lesions are observed. Occlusion: Bite appears stable and even in centric occlusion. Remaining Dentition: All remaining teeth are present, free of caries, and show no signs of mobility. ASSESSMENT & PLAN Assessment: 1. Kennedy Class I Partial Edentulism (Mandibular): Status post partial denture fitting.
@@ -298,29 +234,21 @@ MEDICAL RECORD PATIENT: Adah Ward MRN: 668-26-626 DATE OF ENCOUNTER: AGE: 26 SEX
 4. Follow-up: Return to the clinic in 1-2 weeks for a follow-up evaluation of denture fit and tissue healing. Instructed to call sooner if the soreness worsens or if new issues arise. Scribed by:
 
 ============================================================
-
-## Note 17 (undefined - db817206-bf9a-b4c9-35ed-1cb4e2deb201)
-
-**Note ID:** db817206-bf9a-b4c9-35ed-1cb4e2deb201
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2016-09-09T04:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 17 (Type: DocumentReference - ID: db817206-bf9a-b4c9-35ed-1cb4e2deb201)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2016-09-09T04:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Of course. Here is a medical note for the encounter, written in the standard SOAP (Subjective, Objective, Assessment, Plan) format. PATIENT: Adah J. Ward DOB: DATE OF ENCOUNTER: PROVIDER: SUBJECTIVE Chief Complaint (CC): Sinus pressure and congestion for 5 days. History of Present Illness (HPI): Ms. Ward is a 27-year-old white female who presents for evaluation of progressive sinus symptoms. She reports that her symptoms began approximately 5 days ago with a mild sore throat, which has since resolved. Over the past 3-4 days, she has developed worsening bilateral nasal congestion, with thick, yellow-green nasal discharge. She describes significant pressure and pain across her cheeks and forehead, which she rates as 6/10 in severity. She notes the pain worsens significantly when she bends forward. Associated symptoms include fatigue, a low-grade fever with a maximum temperature of 100.8°F (measured at home), and a cough that is predominantly worse at night. She believes the cough is caused by post-nasal drip. She also reports a decreased sense of smell and taste. She has been using an over-the-counter oxymetazoline nasal spray, which provides temporary, minimal relief. She denies any vision changes, severe headache, neck stiffness, shortness of breath, or chest pain. She has not had any recent dental work. Past Medical History (PMH): No chronic medical conditions. Medications: Oxymetazoline nasal spray, 2-3 times per day for the past 3 days. Allergies: No Known Drug Allergies (NKDA). OBJECTIVE Vitals: Temp: 100.6°F BP: 118/72 mmHg HR: 88 bpm RR: 16 breaths/min SpO2: 99% on room air General: Patient is alert and oriented x3, appearing mildly fatigued but in no acute distress. HEENT: Head: Normocephalic, atraumatic. Eyes: PERRLA. Conjunctivae clear, no scleral icterus. Extraocular movements intact. No periorbital edema. Ears: Tympanic membranes are normal in color and position, with good light reflex. No cerumen impaction. Nose: Nasal mucosa is erythematous and edematous. Thick, purulent, yellow-green discharge noted in bilateral middle meatus. Tenderness to palpation over the maxillary and frontal sinuses. Throat: Oropharynx is mildly erythematous without exudates. Post-nasal drip visualized. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi. ASSESSMENT 1. Viral Sinusitis: The patient presents with a classic constellation of symptoms less than 10 days in duration, including nasal congestion, purulent discharge, facial pressure/pain, and low-grade fever. The acute onset and presence of systemic symptoms (fever, myalgias) strongly suggest a viral etiology. PLAN 1. Patient Education: Discussed with the patient that her symptoms are consistent with a viral sinusitis, which is typically self-limiting over 7-10 days. Explained that antibiotics are not effective against viruses and are not indicated at this time. Reviewed warning signs that would require follow-up. 2. Supportive Care: Recommend saline nasal irrigation (e.g., Neti pot or sinus rinse bottle) 2-3 times daily to help clear secretions. Increase fluid intake to stay well-hydrated. Use a humidifier at night. Apply warm compresses to the face for comfort. Ensure adequate rest. 3. Medications: Recommend acetaminophen or ibuprofen for management of facial pain, headaches, and fever. Advised to discontinue oxymetazoline nasal spray to prevent rebound congestion. If needed for severe congestion, do not use for more than 3 consecutive days. An over-the-counter antihistamine (e.g., diphenhydramine) may be used at night to help with post-nasal drip and cough. 4. Follow-Up: Patient was advised to return to the clinic or seek urgent care if she experiences any of the following: Symptoms persisting for >10 days without improvement. Symptoms that initially improve but then worsen again ("double sickening"). High fever >102°F persisting beyond 3-4 days. Severe, unilateral facial pain or headache. Stiff neck, vision changes, or confusion. No follow-up is required if symptoms resolve as expected.
 
 ============================================================
-
-## Note 18 (undefined - e7467b98-277e-9d14-5ced-364309b2dce8)
-
-**Note ID:** e7467b98-277e-9d14-5ced-364309b2dce8
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2017-03-07T12:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 18 (Type: DocumentReference - ID: e7467b98-277e-9d14-5ced-364309b2dce8)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2017-03-07T12:54:29.438-05:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Medical Note Patient: Adah626 Jenni670 Ward668 Date of Birth: Date of Encounter: Visit Type: General Examination SUBJECTIVE Chief Complaint (CC): "I've been having frequent headaches and neck pain." History of Present Illness (HPI): The patient is a 27-year-old white female presenting for a general examination. She reports a several-week history of intermittent, bilateral, "band-like" tension headaches, which she describes as pressure or tightness around her forehead and the back of her head. She rates the pain as 4-6/10 at its worst. She states the headaches are often worse at the end of her workday and on stressful days. She also reports associated stiffness and soreness in her neck and upper shoulder muscles. She has tried over-the-counter acetaminophen with minimal relief. She denies any aura, photophobia, phonophobia, nausea, or vomiting. She reports feeling generally "stressed and overwhelmed" lately due to work demands, which she believes contributes to her muscle tension and headaches. She denies any recent trauma, fever, or changes in vision. Medications: None. Allergies: No Known Drug Allergies (NKDA). Past Medical History: Unremarkable. Social History: The patient is employed in an office setting. She denies tobacco, illicit drug use, and reports occasional social alcohol consumption. Review of Systems (ROS): Constitutional: Denies fever, chills, or recent weight change. HEENT: Denies vision changes, hearing loss, or sinus pressure. Cardiovascular: Denies chest pain, palpitations, or shortness of breath. Musculoskeletal: Complains of neck pain, as above. Denies pain or swelling in other joints. Neurological: Denies dizziness, weakness, numbness, or tingling. Psychiatric: Reports feelings of stress. Denies persistent sadness or anhedonia. OBJECTIVE Vitals: BP: 118/76 mmHg HR: 72 bpm RR: 16 breaths/min Temp: 98.4°F (36.9°C) SpO2: 99% on room air Physical Examination: General: Well-developed, well-nourished female in no acute distress. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light. Extraocular movements intact. Mucous membranes moist. Neck: Supple with full range of motion. Mild-to-moderate tenderness to palpation over the bilateral trapezius and suboccipital muscles. No cervical lymphadenopathy. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, good air entry. Neurological: Alert and oriented x4. Cranial nerves II-XII intact. Motor strength 5/5 in all four extremities. Sensation intact to light touch. Coordination and gait normal. Procedures/Assessments Performed: 1. Assessment of health and social care needs.
@@ -329,15 +257,11 @@ Medical Note Patient: Adah626 Jenni670 Ward668 Date of Birth: Date of Encounter:
 4. Immunization Administered: Influenza, seasonal, injectable, preservative free, 0.5 mL, administered intramuscularly in the left deltoid. Patient tolerated the procedure well. ASSESSMENT & PLAN 1. Tension-Type Headaches: Likely secondary to increased stress and cervical muscle tension. Plan: Prescribed Ibuprofen for pain and inflammation. Advised on stress management and ergonomic adjustments at work. 2. Cervical Muscle Strain/Spasms: Contributing to headaches. Plan: Heat therapy and gentle stretching exercises recommended. 3. Anxiety: Patient reports significant stress; anxiety screening was positive for mild-moderate symptoms. Plan: Discussed coping mechanisms including deep breathing exercises, mindfulness, and regular physical activity. Offered referral for therapy if symptoms persist or worsen. Patient will consider it. 4. Preventative Care: Annual health examination. Plan: Seasonal influenza vaccine administered today. Encouraged to continue routine wellness care. MEDICATIONS PRESCRIBED Ibuprofen 400 MG Oral Tablet Sig: Take 1 (one) tablet by mouth every 6 to 8 hours as needed for pain. Take with food or a full glass of water to minimize stomach upset. Do not take more than 6 tablets (2400 mg) in a 24-hour period. Patient Instructions Please follow the dosing instructions for Ibuprofen carefully. If stomach upset occurs, be sure to take it with food. Apply a warm compress to your neck and shoulders for 15-20 minutes, 2-3 times per day. Be mindful of your posture at work. Take frequent breaks to stand and stretch. Continue to practice stress-reduction techniques. Please return to the clinic if your headaches become more severe, frequent, or are accompanied by new symptoms such as vision changes, fever, or weakness. Follow up in 1-2 months or sooner if needed.
 
 ============================================================
-
-## Note 19 (undefined - 46cdd6f2-ab59-57b7-0b36-569996a6cd09)
-
-**Note ID:** 46cdd6f2-ab59-57b7-0b36-569996a6cd09
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2018-03-13T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 19 (Type: DocumentReference - ID: 46cdd6f2-ab59-57b7-0b36-569996a6cd09)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2018-03-13T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah J. Ward MRN: 626670668 DOB: AGE: 28 SEX: Female SUBJECTIVE Chief Complaint (CC): Headache. History of Present Illness (HPI): Ms. Ward is a 28-year-old white female presenting for a general examination. She reports a several-week history of intermittent headaches, which prompted today's visit. She describes the pain as a dull, aching, and pressure-like sensation, typically bilateral and wrapping around her forehead and occipital region. The headaches are not throbbing and are not associated with nausea, vomiting, photophobia, or phonophobia. She rates the pain as a 4/10 at its worst. Symptoms seem to worsen during stressful workdays and after long hours at her computer. She denies any recent head trauma, vision changes, weakness, numbness, or tingling. She has tried over-the-counter acetaminophen with minimal relief. She is here today for evaluation and management. Past Medical History (PMH): No significant chronic medical conditions. Surgical History: None. Allergies: No Known Drug Allergies (NKDA). Medications: None reported. Patient is not on any prescription or over-the-counter medications on a regular basis. Social History: Occupation: Office administrator. Tobacco: Denies any history of smoking or vaping. Alcohol: Reports social alcohol use (1-2 drinks on weekends). Illicit Drugs: Denies illicit drug use. Review of Systems (ROS): Constitutional: Denies fever, chills, or recent weight changes. HEENT: Reports headaches as above. Denies vision changes, hearing loss, or sinus pressure. Cardiovascular: Denies chest pain, palpitations. Respiratory: Denies cough or shortness of breath. Gastrointestinal: Denies abdominal pain, nausea, vomiting, or diarrhea. Musculoskeletal: Reports occasional neck stiffness associated with headaches. Neurological: Denies dizziness, syncope, weakness, or numbness. Psychiatric: Denies feelings of depression or persistent anxiety. OBJECTIVE Vitals: Temp: 98.6°F (37.0°C) BP: 118/76 mmHg HR: 72 bpm RR: 16 breaths/min SpO2: 99% on room air Physical Exam: General: Well-appearing, alert, and in no acute distress. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light and accommodation (PERRLA). Extraocular movements intact. Fundoscopic exam shows sharp disc margins. Tympanic membranes clear. Pharynx is without erythema or exudate. Neck: Supple, full range of motion. Mild tenderness to palpation of the trapezius and suboccipital muscles. No carotid bruits. No lymphadenopathy. Cardiovascular: Regular rate and rhythm. No murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally. No wheezes or rales. Neurological: Alert and oriented x4. Cranial nerves II-XII intact. Motor strength 5/5 in all extremities. Sensation intact to light touch. Deep tendon reflexes 2+ and symmetric. Coordination and gait normal. Procedures/Screenings Performed: Medication Reconciliation: Completed and reconciled. Assessment of Health and Social Care Needs: Completed. PHQ-9 Depression Screen: Score 0. Negative for depression. GAD-7 Anxiety Screen: Score 2. Negative for anxiety. HITS Domestic Violence Screen: Negative. Immunizations: Influenza, seasonal, injectable, preservative free administered today in the left deltoid. Patient tolerated the procedure well. ASSESSMENT & PLAN Assessment: 1. Tension-Type Headache: Likely related to stress and ergonomic posture. Symptoms are classic for this diagnosis, and the physical exam is reassuring, showing no focal neurological deficits. Cervical muscle tension is a likely contributing factor.
@@ -345,15 +269,11 @@ MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah J. Ward MRN: 626670668 DOB: AGE: 28 
 3. Screenings: All screenings (depression, anxiety, domestic abuse) are negative. Plan: 1. Medication: Ibuprofen 400 MG Oral Tablet Instructions: Take one (1) tablet by mouth every 6 to 8 hours as needed for headache pain. It is recommended to take this medication with food or a glass of milk to prevent stomach upset. Do not take more than 3 tablets (1200mg) in a 24-hour period without consulting a physician. Counseling: Patient was counseled on potential side effects including stomach irritation, heartburn, and dizziness. She was advised to discontinue use and contact the clinic if she experiences severe stomach pain, black or tarry stools, or if the headaches worsen or change in character. 2. Patient Education: Discussed the nature of tension headaches, emphasizing the link with stress, posture, and dehydration. Recommended ergonomic adjustments at her workstation (e.g., monitor height, chair support). Encouraged gentle neck stretches and taking regular breaks from screen time. Advised on maintaining adequate hydration and a regular sleep schedule. 3. Follow-Up: Patient is to follow up if headaches become more frequent, severe, or do not respond to the prescribed medication. Otherwise, return as needed or for routine annual examination. Electronically Signed By:
 
 ============================================================
-
-## Note 20 (undefined - afae5f20-a13b-9865-cf98-19f3fe90097f)
-
-**Note ID:** afae5f20-a13b-9865-cf98-19f3fe90097f
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2019-03-19T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 20 (Type: DocumentReference - ID: afae5f20-a13b-9865-cf98-19f3fe90097f)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2019-03-19T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Medical Note Date of Encounter: Patient: Adah Ward Age: 29 Sex: Female MRN: 626-670-668 Type of Encounter: General Examination SUBJECTIVE Chief Complaint (CC): Intermittent headaches and muscle tension. History of Present Illness (HPI): Ms. Ward is a 29-year-old female presenting for a general examination. She reports a several-week history of intermittent, bilateral tension-type headaches, which she rates as 4/10 in severity. She describes the pain as a dull, aching pressure, particularly in her temporal regions and the back of her neck. She states the headaches seem to worsen with stress at work and are sometimes relieved by rest. She also reports associated muscle tension in her neck and shoulders. She denies any vision changes, nausea, vomiting, photophobia, or phonophobia. She has not taken anything for the pain consistently. Past Medical History (PMH): No known chronic illnesses. Medications: None reported. Allergies: No known drug allergies (NKDA). Social History (SH): Patient is employed in a high-stress profession. She reports drinking alcohol socially on weekends (2-3 drinks per occasion) and denies any illicit drug use but agreed to a screening procedure today. OBJECTIVE Vitals: BP: 118/76 mmHg HR: 72 bpm RR: 16 breaths/min Temp: 98.4°F (36.9°C) SpO2: 99% on room air Physical Examination: General: Alert and oriented x4, in no acute distress. HEENT: Pupils equal, round, and reactive to light. Extraocular movements intact. Pharynx clear, without erythema. Neck: Supple, no meningismus. Palpable tenderness and muscle tightness in the bilateral trapezius and paracervical muscles. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, no wheezes or rales. Neurological: Cranial nerves II-XII intact. Motor strength 5/5 in all four extremities. Sensation intact to light touch. Reflexes 2+ and symmetric. Procedures/Assessments Performed: 1. Assessment of health and social care needs.
@@ -365,15 +285,11 @@ Medical Note Date of Encounter: Patient: Adah Ward Age: 29 Sex: Female MRN: 626-
 4. Immunizations Up to Date: Seasonal influenza vaccine administered today. PLAN 1. Tension Headaches: Medication: Prescribed Ibuprofen 400 MG Oral Tablet . Instructions for Ibuprofen: Take one (1) tablet by mouth every 6 hours as needed for headache or muscle pain. Take with food or a full glass of water to minimize potential stomach upset. Do not exceed 6 tablets (2400 mg) in a 24-hour period. Patient Education: Discussed the role of stress management, including regular breaks from desk work, neck stretches, and adequate hydration. 2. Anxiety: Discussed screening results with patient. Provided education on deep breathing exercises and mindfulness techniques. Provided referral information for behavioral health/therapy for further evaluation and coping strategies. 3. Follow-up: Patient is to follow up in 4-6 weeks to reassess symptoms and discuss progress with behavioral health referral. She was advised to return sooner if her symptoms worsen. Patient was given documentation of today's influenza vaccine.
 
 ============================================================
-
-## Note 21 (undefined - 681f08a2-13aa-1e25-0f0a-5617656e86a5)
-
-**Note ID:** 681f08a2-13aa-1e25-0f0a-5617656e86a5
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2020-03-24T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 21 (Type: DocumentReference - ID: 681f08a2-13aa-1e25-0f0a-5617656e86a5)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2020-03-24T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah626 Jenni670 Ward668 DOB/Age: 30-Year-Old SEX: Female RACE: White TYPE OF ENCOUNTER: Office Visit, General Examination SUBJECTIVE Chief Complaint (CC): "I have a terrible toothache and a headache." History of Present Illness (HPI): The patient is a 30-year-old female presenting for a general examination with a 5-day history of a persistent, throbbing pain in her right lower jaw. The pain is localized around her right molar and radiates up to her temporal region, causing a concurrent headache. She rates the pain as a 6/10 at rest, worsening to 8/10 with cold or hot liquids. The patient reports mild gum swelling in the area. She has been using over-the-counter ibuprofen with some temporary relief. She denies fever, chills, or trismus. Symptoms consistent with a possible dental abscess are causing significant discomfort and impacting her daily activities. Past Medical History (PMH): Migraine Headaches No known chronic conditions Medications: Ibuprofen 200mg, over-the-counter, as needed (takes ~1-2 times daily for current pain) Allergies: No Known Drug Allergies (NKDA) Social History: Occupation: Office Manager Tobacco: Never Alcohol: Social (1-2 drinks on weekends) Illicit Drugs: Denies OBJECTIVE Vitals: Temp: 98.6°F (37.0°C) BP: 118/76 mmHg HR: 72 bpm RR: 16 rpm SpO2: 99% on room air Physical Examination: General: Alert and oriented x4, well-nourished, well-developed, in no acute distress. HEENT: Normocephalic. PERRLA. Extraocular movements intact. Oral mucosa is moist. Mild erythema and edema noted surrounding the gingiva of the right lower second molar. Tooth appears intact but is tender to palpation. No obvious purulence. Neck: Supple, full range of motion. No thyromegaly or lymphadenopathy. Cardiovascular: Regular rate and rhythm, S1/S2 heard. No murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi. Procedures/Services Performed: 1. Assessment of health and social care needs - Completed.
@@ -382,15 +298,11 @@ MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah626 Jenni670 Ward668 DOB/Age: 30-Year
 4. Immunization: Influenza, seasonal, injectable, preservative free - Administered in the left deltoid. ASSESSMENT & PLAN 1. Right Mandibular Tooth Pain, likely secondary to dental abscess or infection. Plan: Patient education on the likely cause of symptoms. Prescribed Ibuprofen for pain and inflammation management. Strongly urged to follow up with a dentist for definitive evaluation and treatment, which may include imaging and a root canal or extraction. 2. Tension-Type Headache, secondary to dental pain. Plan: Anticipated resolution with treatment of underlying dental issue and use of prescribed analgesic. 3. Dental Referral. Plan: Referral for urgent dental care placed and provided to patient. Patient understands the need to schedule an appointment promptly. 4. Depression Screening. Plan: PHQ-2 was negative. Patient reports good mood and baseline functioning. No further action needed at this time. 5. Preventative Care. Plan: Seasonal influenza vaccine administered without complication. Patient counseled on common side effects (soreness at injection site, low-grade fever, aches). Health and social care needs assessment complete; patient has strong support systems. MEDICATIONS PRESCRIBED: Ibuprofen 400 MG Oral Tablet Instructions: Take one (1) tablet by mouth every 6 to 8 hours as needed for pain. Take this medication with food or a full glass of water to minimize stomach upset. Do not take more than 3 tablets (1200mg) in a 24-hour period. Do not use for more than 10 days for pain unless directed by a doctor. Follow-Up: Patient is to follow up with the referred dental specialist as soon as possible. Return to our clinic for worsening pain, development of fever, or any other concerns. Routine follow-up otherwise. Scribe Signature:
 
 ============================================================
-
-## Note 22 (undefined - 03d9f408-46de-0081-8bd4-62bd1e335cc7)
-
-**Note ID:** 03d9f408-46de-0081-8bd4-62bd1e335cc7
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2020-04-07T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 22 (Type: DocumentReference - ID: 03d9f408-46de-0081-8bd4-62bd1e335cc7)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2020-04-07T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: AGE: 30 SEX: Female DATE OF ENCOUNTER: SUBJECTIVE Chief Complaint (CC): Routine dental check-up for management of gingivitis. History of Present Illness (HPI): The patient is a 30-year-old female presenting for a dental evaluation and cleaning. She reports symptoms consistent with gingivitis, including occasional bleeding when brushing and flossing, especially over the past few months. She describes her gums as appearing "redder" than usual and slightly swollen. The patient also notes a fractured tooth which she is concerned about. She denies any spontaneous tooth pain or swelling. OBJECTIVE Vitals: Stable. BP, HR within normal limits. Oral/Dental Examination: Extraoral: No acute findings noted. Intraoral Soft Tissues: Lips, buccal mucosa, tongue, floor of mouth, and hard/soft palate are within normal limits. Periodontal: Gingival tissue is generalized erythematous and edematous with bleeding on probing. No periodontal pockets greater than 4mm noted. Dental: A minor fracture is noted on the dentin of a specified tooth (e.g., tooth #31). The remaining dentition appears stable, with moderate plaque and calculus buildup noted supragingivally and subgingivally. Procedures Performed: 1. Dental consultation and report provided.
@@ -404,15 +316,11 @@ MEDICAL NOTE PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: AGE: 30 SEX: Femal
 3. Dental Plaque and Calculus, moderate accumulation. PLAN 1. Medications: Sodium Fluoride 0.0272 MG/MG Oral Gel (e.g., PreviDent 5000) Instructions: Dispense a pea-sized amount of the gel onto your toothbrush. Brush your teeth thoroughly once daily, preferably at bedtime, after your regular brushing with a standard toothpaste. Spit out the excess gel after brushing; do not swallow. For at least 30 minutes after use, do not eat, drink, or rinse your mouth. 2. Procedures: All necessary procedures for this visit have been completed (full-mouth debridement, composite restoration, fluoride treatment). 3. Patient Education: The patient was counseled on the importance of meticulous home care to manage her gingivitis. This includes proper brushing technique for two minutes twice daily with a soft-bristled toothbrush and daily flossing to disrupt plaque formation. 4. Follow-up: The patient is recommended to return for a periodontal maintenance visit in 3-4 months to reassess gingival health and ensure the effectiveness of her home care regimen. Scribe: Encounter Closed.
 
 ============================================================
-
-## Note 23 (undefined - e99562d6-43d3-28cc-97b8-a6d37b2d9477)
-
-**Note ID:** e99562d6-43d3-28cc-97b8-a6d37b2d9477
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2021-03-09T12:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 23 (Type: DocumentReference - ID: e99562d6-43d3-28cc-97b8-a6d37b2d9477)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2021-03-09T12:54:29.438-05:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Adah Jenni Ward MRN: 626-670-668 DATE OF VISIT: DOB: AGE: 31 SEX: Female RACE: White TYPE OF ENCOUNTER: Vaccination / Administration of Immunobiologic SUBJECTIVE: The patient is a 31-year-old female who presents to the clinic today for administration of the COVID-19 vaccine. She denies any current acute illness, including fever, cough, sore throat, shortness of breath, body aches, or loss of taste/smell. She has no known allergies to medications, foods, or vaccine components (such as polyethylene glycol). She has no questions or concerns regarding the vaccination. OBJECTIVE: Vitals: BP: 118/76 mmHg HR: 72 bpm RR: 16 breaths/min Temp: 98.4°F (36.9°C) SpO2: 99% on room air Physical Exam: General: Alert and oriented x4, in no acute distress. HEENT: Normocephalic, atraumatic. Mucous membranes moist. Lungs: Clear to auscultation bilaterally, no wheezes or rales. CV: Regular rate and rhythm, no murmurs, rubs, or gallops. Extremities: No edema, cyanosis, or clubbing. Left deltoid area shows no signs of erythema, swelling, or tenderness prior to injection. Procedure: 1. Informed consent was obtained from the patient. The risks, benefits, and alternatives of vaccination were discussed.
@@ -426,15 +334,11 @@ MEDICAL NOTE PATIENT: Adah Jenni Ward MRN: 626-670-668 DATE OF VISIT: DOB: AGE: 
 4. Follow up as needed. A record of this vaccination will be provided to the patient and uploaded to the state immunization registry. Scribe:
 
 ============================================================
-
-## Note 24 (undefined - 567378c7-cee8-2bd3-cbc5-3d304e8f1720)
-
-**Note ID:** 567378c7-cee8-2bd3-cbc5-3d304e8f1720
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2021-03-30T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 24 (Type: DocumentReference - ID: 567378c7-cee8-2bd3-cbc5-3d304e8f1720)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2021-03-30T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: AGE: 31 SEX: Female RACE: White DATE OF ENCOUNTER: October 26, 2023 SUBJECTIVE Chief Complaint (CC): Routine annual examination. History of Present Illness (HPI): Ms. Ward is a 31-year-old female who presents today for a general examination and preventative health maintenance. She reports feeling overall well. Upon review of systems, she mentions experiencing occasional tension-type headaches. She describes them as a bilateral, band-like pressure around her head, occurring approximately once monthly. She rates the pain as 4-5/10 in severity and notes it is often associated with neck stiffness, especially after long workdays at her computer. She has been using over-the-counter acetaminophen with some relief. She denies any associated nausea, vomiting, photophobia, or visual disturbances. There are no reported symptoms from other systems. Medications: None reported. Allergies: No Known Drug Allergies (NKDA). Past Medical History (PMH): Unremarkable. Social History: Patient works in an office setting. Denies tobacco use. Reports social alcohol use (1-2 drinks per week). Denies illicit substance use. OBJECTIVE Vitals: T: 98.6°F, HR: 72 bpm, BP: 118/76 mmHg, RR: 16/min, SpO2: 99% on room air. Physical Examination: -General: Patient is a well-appearing, well-developed female in no acute distress.
@@ -451,15 +355,11 @@ MEDICAL NOTE PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: AGE: 31 SEX: Femal
 2. Health Maintenance: Routine annual exam completed. Age-appropriate screenings and immunizations are up to date. PLAN 1. Tension-Type Headache: - Medication: Prescribed Ibuprofen 400 MG Oral Tablet . - Instructions for Ibuprofen: Patient was instructed to take one (1) tablet by mouth every 6 to 8 hours as needed for headache pain. She was advised to take it with food or milk to minimize potential stomach upset. She should not exceed 3 tablets (1200 mg) in a 24-hour period unless directed by a physician. - Education: Discussed non-pharmacological interventions, including taking frequent breaks from screen time, neck stretches, proper posture, and staying hydrated. Advised to return if headaches become more frequent, severe, or are associated with new neurological symptoms (e.g., weakness, numbness, vision changes). 2. Health Maintenance: - Routine exam is complete. Patient is in good health. - Influenza and Td vaccines administered today as scheduled. - All preventative screenings are negative and up to date. Patient verbalized understanding of the plan and is in agreement. Follow up as needed.
 
 ============================================================
-
-## Note 25 (undefined - 12c53120-c09e-40b8-9abf-9fd597f39cfe)
-
-**Note ID:** 12c53120-c09e-40b8-9abf-9fd597f39cfe
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2021-04-06T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 25 (Type: DocumentReference - ID: 12c53120-c09e-40b8-9abf-9fd597f39cfe)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2021-04-06T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Of course. Here is a medical note for the encounter, written in the standard SOAP (Subjective, Objective, Assessment, Plan) format. DATE OF SERVICE: PATIENT: Adah Ward MRN: 668 DOB: AGE: 31 SEX: Female RACE: White CHIEF COMPLAINT (CC): COVID-19 vaccination. HISTORY OF PRESENT ILLNESS (HPI): Ms. Ward is a 31-year-old female who presents to the clinic for a scheduled administration of the COVID-19 vaccine to produce active immunity. She denies any recent fevers, chills, cough, shortness of breath, or other symptoms of a viral illness. She has no known recent exposure to COVID-19. She denies any history of severe allergic reaction (e.g., anaphylaxis) to any prior vaccine or injectable therapy. The risks and benefits of vaccination were reviewed, and the patient consents to the procedure. SUBJECTIVE: Patient is educated on the common side effects that may be caused by the COVID-19 mRNA vaccine. She understands these are typically mild to moderate and resolve within a few days. These include: Injection Site Reactions: Pain, tenderness, redness, or swelling in the arm where the shot was given. Systemic Symptoms: Fatigue, headache, muscle pain (myalgia), joint pain (arthralgia), chills, fever, and nausea. Lymphadenopathy: Swollen lymph nodes, particularly in the underarm on the same side as the injection. Patient is also advised on rare but more serious symptoms that would require immediate medical attention, such as difficulty breathing, swelling of the face and throat, hives, or a severe rash. OBJECTIVE: VITALS: Blood Pressure: 118/76 mmHg Heart Rate: 72 bpm Respiratory Rate: 16 breaths/min Temperature: 98.4°F (36.9°C) SpO2: 99% on room air PHYSICAL EXAMINATION: General: Alert, oriented x4, in no acute distress. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, no wheezes or rales. Extremities: No edema, cyanosis, or clubbing. Left deltoid area shows no signs of erythema, swelling, or lesion prior to injection. PROCEDURE NOTE: The patient was positioned comfortably. The left deltoid was prepped with an alcohol swab and allowed to air dry. Using a sterile technique, Pfizer-BioNTech COVID-19 vaccine (mRNA, LNP-S, PF), 100 mcg/0.5 mL dose , was administered via intramuscular injection. Lot # , Expiration Date . The patient tolerated the procedure well without any immediate adverse effects. A sterile bandage was applied. ASSESSMENT: 1. Administration of immunization for COVID-19 (ICD-10: Z23).
@@ -471,43 +371,31 @@ Of course. Here is a medical note for the encounter, written in the standard SOA
 5. Patient is in stable condition and was discharged home. Follow up as needed. ,
 
 ============================================================
-
-## Note 26 (undefined - ec8d42a9-6f79-4055-9b37-fb367f6e1dbf)
-
-**Note ID:** ec8d42a9-6f79-4055-9b37-fb367f6e1dbf
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2022-03-09T21:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 26 (Type: DocumentReference - ID: ec8d42a9-6f79-4055-9b37-fb367f6e1dbf)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2022-03-09T21:54:29.438-05:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Of course. Here is a medical note for the encounter, written in the standard SOAP (Subjective, Objective, Assessment, Plan) format. MEDICAL NOTE DATE OF SERVICE: PATIENT: Adah626 Jenni670 Ward668 DOB/Age: 32-Year-Old SEX: Female RACE: White CHIEF COMPLAINT (CC): Sinus congestion and facial pressure for 5 days. SUBJECTIVE (S): The patient is a 32-year-old female who presents for evaluation of symptoms consistent with a viral upper respiratory infection, now with sinus involvement. She reports that her symptoms began approximately 5 days ago with a sore throat and mild fatigue, which have since progressed. History of Present Illness (HPI): The patient reports nasal congestion, which is bilateral and persistent. She has been experiencing rhinorrhea, which was initially clear but has now turned a pale yellow color. She describes a constant, dull pressure and aching sensation over her cheeks and forehead, which she notes worsens when she bends forward. Associated with this is a frontal headache, located behind her eyes. She denies any fever, chills, or significant body aches. She reports a mildly productive cough in the mornings, which she attributes to post-nasal drip. She has tried over-the-counter Tylenol with some relief for her headache. She denies any vision changes, tooth pain, or recent dental work. Review of Systems (ROS): CONSTITUTIONAL: Denies fever, chills, recent weight loss. Reports mild fatigue. ENT: Positive for nasal congestion, rhinorrhea, facial pressure, frontal headache, and sore throat. Negative for epistaxis, ear pain, or hearing loss. RESPIRATORY: Reports mild morning cough. Denies shortness of breath, chest pain, or wheezing. All other systems reviewed and are negative. Past Medical History (PMH): No known chronic medical conditions. Medications: None chronic. Takes Tylenol PRN. Allergies: No Known Drug Allergies (NKDA). Social History: Denies tobacco, illicit drug use. Drinks alcohol socially. OBJECTIVE (O): Vitals: Temp: 98.6°F (37.0°C) BP: 118/78 mmHg HR: 72 bpm RR: 16/min SpO2: 99% on room air Physical Exam: General: Alert and oriented x4, well-developed, in no acute distress. HEENT: Head: Normocephalic, atraumatic. Eyes: PERRLA, extraocular movements intact. Sclerae anicteric. Conjunctivae without injection. Ears: TMs gray, cone of light present, no bulging or erythema. Nose: Nasal mucosa is erythematous and edematous. Clear to pale yellow mucus noted in bilateral nasal passages. No purulence. Mild tenderness to palpation over bilateral maxillary and frontal sinuses. Throat: Mildly erythematous posterior oropharynx, no exudates. Tonsils 1+, non-erythematous. Mild post-nasal drip visualized. Neck: Supple, full range of motion. No cervical lymphadenopathy. Lungs: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. ASSESSMENT (A): 1. Acute Viral Sinusitis: Patient presents with a classic constellation of symptoms, including < 10 days of rhinorrhea, nasal congestion, facial pressure, and headache. Absence of fever and purulent discharge on exam, along with a normal physical exam aside from nasal mucosal inflammation, points to a viral etiology. PLAN (P): 1. Patient Education: Discussed the diagnosis of acute viral sinusitis. Emphasized that this is caused by a virus and therefore antibiotics are not indicated and will not be effective. Reviewed the typical course of 7-10 days for symptoms to improve. Provided instruction on "red flag" symptoms that would require urgent re-evaluation, including: Fever > 102°F or persistent fever. Symptoms that worsen after initially improving (double sickening). Severe, unilateral headache or visual changes. Neck stiffness or confusion. 2. Treatment Plan (Supportive Care): Saline Nasal Spray/Rinse: Use 2-3 times per day to help thin mucus and moisturize nasal passages. Humidifier: Use at home to add moisture to the air. Warm Compresses: Apply over the sinus areas for comfort. Hydration: Increase fluid intake with water. Pain/Headache Control: Continue to use Tylenol (acetaminophen) or Ibuprofen as needed for headache and facial pain. 3. Follow-Up: Patient to follow up with the clinic in 7-10 days if symptoms are not improving, or sooner if any of the above "red flag" symptoms develop. Return to the emergency department for any severe or acute neurological symptoms.
 
 ============================================================
-
-## Note 27 (undefined - fba6b253-cffb-93ef-fa42-5f89a542a591)
-
-**Note ID:** fba6b253-cffb-93ef-fa42-5f89a542a591
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2022-04-05T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 27 (Type: DocumentReference - ID: fba6b253-cffb-93ef-fa42-5f89a542a591)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2022-04-05T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF ENCOUNTER: PATIENT: Adah Ward MRN: 626-670-668 DOB: SEX: Female RACE: White SUBJECTIVE Chief Complaint (CC): Follow-up for tension headaches. History of Present Illness (HPI): Ms. Ward is a 32-year-old female who presents for a general examination. She reports a several-week history of frequent tension-type headaches, which she describes as a bilateral, band-like pressure around her head. She notes the headaches are often worse at the end of a workday and are associated with significant neck and shoulder muscle tightness. She suspects stress may be a contributing factor. The patient denies any aura, nausea, vomiting, or visual changes. She has been using over-the-counter analgesics with minimal relief. She also reports ongoing jaw discomfort and was advised by a friend to see a dentist, requesting a referral for this today. Medications: None. Allergies: No Known Drug Allergies (NKDA). OBJECTIVE Vitals: BP: 118/75 mmHg HR: 72 bpm RR: 16/min Temp: 98.6°F (37.0°C) SpO2: 99% on room air Physical Exam: General: Alert and oriented x4, well-appearing, in no acute distress. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light. Extraocular movements intact. Neck: Full range of motion. Mild tenderness to palpation along the bilateral trapezius and paraspinal muscles. No meningeal signs. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, no wheezes or rales. Neurological: Grossly intact. Cranial nerves II-XII are intact. Sensation and strength are normal in all four extremities. Procedures/Screenings Performed: Assessment of health and social care needs - completed. Anxiety assessment (GAD-7) - low score. Depression screening (PHQ-9) - low score. Screening for domestic abuse - patient denies concerns. Assessment of substance use / Screening for drug abuse - patient denies use. Patient referral for dental care procedure(s) - processed. Immunizations Administered: Influenza, seasonal, injectable, preservative free, 0.5 mL, administered intramuscularly in the left deltoid. Patient tolerated the procedure well. ASSESSMENT & PLAN 1. Tension-Type Headaches: Likely related to stress and muscle tension. Plan: Prescribe Ibuprofen for as-needed pain relief. Encourage stress management techniques, regular stretching, and adequate hydration. Follow up as needed. 2. Cervical Muscle Strain/Tension: Contributing to headaches. Plan: Counsel on gentle neck stretches and ergonomic adjustments at her workstation. Heat therapy as needed. 3. Dental Evaluation Requested: For reported jaw pain. Plan: Provided referral to a general dentist for further evaluation. 4. Preventative Care: Due for annual flu vaccine. Plan: Influenza vaccine administered today. PRESCRIPTIONS Medication: Ibuprofen 400 MG Oral Tablet Instructions: Take 1 (one) tablet by mouth every 6 to 8 hours as needed for headache or muscle pain. Take with food or milk to prevent stomach upset. Do not take more than 6 tablets (2400 mg) in a 24-hour period. PATIENT EDUCATION The patient was educated on the proper use of Ibuprofen, including the importance of taking it with food to minimize gastrointestinal side effects and not exceeding the maximum daily dose. She was advised to seek immediate medical attention if she experiences symptoms of a severe headache (e.g., "worst headache of her life," fever with stiff neck, confusion, or weakness after the headache starts). She was counseled on the common, mild side effects of the influenza vaccine, such as injection site soreness and low-grade fever, which should resolve in a couple of days. Electronically Signed by: ,
 
 ============================================================
-
-## Note 28 (undefined - be8325e6-c03e-414d-b8f1-dabe155a87d5)
-
-**Note ID:** be8325e6-c03e-414d-b8f1-dabe155a87d5
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2022-04-19T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 28 (Type: DocumentReference - ID: be8325e6-c03e-414d-b8f1-dabe155a87d5)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2022-04-19T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Adah Ward DATE OF BIRTH: AGE: 32 SEX: Female DATE OF ENCOUNTER: SUBJECTIVE: The patient is a 32-year-old female presenting for a dental check-up and treatment as per referral. The patient reports a history of bleeding gums when brushing and flossing, particularly over the past few months. She also endorses increased tooth sensitivity to cold temperatures. She denies any spontaneous, throbbing tooth pain. The patient is here to establish routine dental care and address her gingival health. OBJECTIVE: General: Patient is alert, oriented, and in no acute distress. Oral Examination: Gingiva: Mildly erythematous and edematous with bleeding on probing noted throughout the oral cavity, consistent with gingivitis. Dentition: Presence of moderate supragingival and subgingival plaque and calculus deposits, especially interproximally and on the lingual surfaces of the lower anterior teeth. Occlusion: Stable. Procedures Performed: 1. Comprehensive dental consultation and report.
@@ -522,15 +410,11 @@ MEDICAL NOTE PATIENT: Adah Ward DATE OF BIRTH: AGE: 32 SEX: Female DATE OF ENCOU
 3. Completed Dental Referral for Preventative Care: Patient has undergone initial evaluation and preventative treatment. PLAN: 1. Medications: Sodium Fluoride 0.0272% Oral Gel Instructions for Use: Use once daily, preferably at bedtime after brushing. Apply a pea-sized amount of gel to a toothbrush. Brush thoroughly for one minute, ensuring the gel coats all tooth surfaces. Expectorate (spit out) the excess foam. Do not swallow. Do not eat, drink, or rinse your mouth for at least 30 minutes after use. Keep out of reach of children. 2. Patient Education: Reinforced the importance of twice-daily brushing with a fluoride toothpaste and daily flossing. Discussed dietary modifications to reduce caries risk. 3. Follow-Up: Patient is to return in 3-4 months for a periodontal re-evaluation and routine cleaning to monitor gingival health. Patient was advised to call the office if she experiences any worsening pain, swelling, or other concerns. Scribe: Attending Dentist/Provider:
 
 ============================================================
-
-## Note 29 (undefined - 35fbbf3b-2e65-0785-0b42-d0dd2d00b4bb)
-
-**Note ID:** 35fbbf3b-2e65-0785-0b42-d0dd2d00b4bb
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2023-04-11T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 29 (Type: DocumentReference - ID: 35fbbf3b-2e65-0785-0b42-d0dd2d00b4bb)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2023-04-11T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF ENCOUNTER: PATIENT: Adah Jenni Ward DOB: AGE: 33 SEX: Female MRN: Adah626 Jenni670 Ward668 SUBJECTIVE Chief Complaint (CC): Follow-up for headaches and stress. History of Present Illness (HPI): Ms. Ward is a 33-year-old female presenting for a general examination. She reports a several-month history of frequent headaches, which she describes as a bilateral, band-like tightening sensation around her head. She rates the pain as 5/10 in severity and states it is often worse at the end of a workday or during periods of high stress. The headaches can last for several hours. She has been using over-the-counter analgesics with some relief but is seeking a more consistent management plan. She denies any associated nausea, vomiting, photophobia, phonophobia, or visual disturbances. She also reports occasional jaw soreness upon waking, which she attributes to "clenching her teeth." She feels her overall stress and anxiety levels have been high recently, impacting her sleep quality. Past Medical History (PMH): Unremarkable. Medications: None reported prior to today's visit. Allergies: No Known Drug Allergies (NKDA). Review of Systems (ROS): Constitutional: Denies fever, chills, or recent weight loss. HEENT: Denies vision changes, hearing loss, or sore throat. Reports occasional jaw soreness as noted above. Psych: Reports feeling "stressed" and "overwhelmed." Reports intermittent difficulty falling asleep. Substance Use: Reports occasional alcohol use (1-2 drinks on weekends). Denies tobacco or illicit drug use. OBJECTIVE Vitals: Temp: 98.6°F BP: 118/75 mmHg HR: 78 bpm RR: 16 breaths/min SpO2: 99% on room air Physical Examination: General: Alert, oriented, and in no acute distress. Well-developed, well-nourished. HEENT: Head normocephalic, atraumatic. Pupils equal, round, and reactive to light. Extraocular movements intact. Pharynx clear without erythema or exudate. Neck: Supple, full range of motion. No meningismus. No lymphadenopathy. Cardiovascular: Regular rate and rhythm. No murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally. No wheezes or rales. Abdomen: Soft, non-tender, and non-distended. Bowel sounds normoactive in all four quadrants. Neurological: Cranial nerves II-XII intact. Motor strength 5/5 in all extremities. Sensation intact to light touch. Reflexes 2+ and symmetric. Gait is steady and normal. Procedures/Assessments Performed: 1. Medication Reconciliation completed.
@@ -545,15 +429,11 @@ MEDICAL NOTE DATE OF ENCOUNTER: PATIENT: Adah Jenni Ward DOB: AGE: 33 SEX: Femal
 4. Influenza Prophylaxis: Immunization provided as per preventative care guidelines. PLAN 1. Tension-Type Headaches: Prescribed Ibuprofen 400 MG Oral Tablet: Instructions: Take 1 tablet by mouth every 6 to 8 hours as needed for headache pain. Important Directions: Take this medication with food or a full glass of water to prevent stomach upset. Do not take more than 3 tablets (1200 mg) in a 24-hour period without consulting your physician. Stop taking and contact the office if you experience stomach pain, black or tarry stools, or a skin rash. Encourage non-pharmacologic measures such as warm compresses, neck stretches, and ensuring adequate hydration. 2. Anxiety & Stress: Discussed the link between stress and physical symptoms, including headaches. Counseled on stress-reduction techniques, including mindfulness, deep-breathing exercises, and maintaining a regular sleep schedule. Recommended regular physical activity. 3. Bruxism: A referral has been sent to a dental provider for further evaluation of the jaw pain and potential treatment with a night guard. 4. Preventative Care: Seasonal influenza vaccine administered today. Patient educated on potential mild side effects such as arm soreness or low-grade fever. Follow-up: Return to the clinic in 3 months, or sooner if headaches worsen or new symptoms develop. Electronically Signed by: , MD/DO/etc.
 
 ============================================================
-
-## Note 30 (undefined - a2aed784-6217-5232-f71f-f1a44bd2258f)
-
-**Note ID:** a2aed784-6217-5232-f71f-f1a44bd2258f
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2023-04-25T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 30 (Type: DocumentReference - ID: a2aed784-6217-5232-f71f-f1a44bd2258f)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2023-04-25T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 DENTAL MEDICAL RECORD PATIENT NAME: Adah626 Jenni670 Ward668 DATE OF BIRTH: AGE: 33 SEX: Female RACE: White DATE OF ENCOUNTER: CHIEF COMPLAINT (CC): Here for dental consultation and treatment, as referred by primary care provider. HISTORY OF PRESENT ILLNESS (HPI): Patient is a 33-year-old female presenting today for a comprehensive dental evaluation and treatment. The patient reports symptoms that prompted the referral, including occasional gum bleeding when brushing and flossing over the past several months. She also notes generalized tooth sensitivity to cold temperatures and reports a dull, intermittent ache on her lower right side, particularly when chewing, for the past few weeks. The patient has not seen a dentist in several years and is motivated to improve her oral health. PAST MEDICAL HISTORY: Medical: No known medical conditions. Surgical: No prior surgeries. Allergies: No known drug allergies (NKDA). Medications: None reported. SOCIAL HISTORY: Tobacco: Denies any tobacco use. Alcohol: Reports occasional social alcohol use. Occupation: EXAMINATION & PROCEDURES PERFORMED OBJECTIVE (O): Vitals: BP 118/75, HR 72, RR 16, Temp 98.6°F. Extraoral Exam: No lymphadenopathy or facial asymmetry noted. Intraoral Soft Tissue Exam: Oral mucosa appears pink, moist, and intact. No lesions noted. Periodontal Examination (Examination of gingivae): Gingival tissue is generally pink with moderate erythema and edema at the marginal papilla. Bleeding on probing noted at multiple sites. Generalized probing depths of 3-4mm with localized areas of 5mm. Moderate calculus and plaque noted. Dental Examination: Dentition is fully intact. #19 (lower right first molar) exhibits extensive occlusal and interproximal caries. Tooth is responsive to percussion but reports heightened sensitivity. Other teeth show minor enamel stains and no obvious active decay. Radiographic Examination: Full mouth series of radiographs taken. Confirms presence of interproximal caries on #19 extending towards the pulp chamber. Moderate horizontal bone loss noted throughout the dentition. PROCEDURES PERFORMED: 1. Dental Consultation and Report: A comprehensive evaluation was performed, and a detailed report of findings and recommendations was generated for the patient and her records.
@@ -570,29 +450,21 @@ DENTAL MEDICAL RECORD PATIENT NAME: Adah626 Jenni670 Ward668 DATE OF BIRTH: AGE:
 5. Return for routine dental hygiene and examination in 3-4 months for maintenance. SIGNED, Dental Provider
 
 ============================================================
-
-## Note 31 (undefined - 485d2000-3caa-61f1-f33f-5440102008ab)
-
-**Note ID:** 485d2000-3caa-61f1-f33f-5440102008ab
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2023-10-16T16:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 31 (Type: DocumentReference - ID: 485d2000-3caa-61f1-f33f-5440102008ab)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2023-10-16T16:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Jenni Ward MRN: Adah626-JW668 DATE OF BIRTH: DATE OF ENCOUNTER: PROVIDER: Dr. A. Scribe SUBJECTIVE Chief Complaint (CC): Cough, chest congestion, and fatigue for 5 days. History of Present Illness (HPI): Ms. Ward is a 34-year-old white female who presents for evaluation of a persistent cough. She reports that her symptoms began acutely 5 days ago with a dry, hacking cough. Over the past 2 days, the cough has become productive, with clear to white sputum. She reports a constant feeling of chest tightness and congestion, which is worse at night. She has been experiencing mild, subjective fevers, generalized body aches, and significant fatigue. She denies any shortness of breath at rest but notes mild dyspnea on exertion. She has tried an over-the-counter cough suppressant with minimal relief. She denies sore throat, sinus pressure, nausea, vomiting, or diarrhea. Past Medical History (PMH): No known chronic illnesses. Medications: None. Allergies: No Known Drug Allergies (NKDA). OBJECTIVE Vitals: Temp: 37.5°C (99.5°F) BP: 120/78 mmHg HR: 84 bpm RR: 18 breaths/min SpO2: 99% on room air Physical Exam: General: Alert and oriented x4, in no acute distress. Lungs: Bilateral breath sounds are clear with scattered wheezes noted throughout all lung fields. No rales or rhonchi appreciated. Cardiovascular: Regular rate and rhythm. No murmurs, gallops, or rubs. HEENT: Mild nasal erythema without discharge. Posterior oropharynx is non-erythematous without exudates. ASSESSMENT & PLAN 1. Acute Bronchitis, likely viral Plan: Discussed the likely viral nature of the illness and that antibiotics are not indicated at this time. Recommended supportive care, including increased fluid intake, rest, and use of a humidifier. Prescribed medication for symptomatic relief (see below). 2. Fever and Myalgias Plan: Treated symptomatically with acetaminophen. 3. Cough and Chest Congestion Plan: Treated symptomatically with acetaminophen for discomfort. PRESCRIPTIONS & INSTRUCTIONS Medication: Acetaminophen 325 MG Oral Tablet Dosage: Take 1 to 2 tablets by mouth every 4 to 6 hours as needed for fever, body aches, or chest discomfort. Important Instructions: Do not take more than 6 tablets (3000 mg) in a 24-hour period. To avoid liver damage, do not take with other products containing acetaminophen. Avoid or limit the consumption of alcoholic beverages while taking this medication. Follow-up: Patient was advised to return to the clinic or seek urgent care if she experiences any of the following: High fever (>102°F) that persists Shortness of breath or difficulty breathing Chest pain Cough that does not improve or worsens over the next 2-3 weeks Coughing up blood or discolored, thick sputum Electronically Signed by, Dr. A. Scribe, MD
 
 ============================================================
-
-## Note 32 (undefined - 24604d21-679d-400d-3455-2a8b1647f89a)
-
-**Note ID:** 24604d21-679d-400d-3455-2a8b1647f89a
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2024-04-16T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 32 (Type: DocumentReference - ID: 24604d21-679d-400d-3455-2a8b1647f89a)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2024-04-16T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE DATE OF ENCOUNTER: PATIENT: Adah626 Jenni670 Ward668 DOB: MRN: Ward668 AGE: 34 SEX: Female SUBJECTIVE Chief Complaint (CC): Patient presents for a general examination. History of Present Illness (HPI): Ms. Ward is a 34-year-old white female who presents today for her annual routine examination. She reports being in her usual state of health but mentions occasional, mild-to-moderate headaches, which she describes as tension-type and often related to long hours at her desk job. She also reports occasional neck and shoulder muscle soreness, particularly after periods of stress. These symptoms have been manageable but prompted her to seek advice on over-the-counter relief. She denies any recent illnesses, fevers, chills, or other acute concerns. Past Medical History (PMH): Non-contributory. Allergies: No Known Drug Allergies (NKDA). Medications: None prior to this visit. Social History: The patient works in an office setting. Denies tobacco, alcohol, or illicit drug use. OBJECTIVE Vitals: Temperature: 98.6°F (37.0°C) Blood Pressure: 118/76 mmHg Heart Rate: 72 bpm, regular Respirations: 16 per minute O2 Saturation: 99% on room air Physical Examination: General: Alert and oriented x4, well-developed, well-nourished, in no acute distress. HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light. Mucous membranes moist. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, good air entry. Abdomen: Soft, non-tender, no guarding or rebound. Bowel sounds normoactive in all four quadrants. Musculoskeletal: Full range of motion in all extremities. Mild tenderness to palpation in the trapezius muscles bilaterally. Procedures/Assessments Performed: 1. Assessment of health and social care needs.
@@ -601,44 +473,32 @@ MEDICAL NOTE DATE OF ENCOUNTER: PATIENT: Adah626 Jenni670 Ward668 DOB: MRN: Ward
 4. Patient referral for dental care procedure(s). Immunizations Administered: 1. Influenza, seasonal, injectable, preservative free, administered intramuscularly in the left deltoid. Patient tolerated the procedure well. ASSESSMENT & PLAN 1. Occasional Tension-Type Headaches and Musculoskeletal Pain: Likely related to posture and work-related stress. Plan: Prescribed Ibuprofen for as-needed use. Discussed the importance of ergonomics, taking regular stretch breaks, and stress management techniques. 2. Annual Health Maintenance: Complete. Plan: No acute concerns identified. Continue healthy lifestyle. 3. Dental Health: Due for routine cleaning and check-up. Plan: Patient has been referred for a dental evaluation. Encouraged her to schedule an appointment. 4. Immunization Status: Updated for the current season. Plan: Patient has received the seasonal influenza vaccine. Education provided on potential side effects. PRESCRIPTIONS Ibuprofen 400 MG Oral Tablet Instructions: Take 1 tablet by mouth every 6 to 8 hours as needed for headache, muscle pain, or minor aches. Take with food or a full glass of water to minimize stomach upset. Do not take more than 3 tablets (1200mg) in a 24-hour period unless directed by a physician. Discontinue use and contact the clinic if you experience stomach pain, heartburn, or if your symptoms do not improve. Follow-up: Return as needed for any new or worsening symptoms. Follow up in one year for routine annual examination.
 
 ============================================================
-
-## Note 33 (undefined - bfccc310-a83f-159d-6e77-7b9db833f307)
-
-**Note ID:** bfccc310-a83f-159d-6e77-7b9db833f307
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2024-04-30T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 33 (Type: DocumentReference - ID: bfccc310-a83f-159d-6e77-7b9db833f307)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2024-04-30T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Of course. Here is a medical note for the encounter, formatted in the standard SOAP (Subjective, Objective, Assessment, Plan) style. CHIEF COMPLAINT: Follow-up for gingivitis. SUBJECTIVE: The patient is a 34-year-old white female who presents for a scheduled dental check-up and management of gingivitis. She reports a several-week history of bleeding gums when brushing and flossing. She describes her gums as looking "puffy and red" and has noticed a persistent bad taste in her mouth. The patient denies any severe or throbbing pain. She states she brushes her teeth once daily and rarely uses dental floss. OBJECTIVE: Vitals: Stable. BP: 118/76 mmHg, HR: 72 bpm, RR: 16 bpm, Temp: 98.2°F. Oral Examination: Gingiva: Generalized erythema and edema throughout the mouth. Gingival margins are rounded and rolled. Bleeding on probing noted in multiple quadrants. No purulent discharge observed. Teeth: All teeth present. Visible supragingival and subgingival plaque and calculus accumulation. X-rays: Dental bitewing x-rays taken. No evidence of interproximal caries or bone loss beyond what is expected for mild periodontal inflammation. Procedures Performed: 1. Dental consultation and report. 2. Comprehensive dental examination, including examination of gingivae. 3. Dental plain x-ray (bitewing). 4. Oral health education provided, focusing on proper brushing and flossing techniques. 5. Removal of supragingival plaque and calculus from all teeth (prophylaxis/scaling). 6. Removal of subgingival plaque and calculus from all teeth (deep cleaning/root planing). 7. Professional dental fluoride treatment administered. 8. Initiation of dental care regime/therapy. ASSESSMENT: 1. Plaque-Induced Gingivitis 2. Dental Plaque and Calculus PLAN: 1. Medications: Sodium Fluoride 0.0272 MG/MG Oral Gel Instructions: Apply a thin ribbon of gel to a toothbrush and brush thoroughly onto all tooth surfaces once daily, preferably at bedtime after brushing. Patient Education: After applying, spit out the excess gel. Do not swallow. Do not eat, drink, or rinse for at least 30 minutes after use to allow the fluoride to take effect. 2. Home Care Instructions: Continue with a meticulous oral hygiene regimen. Brush teeth at least twice daily with a soft-bristled toothbrush and fluoride toothpaste. Floss daily to remove plaque from between the teeth and under the gumline. Consider using an antiseptic mouthwash as an adjunct to brushing and flossing. 3. Follow-Up: Return to the clinic in 4-6 weeks for a follow-up evaluation to assess gingival health and response to treatment. The patient was advised to call the office if she experiences increased pain, swelling, or signs of infection. Scribe: Date:
 
 ============================================================
-
-## Note 34 (undefined - 87fbe690-cb3c-c15a-97f0-c3fa79e779e7)
-
-**Note ID:** 87fbe690-cb3c-c15a-97f0-c3fa79e779e7
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2024-12-23T15:54:29.438-05:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 34 (Type: DocumentReference - ID: 87fbe690-cb3c-c15a-97f0-c3fa79e779e7)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2024-12-23T15:54:29.438-05:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Adah Jenni Ward DOB: DATE OF ENCOUNTER: AGE: 35 SEX: Female ETHNICITY: White SUBJECTIVE Chief Complaint (CC): Nasal congestion and facial pain for 5 days. History of Present Illness (HPI): Ms. Ward is a 35-year-old female who presents for evaluation of sinus symptoms. She reports that 5 days ago, she developed symptoms consistent with an upper respiratory infection, including a sore throat and runny nose. Over the past 3 days, her symptoms have progressed to include significant bilateral nasal congestion, purulent nasal discharge, and facial pain. She describes the pain as a constant pressure and aching over her cheeks and forehead. She rates the pain as a 6/10 in severity. The pain is worsened by bending forward. She also reports a frontal headache, decreased sense of smell, and thick post-nasal drip that causes a occasional cough, especially at night. She has been managing her symptoms with over-the-counter ibuprofen and a decongestant, which provide temporary relief. She denies any vision changes, severe headache, or confusion. She reports feeling fatigued but denies shortness of breath or chest pain. She had a low-grade fever yesterday, self-measured at 100.2°F. Review of Systems (ROS): HEENT: Positive for nasal congestion, purulent nasal discharge, facial pressure/pain, frontal headache, decreased sense of smell, and post-nasal drip. Negative for visual changes, hearing loss, or sore throat at this time. Constitutional: Positive for fatigue and subjective fevers. Negative for chills or unintentional weight loss. Respiratory: Negative for shortness of breath, chest pain, or wheezing. All other systems reviewed and are negative. Past Medical History (PMH): No known chronic medical conditions. Past Surgical History (PSH): None. Medications: Ibuprofen 400-600 mg every 6-8 hours as needed for pain. Pseudoephedrine as needed for congestion. Allergies: No Known Drug Allergies (NKDA). Social History (SH): Denies tobacco, illicit drug use. Drinks alcohol socially (1-2 drinks per week). Works as an office manager. OBJECTIVE Vitals: Temperature: 37.8°C (100.0°F) Blood Pressure: 118/75 mmHg Heart Rate: 84 bpm Respiratory Rate: 16/min SpO2: 99% on room air Physical Exam: General: Alert and oriented x4. Well-appearing, in no acute distress. HEENT: Head: Normocephalic, atraumatic. Eyes: Pupils equal, round, and reactive to light. Extraocular movements intact. No scleral icterus or conjunctival pallor. Ears: Tympanic membranes normal with good cone of light, no bulging or erythema. Nose: Nasal mucosa is erythematous and edematous. Thick, yellowish discharge noted in nasal passages. Nasal turbinates are swollen. Throat: Mild pharyngeal erythema without exudates. No tonsillar swelling. Neck: Supple, full range of motion. No lymphadenopathy or meningeal signs. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, good air entry, no wheezes or rales. ASSESSMENT & PLAN Assessment: 1. Acute Viral Sinusitis: The patient presents with a <10-day history of classic sinus symptoms (congestion, purulent discharge, facial pain) following a typical upper respiratory infection. Her low-grade fever and lack of severe or worsening symptoms point toward a viral etiology.
 2. Fever: Secondary to viral process. Plan: 1. Patient Education: We discussed the diagnosis of acute viral sinusitis. I explained that this is most likely caused by a virus and therefore antibiotics are not indicated and will not be effective. The goal of treatment is supportive care to manage symptoms while her body fights the infection. 2. Supportive Care Measures: Saline Nasal Irrigation: Recommend using a saline spray or neti pot 2-3 times daily to help clear mucus and moisturize nasal passages. Analgesia/Antipyretics: Continue using Ibuprofen or Acetaminophen as needed for facial pain, headache, and fever. Decongestants: Continue pseudoephedrine as needed. An oxymetazoline (Afrin) nasal spray can be used for up to 3 days maximum to relieve severe congestion, with warnings about rebound congestion with longer use. Hydration & Rest: Encourage increased fluid intake and adequate rest. 3. Follow-up: The patient was advised to return to the clinic or seek urgent care if she experiences any of the following "red flag" symptoms: symptoms persisting for >10 days without improvement, symptoms that worsen after initial improvement (double-sickening), high fever >102°F, severe unilateral facial pain, periorbital swelling, or any changes in vision. No follow-up is required at this time, but she is welcome to call or return if her symptoms do not resolve as expected. , MD/DO/PA-C/NP
 
 ============================================================
-
-## Note 35 (undefined - 687f950b-f92e-47c6-bd9b-db93f39cfc9d)
-
-**Note ID:** 687f950b-f92e-47c6-bd9b-db93f39cfc9d
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2025-04-09T19:25:57.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 35 (Type: DocumentReference - ID: 687f950b-f92e-47c6-bd9b-db93f39cfc9d)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2025-04-09T19:25:57.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Of course. Here is a medical note for the encounter, written in the standard SOAP (Subjective, Objective, Assessment, Plan) format. DATE OF SERVICE: PATIENT: Ward, Adah626 Jenni670 MRN: 668 DOB: , Age: 35 SEX: Female RACE: White CHIEF COMPLAINT (CC): "Here for my missing teeth." SUBJECTIVE (S): The patient is a 35-year-old white female presenting for evaluation and management of tooth loss. She reports that she has been missing her upper right teeth for several months, following extractions due to severe decay. She denies any acute pain at this time. The patient reports several issues related to her tooth loss, including: Difficulty chewing: She has trouble biting and chewing food, especially on the right side, and has had to modify her diet. Aesthetic concerns: She is self-conscious about the appearance of the gap in her smile and avoids smiling in public. Speech changes: She has noticed a slight lisp or difficulty with certain words since the teeth have been missing. Jaw discomfort: She reports occasional, mild discomfort in her right jaw, which she attributes to chewing differently. The patient is interested in exploring replacement options. She denies any new swelling, bleeding, or pain in the area. She has no known drug allergies. OBJECTIVE (O): Vitals: BP: 118/76 mmHg HR: 72 bpm RR: 16 breaths/min Temp: 98.4°F (36.9°C) Physical Examination: General: Alert and oriented x4, in no acute distress. HEENT: Normocephalic. Pupils equal, round, and reactive to light and accommodation. Oral mucosa is moist and pink. Oral Cavity Exam: Intraoral exam reveals good oral hygiene. The patient is edentulous in the maxillary right quadrant, clinically missing teeth #4 and #5. The residual ridge appears well-healed. Adjacent teeth (#3 and #6) show no signs of mobility or significant wear. No erythema, swelling, or purulence noted in the area. Occlusion appears stable with some minor shifting of the opposing mandibular teeth. Procedures & Imaging: 1. Dental Consultation and Report: A comprehensive evaluation was performed to discuss the patient's chief complaint and review potential restorative options.
@@ -652,15 +512,11 @@ Of course. Here is a medical note for the encounter, written in the standard SOA
 4. Follow-up: Patient will schedule a follow-up appointment in 2-4 weeks to make a final decision on the treatment plan. In the meantime, she was instructed to maintain good oral hygiene and to call the office if she experiences any pain or swelling. Scribed by:
 
 ============================================================
-
-## Note 36 (undefined - 47717c51-1ccb-a6a6-7d46-c362beca4253)
-
-**Note ID:** 47717c51-1ccb-a6a6-7d46-c362beca4253
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Annelle169 Schmidt332
-**Date:** 2025-04-22T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 36 (Type: DocumentReference - ID: 47717c51-1ccb-a6a6-7d46-c362beca4253)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2025-04-22T13:54:29.438-04:00
+Provider: Dr. Annelle169 Schmidt332
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 Medical Note Date of Encounter: Patient: Adah626 Jenni670 Ward668 Date of Birth: MRN: Adah626 Jenni670 Ward668 SUBJECTIVE Chief Complaint (CC): Follow-up for recurrent headaches. History of Present Illness (HPI): The patient is a 35-year-old white female presenting for a general examination. She reports a several-week history of intermittent tension-type headaches. She describes the pain as a dull, aching, and band-like pressure around her bilateral temporal regions and occiput. The pain is rated 4/10 in severity, worsens in the afternoon after prolonged computer work, and is associated with neck and shoulder stiffness. Symptoms are partially relieved with over-the-counter acetaminophen and rest. She denies any nausea, vomiting, photophobia, phonophobia, or visual aura. She reports the headaches are becoming more frequent and impacting her work productivity. Past Medical History (PMH): Anxiety Disorder Migraine Headaches (remote history) Medications: Multivitamin, daily Acetaminophen 500mg, as needed for headache Allergies: No Known Drug Allergies (NKDA) Social History: Tobacco: Denies current or past use. Alcohol: Reports social use, 1-2 drinks per week. Substances: Denies illicit drug use. Occupation: Works as an administrative assistant. Review of Systems (ROS): Constitutional: Denies fever, chills, or recent weight changes. HEENT: Denies vision changes, dizziness, or hearing loss. Musculoskeletal: Reports chronic neck and shoulder tension. Neurological: As per HPI. Denies weakness, numbness, or tingling. Psychiatric: Reports work-related stress but feels her anxiety is generally well-managed. OBJECTIVE Vitals: Temperature: 98.6°F Heart Rate: 72 bpm Blood Pressure: 118/76 mmHg Respiratory Rate: 14 breaths/min SpO2: 99% on room air Physical Examination: General: Well-developed, well-nourished female in no acute distress. HEENT: Pupils equal, round, and reactive to light and accommodation. Extraocular movements intact. Tympanic membranes clear. Pharynx without erythema or exudate. Neck: Supple, full range of motion. Mild tenderness to palpation over bilateral trapezius muscles. Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Lungs: Clear to auscultation bilaterally, no wheezes or rales. Neurological: Cranial nerves II-XII intact. Motor strength 5/5 in all four extremities. Sensation intact to light touch. Deep tendon reflexes 2+ and symmetric. Gait normal. Procedures/Screenings Performed: Medication reconciliation performed and updated. Assessment of health and social care needs completed. Patient has stable housing and social support. Anxiety assessment (GAD-7) performed, score indicates mild anxiety. Depression screening (PHQ-9) performed, score negative for depression. Assessment of substance use and screening for drug abuse completed. Patient reports non-use. Patient referral for dental care made for routine cleaning and examination. Immunization Administered: Influenza, seasonal, injectable, preservative free, 0.5 mL, administered Left Deltoid. Patient tolerated well with no immediate adverse effects. ASSESSMENT 1. Tension-Type Headache: Symptoms consistent with episodic tension headaches, likely exacerbated by posture and occupational stress.
@@ -669,33 +525,25 @@ Medical Note Date of Encounter: Patient: Adah626 Jenni670 Ward668 Date of Birth:
 4. Preventive Health: Routine examination and immunizations are up to date. PLAN 1. Tension-Type Headache / Muscle Strain: Medication: Prescribed Ibuprofen 400 MG Oral Tablet . Instructions: Take 1 tablet by mouth every 6 to 8 hours as needed for headache or muscle pain. Take with food or milk to prevent stomach upset. Do not take more than 6 tablets (2400mg) in a 24-hour period. Discontinue use and contact the office if you experience stomach pain, black or tarry stools, or a skin rash. Do not use for more than 10 days for pain unless directed by a physician. Non-Pharmacologic: Advised on ergonomic adjustments at her workstation, taking frequent stretch breaks, and applying warm compresses to the neck and shoulders. 2. Anxiety Disorder: Continue current stress management techniques. Encouraged regular exercise and mindfulness practices. Will follow up if symptoms worsen. 3. Preventive Health: Annual influenza vaccine administered today. Dental referral provided; patient will schedule independently. Continue balanced diet and regular exercise routine. Follow-up: Return to the clinic as needed for headache management. Otherwise, follow up in 1 year for a routine annual examination. Electronically Signed by: , MD
 
 ============================================================
-
-## Note 37 (undefined - e9931663-c4be-fe0c-97b6-5a60fc1969b7)
-
-**Note ID:** e9931663-c4be-fe0c-97b6-5a60fc1969b7
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2025-04-23T20:27:55.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 37 (Type: DocumentReference - ID: e9931663-c4be-fe0c-97b6-5a60fc1969b7)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2025-04-23T20:27:55.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL NOTE PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: DATE OF ENCOUNTER: REASON FOR VISIT: Follow-up for loss of teeth and recent denture fitting. SUBJECTIVE Chief Complaint: "I'm here for a check-up after getting my new dentures." History of Present Illness: The patient is a 35-year-old white female presenting for a follow-up appointment after a recent denture fitting procedure for her partial edentulism. She reports a long-standing history of tooth loss, which she states has caused several issues prior to her prosthetic replacement. Symptoms she experienced from her tooth loss included significant difficulty with chewing, forcing her to avoid hard foods like apples and nuts. She also reported that her speech was affected, specifically with a "whistling" sound when saying certain words, and she felt self-conscious about the appearance of her smile. Since receiving the dentures, the patient reports a substantial improvement in her ability to chew softer foods. She acknowledges that they still feel "a little strange" in her mouth and that she has noticed an increase in salivation, but she was counseled this is expected during the initial adaptation period. She denies any specific areas of pain, sore spots, or ulceration on her gums from the appliance. She has been practicing inserting and removing the dentures at home and feels she is becoming more comfortable with the process. Review of Systems: HEENT: Denies headaches, jaw pain (TMJ), or persistent oral sores. GI: Denies dysphagia. Reports improved dietary intake. All other systems reviewed and are negative. OBJECTIVE Vitals: Temp: 98.6°F (37.0°C) BP: 118/76 mmHg HR: 72 bpm RR: 16 breaths/min O2 Sat: 99% on room air Physical Examination: Oral Cavity: The patient is alert, cooperative, and in no acute distress. On intraoral examination, the new partial dentures are inspected. They are seated properly and demonstrate good stability and retention. The occlusion (bite) appears appropriate with even contacts. The surrounding oral mucosa and alveolar ridges are visualized. There are no visible signs of erythema, pressure sores, or ulcerations. The patient demonstrates proper insertion and removal of the prosthesis without difficulty. ASSESSMENT 1. Partial Edentulism: Status post successful denture fitting.
 2. Adapting to New Oral Prosthesis: Patient is experiencing normal initial adaptation symptoms, including mild foreign body sensation and increased salivation.
 3. Improved Masticatory Function: Patient's primary symptoms related to tooth loss (difficulty chewing, speech issues) are being successfully addressed by the prosthesis. PLAN 1. Patient Education: Reiterated that minor irritation, increased salivation, and a foreign body sensation are common and should subside within 1-2 weeks. Instructed the patient on proper denture hygiene, including daily brushing and overnight soaking. Advised to start with a soft diet and gradually introduce tougher foods as comfort allows.
 2. Follow-Up: The patient is to return to the clinic in 1 week for a routine post-insertion check to evaluate fit, function, and to make any necessary adjustments.
-3. Contingency: Instructed the patient to call the office sooner if she develops any painful sore spots or if the denture becomes loose. Scribed by:
+3. Contingency: Instructed the patient to call the office sooner if she develops any painful sore spots or if the denture becomes loose. Scribed by: Medical Scribe
 
 ============================================================
-
-## Note 38 (undefined - 42f805b9-2e26-407a-9f3e-8db39cdb17cf)
-
-**Note ID:** 42f805b9-2e26-407a-9f3e-8db39cdb17cf
-**Patient ID:** 8ee5e016-452c-a2ab-f053-194a06deece0
-**Note Type:** DocumentReference
-**Provider:** Dr. Carson894 Krajcik437
-**Date:** 2025-05-06T13:54:29.438-04:00
-**Source:** Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
+## Note 38 (Type: DocumentReference - ID: 42f805b9-2e26-407a-9f3e-8db39cdb17cf)
+Patient ID: 8ee5e016-452c-a2ab-f053-194a06deece0
+Date: 2025-05-06T13:54:29.438-04:00
+Provider: Dr. Carson894 Krajcik437
+Source: Adah626_Jenni670_Ward668_8ee5e016-452c-a2ab-f053-194a06deece0.json
 
 **Clinical Content:**
 MEDICAL RECORD PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: DATE OF ENCOUNTER: TYPE OF ENCOUNTER: Office Visit / Dental Consultation SUBJECTIVE: Chief Complaint (CC): Follow-up for gingivitis. History of Present Illness (HPI): The patient is a 35-year-old white female presenting for evaluation and management of gingivitis. She reports a several-week history of gums that bleed easily when brushing and flossing. She describes her gums as appearing red and puffy, and she has noticed persistent bad breath (halitosis) despite brushing. The patient denies any significant tooth pain or loose teeth. She is here for a scheduled check-up and cleaning. Past Medical History: Non-contributory. Medications: None reported. Allergies: No known drug allergies (NKDA). OBJECTIVE: Vitals: Blood Pressure 120/75 mmHg, Heart Rate 72 bpm, Respiratory Rate 16/min, Temperature 98.6°F. Vitals are stable. Physical Examination: Oral Cavity: An intraoral examination was performed. The gingival tissue is generally erythematous (red) and edematous (swollen), with a loss of the typical stippled appearance. Bleeding on probing is noted throughout the mouth, particularly in the interproximal areas. Supragingival and subgingival plaque and calculus are present on multiple teeth. No evidence of periodontal pocketing greater than 3mm or significant gingival recession noted at this time. Procedures/Services Performed: 1. Dental consultation and report.
@@ -706,6 +554,3 @@ MEDICAL RECORD PATIENT: Adah626 Jenni670 Ward668 DATE OF BIRTH: DATE OF ENCOUNTE
 6. Detailed examination of gingivae and supporting structures.
 7. Professional dental fluoride treatment applied to all teeth. ASSESSMENT: 1. Chronic Gingivitis, generalized (ICD-10: K05.1)
 2. Dental Plaque Induced Gingival Disease (ICD-10: K04.61) PLAN: 1. Procedures: The patient underwent a full-mouth debridement, including scaling and root planing, to remove plaque and calculus. A professional fluoride varnish was applied post-treatment. Patient counseled on the importance of these procedures for halting disease progression. 2. Medications: Prescribed: Sodium Fluoride 0.0272 MG/MG Oral Gel. Instructions: Use a pea-sized amount of the gel once daily, preferably at bedtime after your usual brushing and flossing routine. Apply the gel to a clean toothbrush and brush thoroughly onto all tooth surfaces for one minute. Spit out the excess gel. Do not swallow. For the best results, do not eat, drink, or rinse for at least 30 minutes after use. 3. Patient Education: The patient received extensive oral health education, including: Demonstration and reinforcement of proper brushing technique (modified Bass technique) to clean the gumline effectively. Instruction on correct flossing to remove plaque from between the teeth and under the gumline. Counseling on the role of diet in oral health, with advice to limit sugary snacks and beverages. 4. Follow-up: The patient is scheduled to return in 3 months for a re-evaluation of her gingival health. If significant improvement is noted, we will transition to a standard 6-month recall schedule for preventative care. The patient was advised to call the office sooner if any symptoms worsen or if she has questions. Scribe:
-
-============================================================
-

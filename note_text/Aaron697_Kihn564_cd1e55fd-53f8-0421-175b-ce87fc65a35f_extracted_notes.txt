@@ -1,13 +1,9 @@
-# Clinical Notes from Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
-
-## Note 1 (undefined - 7fdfa458-fe1b-5cc8-83dd-93f26ef05e1e)
-
-**Note ID:** 7fdfa458-fe1b-5cc8-83dd-93f26ef05e1e
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 1992-11-22T10:20:24.984-05:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+============================================================
+## Note 1 (Type: DocumentReference - ID: 7fdfa458-fe1b-5cc8-83dd-93f26ef05e1e)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 1992-11-22T10:20:24.984-05:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -34,15 +30,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 4. Schedule follow-up appointment in or sooner if symptoms change. Provider Signature: Note: The specific symptoms and potential causes should be tailored to the patient's actual presentation and history. This template can be adjusted to fit the details of the patient's condition and the provider's clinical judgment.
 
 ============================================================
-
-## Note 2 (undefined - 16bcacc9-d75f-7b78-b6e7-6d499542a992)
-
-**Note ID:** 16bcacc9-d75f-7b78-b6e7-6d499542a992
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 1995-11-26T10:20:24.984-05:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 2 (Type: DocumentReference - ID: 16bcacc9-d75f-7b78-b6e7-6d499542a992)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 1995-11-26T10:20:24.984-05:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Patient Encounter Note Date of Service: Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -51,15 +43,11 @@ Patient Encounter Note Date of Service: Patient Information: - Name: Aaron697 De
 - Race: White Chief Complaint: General examination of patient for . History of Present Illness: Mr. Kihn presents today for a general examination. He reports . The onset of these symptoms began . He describes the symptoms as . The symptoms are and are associated with . He denies any recent illnesses, injuries, or changes in medication. Review of Systems: - General: - Cardiovascular: - Respiratory: - Gastrointestinal: - Neurological: - Musculoskeletal: - Psychiatric: - Endocrine: - Genitourinary: - Dermatological: - Hematologic/Lymphatic: - Allergic/Immunologic: Past Medical History: - - Medications: - Family History: - Social History: - Occupation: - Tobacco Use: - Alcohol Use: - Drug Use: - Exercise: Physical Examination: - Vital Signs: BP , HR , RR , Temp , Height , Weight - General Appearance: - HEENT: - Cardiovascular: - Respiratory: - Gastrointestinal: - Neurological: - Musculoskeletal: - Skin: - Lymphatic: Assessment: 1. 2. Plan: - Laboratory Testing: - Imaging: - Referrals: - Medications: - Lifestyle Modifications: - Follow-Up: Signature: Additional Notes: - Patient educated on - Patient questions addressed and understands the plan Note: The above template is a general outline and should be customized based on the specific details of the patient's encounter, symptoms, and clinical findings.
 
 ============================================================
-
-## Note 3 (undefined - 929ef2cb-5229-afb7-5f57-5d4bfd2baeaf)
-
-**Note ID:** 929ef2cb-5229-afb7-5f57-5d4bfd2baeaf
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 1995-12-03T10:20:24.984-05:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 3 (Type: DocumentReference - ID: 929ef2cb-5229-afb7-5f57-5d4bfd2baeaf)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 1995-12-03T10:20:24.984-05:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -82,15 +70,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Emphasized the need for follow-up to ensure adequate response to treatment and to adjust therapy as necessary.
 
 ============================================================
-
-## Note 4 (undefined - 758eb31e-d9ba-a71e-6d5b-6b895a65a91d)
-
-**Note ID:** 758eb31e-d9ba-a71e-6d5b-6b895a65a91d
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2002-03-13T10:20:24.984-05:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 4 (Type: DocumentReference - ID: 758eb31e-d9ba-a71e-6d5b-6b895a65a91d)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2002-03-13T10:20:24.984-05:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Patient Encounter Note Patient Information: - Patient Name: Aaron697 Dewey930 Kihn564
@@ -121,15 +105,11 @@ Patient Encounter Note Patient Information: - Patient Name: Aaron697 Dewey930 Ki
 - Lungs: Clear to auscultation bilaterally Assessment: - Acute Bacterial Sinusitis Plan: 1. Prescriptions: - Amoxicillin-clavulanate 875 mg/125 mg PO BID for 10 days - Intranasal saline irrigation BID - Acetaminophen 650 mg PO Q4-6H PRN for pain/fever 2. Recommendations: - Adequate hydration - Rest - Use of a humidifier at home - Avoidance of known allergens and irritants 3. Follow-Up: - Schedule follow-up appointment in 1 week or sooner if symptoms worsen or do not improve - Instructions to return immediately if experiencing severe headache, vision changes, or signs of systemic infection 4. Patient Education: - Discussed the importance of completing the full course of antibiotics - Advised on potential side effects of medication and when to seek further medical attention Signature: Dictated By: Note: This document is a simulated medical note for educational purposes. Always ensure accurate and detailed documentation in real clinical settings.
 
 ============================================================
-
-## Note 5 (undefined - ed8c5d1e-9fb5-17c7-2d6b-56b5ad052d28)
-
-**Note ID:** ed8c5d1e-9fb5-17c7-2d6b-56b5ad052d28
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2011-10-02T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 5 (Type: DocumentReference - ID: ed8c5d1e-9fb5-17c7-2d6b-56b5ad052d28)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2011-10-02T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Patient Name: Aaron697 Dewey930 Kihn564
@@ -173,15 +153,11 @@ Medical Encounter Note Patient Information: - Patient Name: Aaron697 Dewey930 Ki
 - Return to clinic if any new or worsening symptoms develop Provider: Dictated By: Electronic Signature: Note: The symptoms mentioned (mild fatigue and intermittent headaches) are non-specific and could be caused by a variety of factors, including stress, sleep deprivation, dehydration, or more serious conditions if persistent or worsening. The plan includes monitoring and lifestyle modifications, with a provision for further evaluation if needed.
 
 ============================================================
-
-## Note 6 (undefined - 07486b71-282c-109f-f6c5-36f7d036c0be)
-
-**Note ID:** 07486b71-282c-109f-f6c5-36f7d036c0be
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2014-02-04T10:20:24.984-05:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 6 (Type: DocumentReference - ID: 07486b71-282c-109f-f6c5-36f7d036c0be)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2014-02-04T10:20:24.984-05:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -206,15 +182,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 5. Follow-Up: Schedule a follow-up appointment in to reassess pain levels and treatment efficacy. Provider's Signature: Date: Note: This template should be customized based on the specific details of the patient's condition and the provider's clinical judgment.
 
 ============================================================
-
-## Note 7 (undefined - 68a56a8f-c48e-a901-e570-f137cf3ec8f0)
-
-**Note ID:** 68a56a8f-c48e-a901-e570-f137cf3ec8f0
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2015-10-11T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 7 (Type: DocumentReference - ID: 68a56a8f-c48e-a901-e570-f137cf3ec8f0)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2015-10-11T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -251,21 +223,17 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Emphasize the importance of follow-up and completing the recommended tests. Signature: Note: This medical note is a template and should be adjusted based on the actual clinical findings and the physician's specific instructions. The differential diagnoses and plan are based on the symptoms provided and may change with further evaluation.
 
 ============================================================
-
-## Note 8 (undefined - 6bb88b9f-e2f3-7a5f-c1bc-898f7c644f60)
-
-**Note ID:** 6bb88b9f-e2f3-7a5f-c1bc-898f7c644f60
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2017-09-17T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 8 (Type: DocumentReference - ID: 6bb88b9f-e2f3-7a5f-c1bc-898f7c644f60)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2017-09-17T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Age: 50 years
 - Gender: Male
-- Race: White Date of Encounter: Chief Complaint: General examination History of Present Illness: Patient presents for a routine general examination. No specific complaints reported at this time. Medication Reconciliation: - Medication list reviewed and updated.
+- Race: White Date of Encounter: Chief Complaint: General examination History of Present Illness: Patient presents for a routine general examination. Medication Reconciliation: - Medication list reviewed and updated.
 - No new medications prescribed during this visit. Assessments and Screenings: 1. Health and Social Care Needs Assessment: - Comprehensive assessment conducted. - No immediate unmet needs identified. 2. Anxiety Assessment: - Patient denies symptoms of anxiety. - No significant findings. 3. Screening for Domestic Abuse: - Patient screened using standard questionnaire. - No indicators of domestic abuse reported. 4. Depression Screening: - Conducted three times using the Patient Health Questionnaire-9 (PHQ-9). - Scores within normal range, indicating no significant depressive symptoms. 5. Substance Use Assessment: - Patient denies current or past substance use. - No signs of substance abuse detected. 6. Screening for Drug Abuse: - Negative screening for drug abuse. Procedures Performed: - Patient referred for dental care procedures. Immunizations Administered: - Zoster vaccine, live
 - Influenza, seasonal, injectable, preservative-free Symptoms to Monitor: - Zoster Vaccine: Potential side effects may include redness, soreness, or swelling at the injection site, headache, or fatigue. Monitor for signs of shingles or allergic reaction.
 - Influenza Vaccine: Possible side effects may include soreness at the injection site, low-grade fever, or mild body aches. Monitor for signs of severe allergic reaction. Plan: 1. Continue routine monitoring of overall health.
@@ -274,15 +242,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Encouraged to maintain a healthy lifestyle and report any new or concerning symptoms promptly. Dictated By: Reviewed By: Date of Documentation:
 
 ============================================================
-
-## Note 9 (undefined - cda4b4ca-2477-a06a-c563-1a8d787cf87a)
-
-**Note ID:** cda4b4ca-2477-a06a-c563-1a8d787cf87a
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2017-09-24T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 9 (Type: DocumentReference - ID: cda4b4ca-2477-a06a-c563-1a8d787cf87a)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2017-09-24T11:20:24.984-04:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -313,18 +277,14 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Abdominal pain or cramping
 - Unexplained weight loss
 - Fatigue or weakness Patient Instructions: - If any of the above symptoms occur, contact the office for further evaluation.
-- Maintain a healthy lifestyle with a balanced diet and regular exercise. Provider: Dictated By: , Electronic Signature: Note: This medical note is a template and should be customized based on the actual findings and specific details of the patient's encounter.
+- Maintain a healthy lifestyle with a balanced diet and regular exercise. Provider: Dictated By: , Medical Scribe Electronic Signature: Note: This medical note is a template and should be customized based on the actual findings and specific details of the patient's encounter.
 
 ============================================================
-
-## Note 10 (undefined - 2d686144-5ca3-d35f-2b57-fab531a52963)
-
-**Note ID:** 2d686144-5ca3-d35f-2b57-fab531a52963
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2017-10-01T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 10 (Type: DocumentReference - ID: 2d686144-5ca3-d35f-2b57-fab531a52963)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2017-10-01T11:20:24.984-04:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -341,15 +301,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Instructed to report any new or worsening symptoms promptly. Provider: - , DDS Signature: - Date: - Note: This medical note is intended to document the patient's dental encounter comprehensively, ensuring all procedures and findings are accurately recorded for continuity of care.
 
 ============================================================
-
-## Note 11 (undefined - b2d57ef3-da97-7913-713b-4247dfef890b)
-
-**Note ID:** b2d57ef3-da97-7913-713b-4247dfef890b
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2018-09-23T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 11 (Type: DocumentReference - ID: b2d57ef3-da97-7913-713b-4247dfef890b)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2018-09-23T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -369,15 +325,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Preventive measures, including immunizations, were appropriately administered. Signature: Note: This medical note is a summary of the patient's encounter and should be reviewed in conjunction with the patient's complete medical record for a comprehensive understanding of his health status.
 
 ============================================================
-
-## Note 12 (undefined - db39a811-51aa-d24e-0954-483c122a9032)
-
-**Note ID:** db39a811-51aa-d24e-0954-483c122a9032
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2019-09-29T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 12 (Type: DocumentReference - ID: db39a811-51aa-d24e-0954-483c122a9032)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2019-09-29T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -394,15 +346,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Provided information on healthy lifestyle choices, including diet, exercise, and alcohol moderation. Plan for Follow-Up: - Schedule a follow-up appointment in 6 months or sooner if any new concerns arise. Provider's Signature: Date: Note: This medical note is a summary of the patient's encounter and should be reviewed in conjunction with the patient's complete medical record for a comprehensive understanding of their health status.
 
 ============================================================
-
-## Note 13 (undefined - a077a0ad-1f64-addf-f47c-f8bd172313a2)
-
-**Note ID:** a077a0ad-1f64-addf-f47c-f8bd172313a2
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2019-10-13T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 13 (Type: DocumentReference - ID: a077a0ad-1f64-addf-f47c-f8bd172313a2)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2019-10-13T11:20:24.984-04:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -423,18 +371,14 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Any unusual reactions or side effects Patient Education: The patient was educated on the importance of maintaining good oral hygiene, including regular brushing, flossing, and routine dental check-ups. The benefits of fluoride treatment in preventing tooth decay were also discussed. Plan: - Follow-up dental appointment scheduled in 6 months.
 - Continue with prescribed fluoride gel and monitor for any adverse symptoms.
 - Encourage ongoing oral health practices. Provider Signature: Additional Notes: - Patient demonstrated understanding of instructions and expressed no concerns.
-- No additional medications or treatments were prescribed at this time. Dictated By: , Reviewed By: Date of Documentation: Note: This document is a template and should be customized to fit the specific details and context of the patient's encounter. Always ensure accuracy and completeness in medical documentation.
+- No additional medications or treatments were prescribed at this time. Dictated By: , Medical Scribe Reviewed By: Date of Documentation: Note: This document is a template and should be customized to fit the specific details and context of the patient's encounter. Always ensure accuracy and completeness in medical documentation.
 
 ============================================================
-
-## Note 14 (undefined - bccfa23b-d071-6969-e790-21f9c39f8409)
-
-**Note ID:** bccfa23b-d071-6969-e790-21f9c39f8409
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2020-07-05T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 14 (Type: DocumentReference - ID: bccfa23b-d071-6969-e790-21f9c39f8409)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2020-07-05T11:20:24.984-04:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -453,15 +397,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Emphasized the importance of follow-up appointments for ongoing care. Note: This medical note is a template and should be customized with specific details relevant to the patient's encounter, including vital signs, specific findings from the physical examination, and any additional relevant information.
 
 ============================================================
-
-## Note 15 (undefined - d0c6f0b9-f99a-50f1-c3f5-0b5a245ad0af)
-
-**Note ID:** d0c6f0b9-f99a-50f1-c3f5-0b5a245ad0af
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2020-07-12T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 15 (Type: DocumentReference - ID: d0c6f0b9-f99a-50f1-c3f5-0b5a245ad0af)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2020-07-12T11:20:24.984-04:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -495,15 +435,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Facial: Tenderness to palpation over maxillary and frontal sinuses Assessment: - Acute Bacterial Sinusitis Plan: 1. Pharmacotherapy: - Prescribe Amoxicillin-clavulanate 875 mg/125 mg orally twice daily for 10 days (due to penicillin allergy, consider alternative such as doxycycline or a respiratory fluoroquinolone if severe allergy) - Recommend saline nasal irrigation to help clear nasal passages - Advise use of acetaminophen or ibuprofen for pain and fever management 2. Lifestyle Modifications: - Encourage adequate hydration - Recommend use of a humidifier to maintain moisture in the nasal passages - Avoid known allergens and irritants 3. Follow-Up: - Schedule follow-up appointment in 1 week to assess response to treatment - Instruct patient to return sooner if symptoms worsen or if new symptoms develop 4. Patient Education: - Educate on signs of complications (e.g., severe headache, vision changes, persistent fever) that would warrant immediate medical attention Signature: Note: This medical note is a template and should be adjusted based on the actual clinical findings and physician's recommendations. Always ensure accurate and comprehensive documentation of the patient's condition and treatment plan.
 
 ============================================================
-
-## Note 16 (undefined - 1e4ef611-53cc-60a2-c659-a63143492c28)
-
-**Note ID:** 1e4ef611-53cc-60a2-c659-a63143492c28
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2020-08-15T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 16 (Type: DocumentReference - ID: 1e4ef611-53cc-60a2-c659-a63143492c28)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2020-08-15T11:20:24.984-04:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -528,15 +464,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Patient expressed understanding of the treatment plan and agreed to follow-up as advised.
 
 ============================================================
-
-## Note 17 (undefined - 87891aa8-5f9c-c7f8-d79e-7ae83e965f05)
-
-**Note ID:** 87891aa8-5f9c-c7f8-d79e-7ae83e965f05
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2020-10-04T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 17 (Type: DocumentReference - ID: 87891aa8-5f9c-c7f8-d79e-7ae83e965f05)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2020-10-04T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -557,15 +489,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - He was encouraged to engage in self-care activities and maintain a healthy lifestyle. Provider Signature: Date: Dictated By: Reviewed By: Note: This template should be customized with specific details relevant to the patient's encounter, including lab results, specific scores from screening tools, and any other pertinent information. Always ensure accuracy and completeness in documenting the patient's medical history and examination findings.
 
 ============================================================
-
-## Note 18 (undefined - e86c05bc-e4e1-aa5e-1686-a5e7a5616842)
-
-**Note ID:** e86c05bc-e4e1-aa5e-1686-a5e7a5616842
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Juan88 Friesen796
-**Date:** 2021-02-11T11:04:16.984-05:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 18 (Type: DocumentReference - ID: e86c05bc-e4e1-aa5e-1686-a5e7a5616842)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2021-02-11T11:04:16.984-05:00
+Provider: Dr. Juan88 Friesen796
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Patient Encounter Note Date/Time: Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -597,15 +525,11 @@ Patient Encounter Note Date/Time: Patient Information: - Name: Aaron697 Dewey930
 5. Discharge Instructions: If stable for discharge, provide detailed instructions on monitoring for signs of worsening condition, such as increased headache severity, persistent vomiting, altered mental status, or focal neurological deficits. Advise follow-up with primary care provider and neurology within 24-48 hours. Signature: Date/Time:
 
 ============================================================
-
-## Note 19 (undefined - 8ccdbc1f-e2a6-8dd0-e2d1-ba0f7c1762d1)
-
-**Note ID:** 8ccdbc1f-e2a6-8dd0-e2d1-ba0f7c1762d1
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2021-05-02T12:04:16.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 19 (Type: DocumentReference - ID: 8ccdbc1f-e2a6-8dd0-e2d1-ba0f7c1762d1)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2021-05-02T12:04:16.984-04:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -634,15 +558,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Follow up as scheduled or sooner if symptoms worsen. Provider Signature: Date: Note: This template should be adapted to fit the specific details and context of the patient's condition and the provider's practice. Always ensure accurate and comprehensive documentation.
 
 ============================================================
-
-## Note 20 (undefined - b4d560e0-d794-a09b-733b-2434dcecb093)
-
-**Note ID:** b4d560e0-d794-a09b-733b-2434dcecb093
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2021-10-10T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 20 (Type: DocumentReference - ID: b4d560e0-d794-a09b-733b-2434dcecb093)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2021-10-10T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -672,18 +592,14 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 5. Schedule follow-up appointment in 3 months. Symptoms to Monitor: - Increased anxiety or depressive symptoms, including persistent sadness, loss of interest in activities, significant changes in appetite or sleep patterns, or any thoughts of self-harm.
 - Any new or worsening physical symptoms that may indicate underlying health issues. Patient Education: - Discussed the importance of mental health and the benefits of seeking professional help.
 - Provided information on lifestyle modifications to improve overall well-being.
-- Advised on potential side effects of the influenza vaccine, such as soreness at the injection site, low-grade fever, or mild body aches. Signature: Dictated By: ,
+- Advised on potential side effects of the influenza vaccine, such as soreness at the injection site, low-grade fever, or mild body aches. Signature: Dictated By: , Medical Scribe
 
 ============================================================
-
-## Note 21 (undefined - 7ef0655b-73af-c9cb-375a-e60675aec198)
-
-**Note ID:** 7ef0655b-73af-c9cb-375a-e60675aec198
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2022-09-24T11:54:01.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 21 (Type: DocumentReference - ID: 7ef0655b-73af-c9cb-375a-e60675aec198)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2022-09-24T11:54:01.984-04:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -714,18 +630,14 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Unexplained weight loss
 - Fatigue or anemia Patient Instructions: - If any of the above symptoms develop, contact the office for further evaluation.
 - Continue with routine health screenings as recommended. Follow-Up: - Return for annual physical examination.
-- Schedule next colonoscopy in 10 years. Provider: Dictated By: , Electronic Signature: Note: This medical note is a template and should be adjusted based on the specific details of the patient's encounter and the provider's findings.
+- Schedule next colonoscopy in 10 years. Provider: Dictated By: , Medical Scribe Electronic Signature: Note: This medical note is a template and should be adjusted based on the specific details of the patient's encounter and the provider's findings.
 
 ============================================================
-
-## Note 22 (undefined - 9453b7b5-fbcb-8f7d-fed4-62b7fac35c35)
-
-**Note ID:** 9453b7b5-fbcb-8f7d-fed4-62b7fac35c35
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2022-10-16T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 22 (Type: DocumentReference - ID: 9453b7b5-fbcb-8f7d-fed4-62b7fac35c35)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2022-10-16T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -759,15 +671,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Any new or worsening symptoms. Provider's Signature: MD/DO Date:
 
 ============================================================
-
-## Note 23 (undefined - 2c045298-4bc8-623b-d40f-02b83b452dc1)
-
-**Note ID:** 2c045298-4bc8-623b-d40f-02b83b452dc1
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2023-10-22T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 23 (Type: DocumentReference - ID: 2c045298-4bc8-623b-d40f-02b83b452dc1)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2023-10-22T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Patient Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -789,15 +697,11 @@ Patient Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - No acute concerns identified during today's visit. Note: This template should be adapted to include any specific details relevant to the patient's medical history, current medications, and any additional findings or recommendations made during the encounter.
 
 ============================================================
-
-## Note 24 (undefined - 52592e37-3ab0-d68b-fc5b-da3f368f096c)
-
-**Note ID:** 52592e37-3ab0-d68b-fc5b-da3f368f096c
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2023-11-05T10:20:24.984-05:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 24 (Type: DocumentReference - ID: 52592e37-3ab0-d68b-fc5b-da3f368f096c)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2023-11-05T10:20:24.984-05:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -819,15 +723,11 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Avoid smoking and maintain a healthy diet. Signature: Provider: Note: This medical note is a template and should be customized based on the specific details of the patient's encounter and the provider's preferences. Always ensure accuracy and completeness in documenting medical information.
 
 ============================================================
-
-## Note 25 (undefined - a5a91c90-26ae-bb91-e5fe-9d8fa29517c6)
-
-**Note ID:** a5a91c90-26ae-bb91-e5fe-9d8fa29517c6
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Brendan864 Hintz995
-**Date:** 2024-10-27T11:20:24.984-04:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 25 (Type: DocumentReference - ID: a5a91c90-26ae-bb91-e5fe-9d8fa29517c6)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2024-10-27T11:20:24.984-04:00
+Provider: Dr. Brendan864 Hintz995
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
@@ -847,21 +747,17 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Emphasized the need for timely dental care. Next Appointment: - Scheduled for a follow-up visit in 6 months or sooner if any concerns arise. Provider's Signature: Date: Note: This medical note is a summary of the patient's encounter and should be reviewed in conjunction with the patient's complete medical record for a comprehensive understanding of his health status.
 
 ============================================================
-
-## Note 26 (undefined - 4c89d024-936b-f353-4c05-b680c8ac48d4)
-
-**Note ID:** 4c89d024-936b-f353-4c05-b680c8ac48d4
-**Patient ID:** cd1e55fd-53f8-0421-175b-ce87fc65a35f
-**Note Type:** DocumentReference
-**Provider:** Dr. Marcus77 Schamberger479
-**Date:** 2024-11-10T10:20:24.984-05:00
-**Source:** Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
+## Note 26 (Type: DocumentReference - ID: 4c89d024-936b-f353-4c05-b680c8ac48d4)
+Patient ID: cd1e55fd-53f8-0421-175b-ce87fc65a35f
+Date: 2024-11-10T10:20:24.984-05:00
+Provider: Dr. Marcus77 Schamberger479
+Source: Aaron697_Kihn564_cd1e55fd-53f8-0421-175b-ce87fc65a35f.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Age: 57 years
 - Gender: Male
-- Race: White Date of Encounter: Chief Complaint: Patient referred for dental care and routine check-up. History of Present Illness: Patient presents for a dental consultation as part of a routine check-up. No specific complaints reported at this time. However, patient may experience symptoms such as gingival pain, bleeding gums, tooth sensitivity, or bad breath, which could be related to underlying dental issues. Physical Examination: - Oral Examination: - Gingivae: Examined and found to be . - Teeth: Presence of supragingival and subgingival plaque and calculus noted. Procedures Performed: 1. Dental consultation and report.
+- Race: White Date of Encounter: Chief Complaint: Patient referred for dental care and routine check-up. History of Present Illness: Patient presents for a dental consultation as part of a routine check-up. However, patient may experience symptoms such as gingival pain, bleeding gums, tooth sensitivity, or bad breath, which could be related to underlying dental issues. Physical Examination: - Oral Examination: - Gingivae: Examined and found to be . - Teeth: Presence of supragingival and subgingival plaque and calculus noted. Procedures Performed: 1. Dental consultation and report.
 2. Dental care regime/therapy.
 3. Removal of supragingival plaque and calculus from all teeth using dental instruments.
 4. Removal of subgingival plaque and calculus from all teeth using dental instruments.
@@ -877,6 +773,3 @@ Medical Encounter Note Patient Information: - Name: Aaron697 Dewey930 Kihn564
 - Provided information on proper brushing and flossing techniques. Plan: - Follow-up dental appointment scheduled in 6 months.
 - Continue with prescribed fluoride treatment and oral hygiene practices.
 - Monitor for any adverse reactions to the fluoride gel and report to the dentist if any occur. Signature: Dentist's Signature: Note: This medical note is a template and should be adjusted based on the specific findings and instructions provided by the treating dentist. Always ensure accuracy and completeness in documenting patient encounters.
-
-============================================================
-

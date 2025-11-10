@@ -1,24 +1,20 @@
 #!/usr/bin/env node
 
 /**
- * FHIR Clinical Note Ingestion Pipeline - Final Version
+ * FHIR Clinical Note Ingestion Pipeline (Robust Cleaning)
  *
  * This script processes FHIR JSON files, extracts and cleans clinical text,
  * chunks the text, generates embeddings, and inserts the data directly
  * into a Supabase database for a RAG system.
- *
- * ✅ FIXED: Non-breaking spaces removed
- * ✅ FIXED: Aggressive template filtering corrected
- * ✅ IMPROVED: Added Observation resource extraction
- * ✅ IMPROVED: Robust HTML parsing with Cheerio
  */
 
 const fs = require('fs').promises; // Use async fs
 const path = require('path');
 const { createClient } = require('@supabase/supabase-js');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
-const { load } = require('cheerio');
+const { load } = require('cheerio'); // ⭐️ ADDED: For robust HTML stripping
 require('dotenv').config({ path: '.env.local' });
+
 
 // --- Configuration ---
 const FHIR_DATA_DIR = path.join(__dirname, '../fhir-data');
@@ -38,8 +34,8 @@ const CHUNK_OVERLAP = 200; // in characters
 // --- Helper Functions ---
 
 /**
- * ⭐️ UPDATED: Validates and cleans extracted text.
- * Removes templates, HTML, markdown, and empty fields.
+ * ⭐️ UPDATED ROBUST FUNCTION: Validates and cleans extracted text.
+ * Removes templates, AI preambles, HTML, markdown, and empty fields.
  */
 function cleanAndValidateText(text) {
   if (!text || text.trim().length < 20) {
@@ -47,23 +43,35 @@ function cleanAndValidateText(text) {
   }
 
   // 1. Use Cheerio to parse HTML and get only the text
-  // This will strip all <div>, <p>, <b>, etc.
   const $ = load(text);
   let cleanText = $('body').text();
 
   // 2. Check for *pure* template markers (to discard the whole note)
   const templateMarkers = [
     "[list any specific symptoms",
-    "This medical note is a template"
+    "Please provide details about:", // Catches notes that are just AI questions
+    "Okay, here is a medical note template for a patient", // Catches pure template notes
+    "The patient presents today for an encounter related to a problem for" // Catches pure AI-generated notes
   ];
-
-  // If the note is just a template warning, discard it
-  if (cleanText.includes(templateMarkers[0]) ||
-     (cleanText.includes(templateMarkers[1]) && cleanText.length < 200)) {
+  
+  // Discard the entire note if it's clearly just a template
+  if (templateMarkers.some(marker => cleanText.includes(marker))) {
     return null;
   }
-
-  // 3. Clean Template Artifacts
+  
+  // 3. Clean Template Artifacts (Aggressive Regex)
+  
+  // Removes AI preambles
+  cleanText = cleanText.replace(/^(Okay, here is|Certainly![\s\S]*?Below is) a medical note[\s\S]*/gim, ' ');
+  
+  // Removes AI commentary
+  cleanText = cleanText.replace(/This is unusual phrasing,[\s\S]*/gi, ' ');
+  cleanText = cleanText.replace(/Regarding Symptoms Caused by[\s\S]*/gi, ' ');
+  cleanText = cleanText.replace(/\(Note: Specific symptom details are pending[\s\S]*?\)/gi, ' '); // Catches "(Note: ...)"
+  
+  // Removes Disclaimers
+  cleanText = cleanText.replace(/Disclaimer: This note is a template[\s\S]*/gi, ' ');
+  cleanText = cleanText.replace(/Disclaimer: This medical note is for informational purposes[\s\S]*/gi, ' ');
 
   // Removes bracketed placeholders like [Insert Date] or [Your Name]
   cleanText = cleanText.replace(/\[[^\]]+\]/g, ' ');
@@ -71,23 +79,37 @@ function cleanAndValidateText(text) {
   // Removes instructional text like (If known...)
   cleanText = cleanText.replace(/\(If known, e\.g\., "[^"]+"\)/g, ' ');
   cleanText = cleanText.replace(/\(Document any relevant history, e\.g\., [^)]+\)/g, ' ');
-
+  cleanText = cleanText.replace(/\(Example: [^)]+\)/gi, ' '); // Catches (Example: ...)
+  
   // Removes the "Note: This medical note is a template..." footer
-  cleanText = cleanText.replace(/Note: This medical note is a template[\s\S]*/g, ' ');
+  cleanText = cleanText.replace(/Note: This medical note is a template and should be adjusted[\s\S]*/g, ' ');
+  
+  // Removes markdown artifacts
+  cleanText = cleanText.replace(/(\*\*|__|\*|_|---|===|###)/g, ' ');
 
-  // Remove markdown-like artifacts
-  cleanText = cleanText.replace(/(\*\*|__|\*|_|---|===)/g, ' ');
-
-  // Remove "empty fields" (e.g., "Reports .", "Symptoms began .")
-  cleanText = cleanText.replace(/([A-Z][a-z\s]+):\s*\./g, ' ');
-
-  // Additional cleaning for common template remnants
-  cleanText = cleanText.replace(/Medical Scribe/g, '');
-  cleanText = cleanText.replace(/\*\*\*Provider Signature:\*\*[\s\S]*/g, '');
-  cleanText = cleanText.replace(/\*\*\*Signature:\*\*[\s\S]*/g, '');
-  cleanText = cleanText.replace(/Reports \./g, 'Reports none');
-  cleanText = cleanText.replace(/Symptoms began \./g, 'Symptom onset not specified');
-  cleanText = cleanText.replace(/Duration of Symptoms: \./g, 'Duration not specified');
+  // Removes specific "empty" template fields from your files
+  cleanText = cleanText.replace(/([A-Z][\w\s\(\)]+):\s*\./gim, ' '); // Catches "Constitutional: ."
+  cleanText = cleanText.replace(/([A-Z][\w\s\(\)]+):\s*Vital Signs: \./gim, ' '); // Catches "Vital Signs: ."
+  
+  // This targets specific junk phrases seen in your files
+  cleanText = cleanText.replace(/Reason for Visit: General examination of patient for \./gim, ' ');
+  cleanText = cleanText.replace(/Chief Complaint: General examination for \./gim, ' ');
+  cleanText = cleanText.replace(/Reason for Encounter: General examination of patient for \./gim, ' ');
+  cleanText = cleanText.replace(/He reports , which may be caused by \./gim, ' ');
+  cleanText = cleanText.replace(/Symptoms reported \(if any\) may be related to \./gim, ' ');
+  cleanText = cleanText.replace(/Plan: - Advised on \./gim, ' ');
+  cleanText = cleanText.replace(/The patient reports \./gim, ' ');
+  cleanText = cleanText.replace(/Patient reports: \./gim, ' ');
+  cleanText = cleanText.replace(/The patient reports experiencing for \./gim, ' ');
+  
+  // Removes generic "no symptoms" text that adds no value
+  cleanText = cleanText.replace(/The patient reports no specific complaints at this time\./gim, ' ');
+  cleanText = cleanText.replace(/No specific complaints reported at this time\./gim, ' ');
+  cleanText = cleanText.replace(/No specific acute complaints reported at this time\./gim, ' ');
+  cleanText = cleanText.replace(/No acute complaints were reported\./gim, ' ');
+  cleanText = cleanText.replace(/No acute symptoms were reported\./gim, ' ');
+  cleanText = cleanText.replace(/No new symptoms or concerns\./gim, ' ');
+  cleanText = cleanText.replace(/He denies any acute distress or significant changes in health status\./gim, ' ');
 
   // 4. Normalize whitespace (run this *last*)
   cleanText = cleanText.replace(/\s\s+/g, ' ').trim();
@@ -140,8 +162,8 @@ async function getEmbedding(text) {
 }
 
 /**
- * ⭐️ IMPROVED: Extracts text from FHIR and returns structured data.
- * Now includes Observation resources.
+ * ⭐️ UPDATED: Extracts text from FHIR and returns structured data.
+ * Now includes 'Observation' resources.
  */
 function extractNotesDataFromFHIR(bundle, fileName) {
   const notesData = [];
@@ -151,7 +173,7 @@ function extractNotesDataFromFHIR(bundle, fileName) {
   const patientResource = bundle.entry.find(
     e => e.resource.resourceType === 'Patient'
   )?.resource;
-
+  
   if (!patientResource) return notesData; // No patient, can't process
   const patientId = patientResource.id;
 
@@ -161,10 +183,10 @@ function extractNotesDataFromFHIR(bundle, fileName) {
     try {
       let text = null;
       let noteMetadata = {
-        note_id: resource.id,
+        note_id: resource.id || 'unknown-id',
         patient_id: patientId,
         source_file: fileName,
-        note_date: null,
+        note_date: 'unknown-date',
         note_type: 'Unknown',
         provider: 'Unknown'
       };
@@ -174,16 +196,14 @@ function extractNotesDataFromFHIR(bundle, fileName) {
         noteMetadata.note_date = resource.date;
         noteMetadata.note_type = resource.type?.text || 'DocumentReference';
         noteMetadata.provider = resource.author?.[0]?.display || 'Unknown';
-
+        
         const attachment = resource.content?.[0]?.attachment;
-        if (attachment?.contentType === 'text/plain' && attachment?.data) {
+        if (attachment?.data) {
           // Decode Base64 text
-          text = Buffer.from(attachment.data, 'base64').toString('utf-8');
-        } else if (attachment?.contentType.includes('html') && attachment?.data) {
           text = Buffer.from(attachment.data, 'base64').toString('utf-8');
         }
       }
-
+      
       // 2. Extract from DiagnosticReport
       else if (resource.resourceType === 'DiagnosticReport') {
         noteMetadata.note_date = resource.effectiveDateTime || resource.issued;
@@ -195,18 +215,17 @@ function extractNotesDataFromFHIR(bundle, fileName) {
         }
       }
 
-      // 3. ⭐️ NEW: Extract from Observation resources
+      // 3. Extract from Observation
       else if (resource.resourceType === 'Observation') {
         if (resource.note && resource.note.length > 0) {
-          // Observations can have multiple notes, join them
           text = resource.note.map(n => n.text).join('\n');
-
+          
           noteMetadata.note_date = resource.effectiveDateTime || resource.issued;
           noteMetadata.note_type = resource.code?.text || 'Observation Note';
           noteMetadata.provider = resource.performer?.[0]?.display || 'Unknown';
         }
       }
-
+      
       // 4. Clean and Validate
       const cleanText = cleanAndValidateText(text);
 
@@ -242,7 +261,7 @@ async function processFHIRFile(filePath) {
       console.log(`  - No valid, non-template notes found.`);
       return { fileName, chunksInserted: 0 };
     }
-
+    
     console.log(`  - Extracted ${notesToProcess.length} valid notes.`);
 
     let totalChunksInserted = 0;
@@ -254,7 +273,7 @@ async function processFHIRFile(filePath) {
 
       for (let i = 0; i < chunks.length; i++) {
         const chunkContent = chunks[i];
-
+        
         // 3. Get embedding
         const embedding = await getEmbedding(chunkContent);
         if (!embedding) continue; // Skip if embedding failed
@@ -273,15 +292,12 @@ async function processFHIRFile(filePath) {
           }
         });
       }
-
+      
       // 4. Batch insert chunks into Supabase
       if (insertions.length > 0) {
         const { error } = await supabase
           .from('clinical_notes_embeddings')
-          .upsert(insertions, {
-            onConflict: 'note_id,chunk_index',
-            ignoreDuplicates: false
-          });
+          .insert(insertions);
 
         if (error) {
           console.error(`    - DB Error for note ${note.metadata.note_id}: ${error.message}`);
@@ -293,7 +309,7 @@ async function processFHIRFile(filePath) {
         }
       }
     }
-
+    
     console.log(`  - Successfully inserted ${totalChunksInserted} chunks.`);
     return { fileName, chunksInserted: totalChunksInserted };
 
@@ -307,7 +323,7 @@ async function processFHIRFile(filePath) {
  * Main execution function.
  */
 async function main() {
-  console.log('🚀 Starting FHIR Ingestion Pipeline (Final Version)...');
+  console.log('🚀 Starting FHIR Ingestion Pipeline...');
 
   try {
     const files = await fs.readdir(FHIR_DATA_DIR);

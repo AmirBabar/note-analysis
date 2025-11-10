@@ -1,125 +1,89 @@
-# Clinical Notes from Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
-
-## Note 1 (undefined - d036dcbd-7cf6-3199-91b3-ffcd8920b304)
-
-**Note ID:** d036dcbd-7cf6-3199-91b3-ffcd8920b304
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 1975-07-13T10:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+============================================================
+## Note 1 (Type: DocumentReference - ID: d036dcbd-7cf6-3199-91b3-ffcd8920b304)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 1975-07-13T10:26:06.911-04:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 16 years - Gender: Male - Race: White - Reason for Visit: Well child visit History of Present Illness (HPI): The patient is a 16-year-old male presenting for a routine well child visit. He reports no acute complaints or concerns at this time. His mother mentions that he has been generally healthy, attending school regularly, and participating in extracurricular activities. There are no reported symptoms such as fever, cough, sore throat, or gastrointestinal distress. However, she notes that he has occasional headaches, which are typically mild and resolve with rest or over-the-counter pain relievers. Additionally, he reports mild fatigue, particularly after physical exertion, though this has not significantly impacted his daily activities. Review of Systems (ROS): - Constitutional: No fever, chills, or weight changes. - HEENT: No headache (as noted above), sinus congestion, or ear pain. - Cardiovascular: No chest pain, palpitations, or shortness of breath. - Respiratory: No cough, shortness of breath, or wheezing. - Gastrointestinal: No nausea, vomiting, diarrhea, or abdominal pain. - Musculoskeletal: No joint pain or muscle weakness. - Neurological: No dizziness, numbness, or tingling. - Genitourinary: No dysuria, frequency, or urgency. - Skin: No rashes, itching, or lesions. - Psychiatric: No reported anxiety, depression, or mood changes. Past Medical History (PMH): - No significant medical history. - Up-to-date on vaccinations. - No history of hospitalizations or surgeries. Family History (FH): - Non-contributory. No family history of genetic disorders, chronic illnesses, or significant conditions. Social History (SH): - Lives with both parents and younger sibling. - Attends high school; reports good academic performance. - Engages in moderate physical activity (e.g., school sports). - No tobacco, alcohol, or drug use. Physical Examination: - Vitals: Temperature 98.6°F, HR 72 bpm, BP 120/75 mmHg, RR 16/min, O2 Sat 98% on room air. - General: Well-nourished, alert, and oriented male in no acute distress. - HEENT: PERRLA, EOMI; oropharynx clear; no lymphadenopathy. - Cardiovascular: Regular rate and rhythm; no murmurs, rubs, or gallops. - Lungs: Clear to auscultation bilaterally; no wheezes, rales, or rhonchi. - Abdomen: Soft, non-tender, non-distended; no organomegaly. - Musculoskeletal: Full range of motion; no tenderness or deformities. - Neurological: Cranial nerves II-XII intact; normal strength, sensation, and reflexes. Assessment & Plan: 1. Well Child Visit: - - Developmental milestones: Age-appropriate. - 2. Headaches & Fatigue: - Likely benign, possibly related to stress or minor dehydration. - Advise hydration, regular sleep schedule, and stress management techniques. - Recommend avoiding overuse of pain relievers. - Refer to neurology if symptoms worsen or become frequent. 3. General Health Maintenance: - Screen for depression/anxiety (if ROS changes). - Discuss safe physical activity, nutrition, and screen time limits. - Reinforce avoidance of tobacco, alcohol, and drugs. Patient Education: - Importance of regular exercise, balanced diet, and adequate sleep. - Encourage open communication about any new or worsening symptoms. Follow-Up: - Schedule next well child visit in 1 year. - Return sooner if symptoms escalate or new concerns arise. Provider Signature:
 
 ============================================================
-
-## Note 2 (undefined - c111b920-719c-9368-440b-ff4089f1963e)
-
-**Note ID:** c111b920-719c-9368-440b-ff4089f1963e
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 1977-07-24T10:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 2 (Type: DocumentReference - ID: c111b920-719c-9368-440b-ff4089f1963e)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 1977-07-24T10:26:06.911-04:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 18 - Sex: Male - Race: White Reason for Encounter: General examination. History of Present Illness (HPI): The patient is an 18-year-old male presenting for a general examination. He reports no specific complaints at this time. However, upon further questioning, he mentions occasional symptoms that may be related to . These symptoms include: - Headache: Occasional, mild to moderate, throbbing pain, typically resolving with rest or over-the-counter pain relievers. - Fatigue: Reports feeling tired more easily than usual, especially after physical exertion or lack of sleep. - Mild abdominal discomfort: Non-specific, occasional cramping or bloating, not associated with nausea or vomiting. - No fever, chills, or respiratory symptoms reported. Review of Systems: - Cardiovascular: No chest pain, palpitations, or shortness of breath. - Respiratory: No cough, wheezing, or dyspnea. - Gastrointestinal: No significant changes in bowel habits, appetite remains normal. - Musculoskeletal: No joint pain or stiffness. - Neurological: No dizziness, numbness, or tingling. - Psychiatric: Reports no significant stressors but acknowledges occasional anxiety. - Genitourinary: No dysuria, frequency, or hematuria. Physical Examination: - Vital Signs: BP 120/80 mmHg, HR 72 bpm, RR 16 breaths/min, Temp 98.6°F, SpO2 98% on room air. - General: Appears well-nourished, alert, and oriented ×3. - HEENT: Pupils equal, round, and reactive to light. No conjunctival injection, nasal congestion, or sinus tenderness. Oropharynx clear without exudates. - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. - Lungs: Clear to auscultation bilaterally. - Abdomen: Soft, non-tender, nondistended, with normal bowel sounds. No hepatosplenomegaly. - Extremities: No edema, clubbing, or cyanosis. - Neurological: Grossly intact motor and sensory function. Assessment: 1. General Examination: No acute findings noted. 2. Symptoms: Possible mild symptoms (headache, fatigue, abdominal discomfort) may be related to . Further evaluation may be needed if symptoms worsen or persist. Plan: 1. Education: Advise patient on maintaining a balanced diet, adequate hydration, and regular sleep hygiene. 2. Monitoring: Recommend tracking symptoms and seeking follow-up if they worsen or new symptoms develop. 3. Referral: No immediate referrals indicated at this time. 4. Follow-Up: Schedule a follow-up visit in for routine monitoring. Provider Signature: Date:
 
 ============================================================
-
-## Note 3 (undefined - 341aaf1e-9466-0a77-7a3a-c773973b8d71)
-
-**Note ID:** 341aaf1e-9466-0a77-7a3a-c773973b8d71
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 1978-07-30T10:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 3 (Type: DocumentReference - ID: 341aaf1e-9466-0a77-7a3a-c773973b8d71)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 1978-07-30T10:26:06.911-04:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 19 - Sex: Male - Race: White Chief Complaint: General examination for . History of Present Illness: The patient is a 19-year-old male presenting for a general examination. He reports no specific complaints at this time. However, potential symptoms that may be observed or inquired about during the encounter include: - Fatigue or malaise: Could indicate underlying anemia, infection, or chronic illness. - Headache: May suggest tension, sinusitis, migraines, or elevated blood pressure. - Chest pain or discomfort: Could be due to musculoskeletal issues, cardiac, or pulmonary causes. - Shortness of breath: May indicate asthma, cardiac dysfunction, or respiratory infection. - Abdominal pain or changes in bowel habits: Could suggest gastrointestinal issues such as gastritis, irritable bowel syndrome, or infection. - Fever or chills: May indicate an infectious process. - Rash or skin changes: Could be due to allergies, infection, or autoimmune conditions. - Joint pain or swelling: May suggest arthritis, injury, or inflammatory conditions. - Changes in vision or hearing: Could indicate neurological or systemic issues. - Weight changes or loss of appetite: May suggest metabolic, endocrine, or psychological factors. Review of Systems: - Constitutional: No fever, chills, or night sweats reported. - Head, Eyes, Ears, Nose, Throat: No headaches, visual disturbances, hearing changes, nasal congestion, or sore throat. - Cardiovascular: No chest pain, palpitations, or dyspnea. - Respiratory: No cough, shortness of breath, or wheezing. - Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits. - Musculoskeletal: No joint pain, swelling, or limited mobility. - Skin: No rashes, itching, or lesions. - Neurological: No dizziness, numbness, tingling, or weakness. - Psychiatric: No anxiety, depression, or sleep disturbances reported. Physical Examination: - Vital - General: Well-appearing, alert, and oriented. - HEENT: Pupils equal, round, reactive to light. No conjunctival injection. TMs clear. Nasal mucosa clear. Throat nonerythematous, no exudates. - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. - Respiratory: Clear to auscultation bilaterally, no wheezes or crackles. - Abdominal: Soft, nontender, nondistended, no organomegaly. - Musculoskeletal: Full range of motion, no tenderness or swelling. - Skin: No rashes or lesions. - Neurological: Grossly intact. Assessment and Plan: 1. Assessment: General examination performed with no significant findings noted. 2. Plan: - Continue monitoring for any new or worsening symptoms. - Schedule follow-up as needed. - Educate patient on maintaining a healthy lifestyle (e.g., diet, exercise, hydration). - Provide any necessary referrals or further investigations based on future symptoms. Provider Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 19 - Sex: Male - Race: White Chief Complaint: General examination for . History of Present Illness: The patient is a 19-year-old male presenting for a general examination. He reports no specific complaints at this time. However, potential symptoms that may be observed or inquired about during the encounter include: - Fatigue or malaise: Could indicate underlying anemia, infection, or chronic illness. - Headache: May suggest tension, sinusitis, migraines, or elevated blood pressure. - Chest pain or discomfort: Could be due to musculoskeletal issues, cardiac, or pulmonary causes. - Shortness of breath: May indicate asthma, cardiac dysfunction, or respiratory infection. - Abdominal pain or changes in bowel habits: Could suggest gastrointestinal issues such as gastritis, irritable bowel syndrome, or infection. - Fever or chills: May indicate an infectious process. - Rash or skin changes: Could be due to allergies, infection, or autoimmune conditions. - Joint pain or swelling: May suggest arthritis, injury, or inflammatory conditions. - Changes in vision or hearing: Could indicate neurological or systemic issues. - Weight changes or loss of appetite: May suggest metabolic, endocrine, or psychological factors. Review of Systems: - Constitutional: No fever, chills, or night sweats reported. - Head, Eyes, Ears, Nose, Throat: No headaches, visual disturbances, hearing changes, nasal congestion, or sore throat. - Cardiovascular: No chest pain, palpitations, or dyspnea. - Respiratory: No cough, shortness of breath, or wheezing. - Gastrointestinal: No abdominal pain, nausea, vomiting, or changes in bowel habits. - Musculoskeletal: No joint pain, swelling, or limited mobility. - Skin: No rashes, itching, or lesions. - Neurological: No dizziness, numbness, tingling, or weakness. - Psychiatric: No anxiety, depression, or sleep disturbances reported. Physical Examination: - - General: Well-appearing, alert, and oriented. - HEENT: Pupils equal, round, reactive to light. No conjunctival injection. TMs clear. Nasal mucosa clear. Throat nonerythematous, no exudates. - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. - Respiratory: Clear to auscultation bilaterally, no wheezes or crackles. - Abdominal: Soft, nontender, nondistended, no organomegaly. - Musculoskeletal: Full range of motion, no tenderness or swelling. - Skin: No rashes or lesions. - Neurological: Grossly intact. Assessment and Plan: 1. Assessment: General examination performed with no significant findings noted. 2. Plan: - Continue monitoring for any new or worsening symptoms. - Schedule follow-up as needed. - Educate patient on maintaining a healthy lifestyle (e.g., diet, exercise, hydration). - Provide any necessary referrals or further investigations based on future symptoms. Provider Signature:
 
 ============================================================
-
-## Note 4 (undefined - fb1831d8-1f40-37ac-0742-b342e0bd5abd)
-
-**Note ID:** fb1831d8-1f40-37ac-0742-b342e0bd5abd
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 1987-08-09T10:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 4 (Type: DocumentReference - ID: fb1831d8-1f40-37ac-0742-b342e0bd5abd)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 1987-08-09T10:26:06.911-04:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 28 - Sex: Male - Race: White Reason for Encounter: General examination of patient for . History of Present Illness (HPI): The patient is a 28-year-old male presenting for a general examination. He reports . Possible symptoms that may be caused by include: - Fatigue or malaise - Headache or dizziness - Abdominal discomfort or altered bowel habits - Muscle aches or joint pain - Changes in sleep patterns or mood - Unexplained weight changes - Skin changes or rashes The patient denies . Review of Systems (ROS): - - HEENT: . - - - GI: . - - - - Physical Examination: - Vital Signs: BP , HR , RR , Temp , O2 Sat . - - HEENT: . - - - - - - Assessment: 1. General examination for . 2. Possible symptoms related to . Plan: - . - Educate patient on . - Schedule follow-up in . Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 28 - Sex: Male - Race: White Reason for Encounter: General examination of patient for . History of Present Illness (HPI): The patient is a 28-year-old male presenting for a general examination. He reports . Possible symptoms that may be caused by include: - Fatigue or malaise - Headache or dizziness - Abdominal discomfort or altered bowel habits - Muscle aches or joint pain - Changes in sleep patterns or mood - Unexplained weight changes - Skin changes or rashes The patient denies . Review of Systems (ROS): - - - - - - - - - Physical Examination: - Vital Signs: BP , HR , RR , Temp , O2 Sat . - - - - - - - - Assessment: 1. General examination for . 2. Possible symptoms related to . Plan: - . - Educate patient on . - Schedule follow-up in . Signature: Medical Scribe
 
 ============================================================
-
-## Note 5 (undefined - 230d05c5-45c6-4f66-7918-eeddc627a371)
-
-**Note ID:** 230d05c5-45c6-4f66-7918-eeddc627a371
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2012-12-30T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 5 (Type: DocumentReference - ID: 230d05c5-45c6-4f66-7918-eeddc627a371)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2012-12-30T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 53 years - Sex: Male - Race: White Chief Complaint: General examination for . History of Present Illness: The patient presents for a general examination. . Review of Systems: - Constitutional: Reports . - Cardiovascular: Reports . - Respiratory: Reports . - Gastrointestinal: Reports . - Musculoskeletal: Reports . - Neurological: Reports . - Genitourinary: Reports . - Skin: Reports . - Endocrine: Reports . - Psychiatric: Reports . Symptoms Possibly Caused By : - Fatigue and muscle weakness (possibly caused by anemia or electrolyte imbalance). - Abdominal pain and nausea (possibly caused by gastritis or peptic ulcer disease). - Shortness of breath (possibly caused by cardiac or pulmonary dysfunction). - Joint pain (possibly caused by arthritis or autoimmune disease). Physical Examination: - - - HEENT: . - - - - - - - Assessment: 1. General examination performed. 2. . 3. . Plan: 1. . 2. . 3. . 4. . Follow- Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 53 years - Sex: Male - Race: White Chief Complaint: General examination for . History of Present Illness: The patient presents for a general examination. . Review of Systems: - Constitutional: Reports . - Cardiovascular: Reports . - Respiratory: Reports . - Gastrointestinal: Reports . - Musculoskeletal: Reports . - Neurological: Reports . - Genitourinary: Reports . - Skin: Reports . - Endocrine: Reports . - Psychiatric: Reports . Symptoms Possibly Caused By : - Fatigue and muscle weakness (possibly caused by anemia or electrolyte imbalance). - Abdominal pain and nausea (possibly caused by gastritis or peptic ulcer disease). - Shortness of breath (possibly caused by cardiac or pulmonary dysfunction). - Joint pain (possibly caused by arthritis or autoimmune disease). Physical Examination: - - - - - - - - - - Assessment: 1. General examination performed. 2. . 3. . Plan: 1. . 2. . 3. . 4. . Follow- Signature:
 
 ============================================================
-
-## Note 6 (undefined - a6f01f68-4cad-41bc-2751-7373a2b92ad5)
-
-**Note ID:** a6f01f68-4cad-41bc-2751-7373a2b92ad5
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2013-01-20T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 6 (Type: DocumentReference - ID: a6f01f68-4cad-41bc-2751-7373a2b92ad5)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2013-01-20T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Encounter Note Patient: Adan632 Bertram873 Kozey370 Age: 53 years Sex: Male Race: White Reason for Visit: Follow-up for Hyperlipidemia History of Present Illness: The patient is a 53-year-old male with a known history of hyperlipidemia. He reports no current symptoms but acknowledges the long-term risks associated with elevated lipid levels, including potential complications such as: - Chest pain or angina (due to atherosclerosis) - Shortness of breath (if coronary artery disease is present) - Fatigue or exercise intolerance (due to poor circulation) - Xanthomas (fatty deposits under the skin) - Xanthelasma (fatty deposits around the eyelids) - Pancreatitis (if triglycerides are severely elevated) The patient has been prescribed Simvastatin 10 mg oral tablet for ongoing management of his hyperlipidemia. Medication Instructions: - Simvastatin 10 mg oral tablet : Take one tablet by mouth daily at bedtime . - This medication is most effective when taken consistently at the same time each day. - Avoid grapefruit or grapefruit juice , as it may increase the risk of side effects. - Do not take with cholestyramine or colestipol (if applicable); separate doses by at least 4 hours. - Report any unexplained muscle pain, tenderness, or weakness to the clinic immediately, as this may indicate a rare but serious side effect (rhabdomyolysis). Plan: - Continue Simvastatin 10 mg daily. - Encourage dietary modifications (low saturated fat, low cholesterol diet) and regular exercise. - Schedule follow-up in 3 months to monitor lipid levels (total cholesterol, LDL, HDL, triglycerides) and assess medication tolerance. - Consider referral to a cardiologist if symptoms of cardiovascular disease develop. Provider Signature:
 
 ============================================================
-
-## Note 7 (undefined - ea0b74cb-5b94-58ec-de97-b4fc059a03f2)
-
-**Note ID:** ea0b74cb-5b94-58ec-de97-b4fc059a03f2
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2014-01-05T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 7 (Type: DocumentReference - ID: ea0b74cb-5b94-58ec-de97-b4fc059a03f2)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2014-01-05T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 54 years - Sex: Male - Race: White Reason for Encounter: General examination. History of Present Illness (HPI): The patient is a 54-year-old male presenting for a general examination. He reports no specific complaints at this time. However, the following symptoms may be observed or inquired about during the assessment, as they could be indicative of underlying conditions: - Fatigue or generalized weakness: May suggest anemia, hypothyroidism, or other systemic illnesses. - Shortness of breath or chest discomfort: Could indicate cardiovascular or pulmonary issues. - Abdominal pain or changes in bowel habits: May point to gastrointestinal disorders. - Headaches or dizziness: Could be related to hypertension, dehydration, or neurological conditions. - Joint pain or stiffness: May suggest inflammatory arthritis or degenerative joint disease. - Changes in vision or hearing: Could indicate sensory system disorders. - Sleep disturbances or mood changes: May be associated with stress, depression, or other psychological or physiological factors. Review of Systems (ROS): - Constitutional: No fever, chills, or weight changes reported. - Cardiovascular: No reported palpitations, edema, or hypertension symptoms. - Respiratory: No cough, wheezing, or dyspnea. - Gastrointestinal: No nausea, vomiting, or significant changes in appetite. - Musculoskeletal: No reported significant pain or limitations. - Neurological: No reported numbness, tingling, or motor deficits. - Psychiatric: No reported anxiety or depression symptoms. Physical Examination: - Vital Signs: - Blood pressure: - Heart rate: - Respiratory rate: - Temperature: - Oxygen saturation: - General Appearance: Alert and oriented ×3, in no acute distress. - HEENT: PERRLA, EOMI, atraumatic. - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. - Respiratory: Clear to auscultation bilaterally, no wheezes or crackles. - Abdominal: Soft, nondistended, non-tender, no organomegaly. - Musculoskeletal: Full range of motion, no swelling or tenderness. - Neurological: Grossly intact motor and sensory function. Assessment: - No acute or significant findings noted at this time. - Symptomatic evaluation remains pending based on patient-reported symptoms or further examination. Plan: - Continue monitoring for any new or worsening symptoms. - Schedule follow-up as needed for routine health maintenance or screening. - Consider further diagnostic testing (e.g., labs, imaging) if symptoms develop or risk factors are identified. Provider Signature:
 
 ============================================================
-
-## Note 8 (undefined - e5f9efbb-70cc-8bb6-fe7a-510f7c22979f)
-
-**Note ID:** e5f9efbb-70cc-8bb6-fe7a-510f7c22979f
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2015-01-11T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 8 (Type: DocumentReference - ID: e5f9efbb-70cc-8bb6-fe7a-510f7c22979f)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2015-01-11T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 55 years - Gender: Male - Race: White Reason for Encounter: General examination. History of Present Illness: The patient presented for a general examination. No specific complaints were reported at this time. However, given the prescription of amLODIPine 2.5 MG Oral Tablet, it is possible that the patient may have underlying conditions such as hypertension or coronary artery disease. The patient should be monitored for potential symptoms associated with the medication, including: - Headache - Dizziness or lightheadedness - Edema (swelling) in the ankles or feet - Fatigue or tiredness - Flushing - Nausea Physical Examination: - Vital signs: - General appearance: - Cardiovascular: - Pulmonary: - Extremities: Impression: - Possible hypertension or cardiovascular condition requiring treatment with amLODIPine. - Patient should be educated on medication use and potential side effects. Plan: 1. Medication: Prescribed amLODIPine 2.5 MG Oral Tablet. - Instructions: Take one tablet orally once daily, preferably at the same time each day, with or without food. - Monitoring: Advise patient to monitor blood pressure regularly and report any significant changes. - Side Effects: Educate patient on potential side effects (headache, dizziness, edema, etc.) and instruct them to contact the clinic if symptoms are severe or persistent. - Diet and Lifestyle: Encourage a low-sodium diet, regular exercise, and smoking cessation if applicable. 2. Follow-Up: Schedule follow-up appointment in to assess medication efficacy and tolerance. 3. Patient Education: - Emphasize the importance of adherence to the medication regimen. - Advise patient to avoid sudden position changes (e.g., standing up quickly) to minimize dizziness. - Encourage reporting any unusual symptoms promptly. Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 55 years - Gender: Male - Race: White Reason for Encounter: General examination. History of Present Illness: The patient presented for a general examination. No specific complaints were reported at this time. However, given the prescription of amLODIPine 2.5 MG Oral Tablet, it is possible that the patient may have underlying conditions such as hypertension or coronary artery disease. The patient should be monitored for potential symptoms associated with the medication, including: - Headache - Dizziness or lightheadedness - Edema (swelling) in the ankles or feet - Fatigue or tiredness - Flushing - Nausea Physical Examination: - Vital signs: - General appearance: - Cardiovascular: - Pulmonary: - Extremities: Impression: - Possible hypertension or cardiovascular condition requiring treatment with amLODIPine. - Patient should be educated on medication use and potential side effects. Plan: 1. Medication: Prescribed amLODIPine 2.5 MG Oral Tablet. - Instructions: Take one tablet orally once daily, preferably at the same time each day, with or without food. - Monitoring: Advise patient to monitor blood pressure regularly and report any significant changes. - Side Effects: Educate patient on potential side effects (headache, dizziness, edema, etc.) and instruct them to contact the clinic if symptoms are severe or persistent. - Diet and Lifestyle: Encourage a low-sodium diet, regular exercise, and smoking cessation if applicable. 2. Follow-Up: Schedule follow-up appointment in to assess medication efficacy and tolerance. 3. Patient Education: - Emphasize the importance of adherence to the medication regimen. - Advise patient to avoid sudden position changes (e.g., standing up quickly) to minimize dizziness. - Encourage reporting any unusual symptoms promptly. Signature: Medical Scribe
 
 ============================================================
-
-## Note 9 (undefined - 6ddfa31d-5891-b991-fa1f-d3c75e3cbf85)
-
-**Note ID:** 6ddfa31d-5891-b991-fa1f-d3c75e3cbf85
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2015-02-01T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 9 (Type: DocumentReference - ID: 6ddfa31d-5891-b991-fa1f-d3c75e3cbf85)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2015-02-01T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370
@@ -141,74 +105,54 @@ Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370
 - Encourage continued adherence to lifestyle modifications.
 - Advise the patient to report any new or worsening symptoms, particularly those that may indicate muscle toxicity (e.g., unexplained muscle pain, tenderness, or weakness). Plan for Next Steps: - Schedule follow-up appointment for lipid panel re-evaluation.
 - Provide patient with educational materials regarding hyperlipidemia and statin therapy.
-- Reinforce the importance of adherence to medication and lifestyle changes. Signature:
+- Reinforce the importance of adherence to medication and lifestyle changes. Signature: Medical Scribe
 
 ============================================================
-
-## Note 10 (undefined - 9ba00bb8-62f9-e391-7123-05fe83123894)
-
-**Note ID:** 9ba00bb8-62f9-e391-7123-05fe83123894
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2016-01-17T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 10 (Type: DocumentReference - ID: 9ba00bb8-62f9-e391-7123-05fe83123894)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2016-01-17T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan Bertram Kozey - Age: 56 - Gender: Male - Race: White Encounter Date: Reason for Visit: General examination of patient for . History of Present Illness: The patient presented for a general health assessment. No specific complaints were reported, but routine screening measures were conducted. Medications: - AmLODIPine 2.5 MG Oral Tablet: Prescribed for . Immunizations: - Influenza, seasonal, injectable, preservative-free: Administered. Assessments & Screenings: - Health and social care needs assessment: Completed. - Anxiety assessment: Conducted. - Domestic abuse screening: Negative. - Depression screening: Conducted twice (results pending if applicable). - Referral for dental care procedure(s): Provided. Physical Examination: General examination was performed; findings were within normal limits. No acute symptoms noted. Instructions for AmLODIPine 2.5 MG Oral Tablet: - Take one tablet orally once daily, preferably at the same time each day. - May be taken with or without food. - Do not crush or chew the tablet. - Report any side effects such as dizziness, swelling of the ankles/feet, or unusual tiredness. Potential Side Effects of AmLODIPine: - Dizziness, lightheadedness, flushing, or swelling of the ankles/feet may occur. - If these effects persist or worsen, notify the provider. - Avoid alcohol and sudden changes in posture to minimize dizziness. Follow-Up: - Schedule follow-up in to monitor blood pressure and assess medication tolerance. - Ensure dental referral is followed through. Plan: - Continue AmLODIPine as prescribed. - Monitor for any signs of anxiety or depression; follow up with mental health resources if needed. - Reinforce importance of routine health screenings. Provider Signature:
 
 ============================================================
-
-## Note 11 (undefined - 966b9277-edfe-1f11-c76c-551f04aa36e3)
-
-**Note ID:** 966b9277-edfe-1f11-c76c-551f04aa36e3
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2016-01-31T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 11 (Type: DocumentReference - ID: 966b9277-edfe-1f11-c76c-551f04aa36e3)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2016-01-31T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 56 - Sex: Male - Race: White Reason for Encounter: Check-up for Gingivitis History of Present Illness: The patient presents for a dental check-up due to concerns regarding gingivitis. He reports symptoms commonly associated with gingivitis, including: - Bleeding gums (especially during brushing or flossing) - Redness and swelling of the gingival tissue - Bad breath (halitosis) - Mild tenderness or discomfort in the gums The patient states that these symptoms have been present for several months but have worsened recently, prompting him to seek dental care. Dental Consultation and Report: The patient underwent a comprehensive dental consultation, where a detailed dental report was reviewed. Findings indicated moderate gingivitis with evidence of plaque and calculus accumulation. Procedures Performed: 1. Removal of supragingival plaque and calculus from all teeth using dental instruments. 2. Removal of subgingival plaque and calculus from all teeth using dental instruments. 3. Dental plain x-ray (bitewing) to assess for underlying bone loss or other periodontal issues. 4. Examination of gingivae to evaluate the severity of gingival inflammation and bleeding. 5. Oral health education provided to the patient, including proper brushing and flossing techniques, as well as the importance of regular dental visits. Findings: - Gingival tissue appeared erythematous and edematous with spontaneous bleeding upon probing. - Moderate plaque and calculus deposits were noted both supragingivally and subgingivally. - Bitewing x-rays showed no evidence of significant bone loss at this time. Plan: 1. Continue meticulous oral hygiene at home, including brushing twice daily with fluoride toothpaste and daily flossing. 2. Return for a follow-up appointment in 3 months to reassess gingival health and evaluate the need for further periodontal therapy. 3. Consider antimicrobial mouth rinses as adjunctive therapy if bleeding persists. Signature: ,
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 56 - Sex: Male - Race: White Reason for Encounter: Check-up for Gingivitis History of Present Illness: The patient presents for a dental check-up due to concerns regarding gingivitis. He reports symptoms commonly associated with gingivitis, including: - Bleeding gums (especially during brushing or flossing) - Redness and swelling of the gingival tissue - Bad breath (halitosis) - Mild tenderness or discomfort in the gums The patient states that these symptoms have been present for several months but have worsened recently, prompting him to seek dental care. Dental Consultation and Report: The patient underwent a comprehensive dental consultation, where a detailed dental report was reviewed. Findings indicated moderate gingivitis with evidence of plaque and calculus accumulation. Procedures Performed: 1. Removal of supragingival plaque and calculus from all teeth using dental instruments. 2. Removal of subgingival plaque and calculus from all teeth using dental instruments. 3. Dental plain x-ray (bitewing) to assess for underlying bone loss or other periodontal issues. 4. Examination of gingivae to evaluate the severity of gingival inflammation and bleeding. 5. Oral health education provided to the patient, including proper brushing and flossing techniques, as well as the importance of regular dental visits. Findings: - Gingival tissue appeared erythematous and edematous with spontaneous bleeding upon probing. - Moderate plaque and calculus deposits were noted both supragingivally and subgingivally. - Bitewing x-rays showed no evidence of significant bone loss at this time. Plan: 1. Continue meticulous oral hygiene at home, including brushing twice daily with fluoride toothpaste and daily flossing. 2. Return for a follow-up appointment in 3 months to reassess gingival health and evaluate the need for further periodontal therapy. 3. Consider antimicrobial mouth rinses as adjunctive therapy if bleeding persists. Signature: , Medical Scribe
 
 ============================================================
-
-## Note 12 (undefined - 83e5c7b2-0c7c-1cbd-a3fe-1cb4e1ff1703)
-
-**Note ID:** 83e5c7b2-0c7c-1cbd-a3fe-1cb4e1ff1703
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2016-02-01T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 12 (Type: DocumentReference - ID: 83e5c7b2-0c7c-1cbd-a3fe-1cb4e1ff1703)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2016-02-01T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient: Adan632 Bertram873 Kozey370 Age: 56 Sex: Male Race: White Reason for Encounter: Follow-up for Hyperlipidemia History of Present Illness: The patient is a 56-year-old male presenting for follow-up regarding his hyperlipidemia. He reports no new symptoms but acknowledges that hyperlipidemia can contribute to symptoms such as fatigue, muscle pain, or generalized weakness. He has been compliant with lifestyle modifications, including dietary changes and regular exercise, but continues to require pharmacologic management to achieve optimal lipid control. Review of Systems: - Cardiovascular: No chest pain, palpitations, or shortness of breath. - Musculoskeletal: No unexplained muscle pain or weakness. - Gastrointestinal: No nausea, vomiting, or abdominal pain. - Neurological: No headaches, dizziness, or paresthesias. Medications: - Simvastatin 10 mg oral tablet: Prescribed for hyperlipidemia. Instructions for Simvastatin 10 mg Oral Tablet: - Take one tablet (10 mg) by mouth once daily in the evening, with or without food. - The evening dose is preferred because the body produces more cholesterol at night. - Continue to follow a low-cholesterol diet and engage in regular physical activity. - Avoid consuming large quantities of grapefruit or grapefruit juice, as this may increase the risk of side effects. - Report any unexplained muscle pain, tenderness, or weakness to the clinic immediately, as this may indicate a rare but serious side effect (rhabdomyolysis). Plan: - Continue Simvastatin 10 mg daily. - Repeat lipid panel in 6-8 weeks to assess efficacy. - Monitor for any signs of muscle toxicity. - Encourage ongoing lifestyle modifications. Disposition: The patient understands the instructions and agrees to follow the prescribed treatment plan. He will return for follow-up in 6-8 weeks for repeat labs and evaluation. Provider Signature:
 
 ============================================================
-
-## Note 13 (undefined - b7e08a85-6ca8-d430-1729-4e8877492ee1)
-
-**Note ID:** b7e08a85-6ca8-d430-1729-4e8877492ee1
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2017-01-22T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 13 (Type: DocumentReference - ID: b7e08a85-6ca8-d430-1729-4e8877492ee1)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2017-01-22T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan Bertram Kozey - Age: 57 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination of patient for . History of Present Illness: The patient presented for a general health assessment. No specific complaints were reported at this time. Medications: - AmLODIPine 2.5 MG Oral Tablet (prescribed today). Allergies: None reported. Review of Systems: - Cardiovascular: No chest pain, palpitations, or edema reported. - Respiratory: No cough, shortness of breath, or wheezing reported. - Gastrointestinal: No nausea, vomiting, or abdominal pain reported. - Neurological: No headache, dizziness, or numbness reported. - Musculoskeletal: No joint pain or stiffness reported. Assessments Performed: 1. Assessment of Health and Social Care Needs: Completed to evaluate the patient’s overall health status and identify any social or care support requirements. 2. Assessment of Substance Use: Conducted to screen for any substance use or dependency issues. No concerning findings reported. 3. Screening for Drug Abuse: Performed as part of routine health screening. No evidence of drug abuse noted. Immunizations Administered: - Influenza, seasonal, injectable, preservative free (1 dose). Plan: 1. Medication Instructions: - AmLODIPine 2.5 MG Oral Tablet: Take one tablet orally once daily, preferably at the same time each day. May be taken with or without food. Avoid grapefruit or grapefruit juice, as it may increase side effects. - Potential Side Effects: Dizziness, lightheadedness, flushing, swelling of the ankles or feet, or fatigue may occur. If these effects persist or worsen, contact the clinic. Report any signs of allergic reaction (rash, itching, swelling, severe dizziness) or signs of liver problems (dark urine, persistent nausea/vomiting, stomach/abdominal pain) immediately. 2. Follow-Up: Schedule a follow-up appointment in to monitor blood pressure and assess medication tolerance. 3. Lifestyle Recommendations: Encourage a healthy diet, regular exercise, and smoking cessation if applicable. Discharge Instructions: - Monitor blood pressure at home if possible. - Report any unusual symptoms or side effects to the clinic. - Continue annual influenza vaccinations as recommended. Provider Signature:
+Medical Note Patient Information: - Name: Adan Bertram Kozey - Age: 57 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination of patient for . History of Present Illness: The patient presented for a general health assessment. No specific complaints were reported at this time. Medications: - AmLODIPine 2.5 MG Oral Tablet (prescribed today). Allergies: None reported. Review of Systems: - Cardiovascular: No chest pain, palpitations, or edema reported. - Respiratory: No cough, shortness of breath, or wheezing reported. - Gastrointestinal: No nausea, vomiting, or abdominal pain reported. - Neurological: No headache, dizziness, or numbness reported. - Musculoskeletal: No joint pain or stiffness reported. Assessments Performed: 1. Assessment of Health and Social Care Needs: Completed to evaluate the patient’s overall health status and identify any social or care support requirements. 2. Assessment of Substance Use: Conducted to screen for any substance use or dependency issues. No concerning findings reported. 3. Screening for Drug Abuse: Performed as part of routine health screening. No evidence of drug abuse noted. Immunizations Administered: - Influenza, seasonal, injectable, preservative free (1 dose). Plan: 1. Medication Instructions: - AmLODIPine 2.5 MG Oral Tablet: Take one tablet orally once daily, preferably at the same time each day. May be taken with or without food. Avoid grapefruit or grapefruit juice, as it may increase side effects. - Potential Side Effects: Dizziness, lightheadedness, flushing, swelling of the ankles or feet, or fatigue may occur. If these effects persist or worsen, contact the clinic. Report any signs of allergic reaction (rash, itching, swelling, severe dizziness) or signs of liver problems (dark urine, persistent nausea/vomiting, stomach/abdominal pain) immediately. 2. Follow-Up: Schedule a follow-up appointment in to monitor blood pressure and assess medication tolerance. 3. Lifestyle Recommendations: Encourage a healthy diet, regular exercise, and smoking cessation if applicable. Discharge Instructions: - Monitor blood pressure at home if possible. - Report any unusual symptoms or side effects to the clinic. - Continue annual influenza vaccinations as recommended. Provider Signature: Medical Scribe
 
 ============================================================
-
-## Note 14 (undefined - d1d15838-fa7f-d69f-027b-5de4007462e0)
-
-**Note ID:** d1d15838-fa7f-d69f-027b-5de4007462e0
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2017-01-31T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 14 (Type: DocumentReference - ID: d1d15838-fa7f-d69f-027b-5de4007462e0)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2017-01-31T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370
@@ -229,32 +173,24 @@ Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370
 - Following a heart-healthy diet low in saturated fats and cholesterol.
 - Engaging in regular physical activity.
 - Maintaining a healthy weight.
-- Avoiding smoking and excessive alcohol consumption. Follow-Up: The patient should return for a follow-up appointment in to assess his lipid levels and evaluate the effectiveness of the Simvastatin therapy. Any new or worsening symptoms should be reported to the healthcare provider promptly. Signature:
+- Avoiding smoking and excessive alcohol consumption. Follow-Up: The patient should return for a follow-up appointment in to assess his lipid levels and evaluate the effectiveness of the Simvastatin therapy. Any new or worsening symptoms should be reported to the healthcare provider promptly. Signature: Medical Scribe
 
 ============================================================
-
-## Note 15 (undefined - fb07f711-5b71-91cd-bdaf-0dbd7343c2ce)
-
-**Note ID:** fb07f711-5b71-91cd-bdaf-0dbd7343c2ce
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2018-01-28T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 15 (Type: DocumentReference - ID: fb07f711-5b71-91cd-bdaf-0dbd7343c2ce)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2018-01-28T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 58 years - Sex: Male - Race: White Date of Encounter: Provider: Reason for Encounter: General examination and health assessment. History of Present Illness: The patient presented for a general health examination. No specific chief complaint was reported. The patient was prescribed amLODIPine 2.5 MG Oral Tablet for an unspecified indication, likely related to hypertension or another cardiovascular condition. Review of Systems: - Cardiovascular: No reported chest pain, palpitations, or shortness of breath. - Respiratory: No reported cough, dyspnea, or wheezing. - Gastrointestinal: No reported nausea, vomiting, or abdominal pain. - Neurological: No reported headaches, dizziness, or syncope. Assessments Completed: - Assessment of health and social care needs. - Assessment of anxiety. - Screening for domestic abuse (negative). - Depression screening (results pending). - Assessment of substance use (negative for illicit drug use). - Screening for drug abuse (negative). - Referral for dental care procedure(s) performed. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. Medications: - amLODIPine 2.5 MG Oral Tablet – Prescribed for unspecified indication (likely hypertension). Instructions for amLODIPine 2.5 MG Oral Tablet: - Take one tablet orally once daily, preferably at the same time each day. - May be taken with or without food. - Avoid abrupt discontinuation of the medication. - Monitor for potential side effects, including: - Dizziness or lightheadedness (especially when standing up). - Edema (swelling) in the ankles or feet. - Headache or flushing. - Fatigue or weakness. - Report any severe or persistent side effects to the provider. Plan: - Follow up in to assess medication tolerance and blood pressure response. - Continue monitoring for anxiety and depression symptoms. - Follow through with dental referral. Signature:
 
 ============================================================
-
-## Note 16 (undefined - 65d0c634-25a8-c61e-c519-8a37304920ce)
-
-**Note ID:** 65d0c634-25a8-c61e-c519-8a37304920ce
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2018-01-31T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 16 (Type: DocumentReference - ID: 65d0c634-25a8-c61e-c519-8a37304920ce)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2018-01-31T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370
@@ -276,43 +212,31 @@ Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370
 4. Schedule follow-up in 3 months for lipid panel re-evaluation and to assess medication tolerance. Patient Education: The patient was educated on the importance of taking Simvastatin as prescribed and the potential side effects to monitor. He was also advised on the significance of lifestyle modifications in managing hyperlipidemia. The patient expressed understanding of the instructions and plan. Follow-up: Patient to return in 3 months for re-evaluation. Physician Signature:
 
 ============================================================
-
-## Note 17 (undefined - 300d840d-57ea-077c-1926-046eabf55d88)
-
-**Note ID:** 300d840d-57ea-077c-1926-046eabf55d88
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2018-02-11T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 17 (Type: DocumentReference - ID: 300d840d-57ea-077c-1926-046eabf55d88)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2018-02-11T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 58 - Sex: Male - Race: White Encounter Date: Reason for Visit: Check-up for Gingivitis History of Present Illness: The patient presents for a dental check-up due to concerns regarding gingivitis. He reports experiencing symptoms such as bleeding gums (especially during brushing or flossing), redness and swelling of the gums, and occasional bad breath (halitosis) . The patient denies any tooth mobility or pain but is concerned about the aesthetic and potential long-term effects of untreated gingivitis. Past Medical History: Dental Consultation and Findings: - Dental Consultation: Performed to assess the extent of gingival inflammation and plaque accumulation. - Dental Report: Documented findings of generalized gingival inflammation with moderate plaque and calculus deposits. - Dental Care Regime/Therapy: Discussed with the patient, emphasizing proper oral hygiene practices, including brushing twice daily with fluoride toothpaste, daily flossing, and regular dental visits. - Removal of Supragingival Plaque and Calculus: Conducted using dental instruments to remove visible plaque and calculus from all tooth surfaces. - Removal of Subgingival Plaque and Calculus: Performed using scaling instruments to address subgingival deposits contributing to gingival inflammation. - Dental Plain X-Ray (Bitewing): Taken to assess bone levels and detect any early signs of periodontal disease. Results showed no significant bone loss at this time. - Examination of Gingivae: Revealed generalized gingival redness, edema, and bleeding on probing. No pockets >3mm were noted. - Oral Health Education: Provided to the patient, including proper brushing and flossing techniques, the importance of regular dental cleanings, and the risks of untreated gingivitis progressing to periodontitis. Symptoms of Gingivitis Observed/Reported: - Bleeding gums (e.g., during brushing or flossing) - Red, swollen gums - Bad breath (halitosis) - Gums that may appear shiny or puffy Plan: 1. Continue Oral Hygiene Instructions: Encourage the patient to maintain strict oral hygiene practices at home. 2. Schedule Follow-Up: Recommend a follow-up appointment in 3 months for re-evaluation and possible maintenance therapy. 3. Monitor for Progression: Advise the patient to return sooner if symptoms worsen or new symptoms (e.g., gum recession, tooth mobility) develop. Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 58 - Sex: Male - Race: White Encounter Date: Reason for Visit: Check-up for Gingivitis History of Present Illness: The patient presents for a dental check-up due to concerns regarding gingivitis. He reports experiencing symptoms such as bleeding gums (especially during brushing or flossing), redness and swelling of the gums, and occasional bad breath (halitosis) . The patient denies any tooth mobility or pain but is concerned about the aesthetic and potential long-term effects of untreated gingivitis. Past Medical History: Dental Consultation and Findings: - Dental Consultation: Performed to assess the extent of gingival inflammation and plaque accumulation. - Dental Report: Documented findings of generalized gingival inflammation with moderate plaque and calculus deposits. - Dental Care Regime/Therapy: Discussed with the patient, emphasizing proper oral hygiene practices, including brushing twice daily with fluoride toothpaste, daily flossing, and regular dental visits. - Removal of Supragingival Plaque and Calculus: Conducted using dental instruments to remove visible plaque and calculus from all tooth surfaces. - Removal of Subgingival Plaque and Calculus: Performed using scaling instruments to address subgingival deposits contributing to gingival inflammation. - Dental Plain X-Ray (Bitewing): Taken to assess bone levels and detect any early signs of periodontal disease. Results showed no significant bone loss at this time. - Examination of Gingivae: Revealed generalized gingival redness, edema, and bleeding on probing. No pockets >3mm were noted. - Oral Health Education: Provided to the patient, including proper brushing and flossing techniques, the importance of regular dental cleanings, and the risks of untreated gingivitis progressing to periodontitis. Symptoms of Gingivitis Observed/Reported: - Bleeding gums (e.g., during brushing or flossing) - Red, swollen gums - Bad breath (halitosis) - Gums that may appear shiny or puffy Plan: 1. Continue Oral Hygiene Instructions: Encourage the patient to maintain strict oral hygiene practices at home. 2. Schedule Follow-Up: Recommend a follow-up appointment in 3 months for re-evaluation and possible maintenance therapy. 3. Monitor for Progression: Advise the patient to return sooner if symptoms worsen or new symptoms (e.g., gum recession, tooth mobility) develop. Signature: Medical Scribe
 
 ============================================================
-
-## Note 18 (undefined - f540b3d1-4014-03a2-0d95-b6a6c30e49c3)
-
-**Note ID:** f540b3d1-4014-03a2-0d95-b6a6c30e49c3
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2019-02-03T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 18 (Type: DocumentReference - ID: f540b3d1-4014-03a2-0d95-b6a6c30e49c3)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2019-02-03T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan Bertram - Age: 59 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination of patient for . History of Present Illness: The patient presented for a general examination. No specific complaints were reported. The patient was assessed for health and social care needs, anxiety, and screened for domestic abuse. No acute or chronic symptoms were noted that required immediate intervention. Medications: - AmLODIPine 2.5 MG Oral Tablet (initiated today). Immunizations: - Influenza, seasonal, injectable, preservative-free (administered today). Assessments Performed: 1. Assessment of health and social care needs. 2. Assessment of anxiety. 3. Screening for domestic abuse. Findings: - No signs of acute distress or concerning symptoms noted. - Anxiety assessment was within normal limits. - Domestic abuse screening was negative. Potential Symptoms from AmLODIPine: The patient was prescribed AmLODIPine 2.5 mg for . Common side effects may include: - Dizziness or lightheadedness (especially when standing up). - Headache. - Swelling in the ankles or feet (edema). - Fatigue. - Flushing. If any of these symptoms are severe or persistent, the patient should contact the clinic. Instructions for AmLODIPine 2.5 MG Oral Tablet: - Take one tablet orally once daily, with or without food. - Consistent timing (e.g., morning) is recommended. - Do not crush, chew, or break the tablet. - Avoid abrupt discontinuation; tapering may be required if stopping. - Rise slowly from a sitting or lying position to minimize dizziness. Plan: - Continue monitoring for medication side effects. - Follow up in to assess blood pressure and medication tolerance. - Encourage lifestyle modifications as appropriate (e.g., low-sodium diet, regular exercise). Signature: ,
+Medical Note Patient Information: - Name: Adan Bertram - Age: 59 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination of patient for . History of Present Illness: The patient presented for a general examination. No specific complaints were reported. The patient was assessed for health and social care needs, anxiety, and screened for domestic abuse. No acute or chronic symptoms were noted that required immediate intervention. Medications: - AmLODIPine 2.5 MG Oral Tablet (initiated today). Immunizations: - Influenza, seasonal, injectable, preservative-free (administered today). Assessments Performed: 1. Assessment of health and social care needs. 2. Assessment of anxiety. 3. Screening for domestic abuse. Findings: - No signs of acute distress or concerning symptoms noted. - Anxiety assessment was within normal limits. - Domestic abuse screening was negative. Potential Symptoms from AmLODIPine: The patient was prescribed AmLODIPine 2.5 mg for . Common side effects may include: - Dizziness or lightheadedness (especially when standing up). - Headache. - Swelling in the ankles or feet (edema). - Fatigue. - Flushing. If any of these symptoms are severe or persistent, the patient should contact the clinic. Instructions for AmLODIPine 2.5 MG Oral Tablet: - Take one tablet orally once daily, with or without food. - Consistent timing (e.g., morning) is recommended. - Do not crush, chew, or break the tablet. - Avoid abrupt discontinuation; tapering may be required if stopping. - Rise slowly from a sitting or lying position to minimize dizziness. Plan: - Continue monitoring for medication side effects. - Follow up in to assess blood pressure and medication tolerance. - Encourage lifestyle modifications as appropriate (e.g., low-sodium diet, regular exercise). Signature: , Medical Scribe
 
 ============================================================
-
-## Note 19 (undefined - 210ba920-232d-c87d-7139-014fc78fca02)
-
-**Note ID:** 210ba920-232d-c87d-7139-014fc78fca02
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2019-02-10T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 19 (Type: DocumentReference - ID: 210ba920-232d-c87d-7139-014fc78fca02)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2019-02-10T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Adan632 Bertram873 Kozey370
@@ -332,256 +256,181 @@ The patient denies experiencing any of these symptoms currently. Medication Revi
 - Schedule lipid panel for to monitor treatment efficacy. Physician Signature:
 
 ============================================================
-
-## Note 20 (undefined - c196ec04-6fd4-937a-4491-322488299650)
-
-**Note ID:** c196ec04-6fd4-937a-4491-322488299650
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2019-05-31T11:21:43.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 20 (Type: DocumentReference - ID: c196ec04-6fd4-937a-4491-322488299650)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2019-05-31T11:21:43.911-04:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 60 years - Sex: Male - Race: White Encounter Date: Reason for Visit: Routine check-up for screening of malignant neoplasm of colon. History of Present Illness: The patient is a 60-year-old male presenting for a routine colon cancer screening. He reports no current symptoms suggestive of colorectal cancer, including no changes in bowel habits, no rectal bleeding, no abdominal pain, and no unexplained weight loss. The patient has no family history of colorectal cancer or polyps. He was referred for a colonoscopy as part of his routine screening protocol for average-risk individuals aged 50 and older. Procedure Performed: - Colonoscopy for screening of malignant neoplasm of colon. Potential Symptoms Related to Colonoscopy Procedure: While the patient did not report any symptoms prior to the procedure, the colonoscopy itself may cause the following temporary symptoms: - Abdominal bloating or cramping due to air insufflation during the procedure. - Mild discomfort or pain during or after the procedure. - Nausea or dizziness related to sedation or bowel preparation. - Rectal bleeding (minor) if biopsies or polypectomies were performed. The patient was instructed to report any persistent abdominal pain, fever, heavy rectal bleeding, or other concerning symptoms post-procedure. Plan: - Review colonoscopy results with the patient once available. - Advise the patient to maintain a healthy lifestyle, including a high-fiber diet and regular exercise, to reduce colorectal cancer risk. - Schedule follow-up as indicated based on colonoscopy findings (e.g., routine screening in 10 years if results are normal). Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 60 years - Sex: Male - Race: White Encounter Date: Reason for Visit: Routine check-up for screening of malignant neoplasm of colon. History of Present Illness: The patient is a 60-year-old male presenting for a routine colon cancer screening. He reports no current symptoms suggestive of colorectal cancer, including no changes in bowel habits, no rectal bleeding, no abdominal pain, and no unexplained weight loss. The patient has no family history of colorectal cancer or polyps. He was referred for a colonoscopy as part of his routine screening protocol for average-risk individuals aged 50 and older. Procedure Performed: - Colonoscopy for screening of malignant neoplasm of colon. Potential Symptoms Related to Colonoscopy Procedure: While the patient did not report any symptoms prior to the procedure, the colonoscopy itself may cause the following temporary symptoms: - Abdominal bloating or cramping due to air insufflation during the procedure. - Mild discomfort or pain during or after the procedure. - Nausea or dizziness related to sedation or bowel preparation. - Rectal bleeding (minor) if biopsies or polypectomies were performed. The patient was instructed to report any persistent abdominal pain, fever, heavy rectal bleeding, or other concerning symptoms post-procedure. Plan: - Review colonoscopy results with the patient once available. - Advise the patient to maintain a healthy lifestyle, including a high-fiber diet and regular exercise, to reduce colorectal cancer risk. - Schedule follow-up as indicated based on colonoscopy findings (e.g., routine screening in 10 years if results are normal). Signature: Medical Scribe
 
 ============================================================
-
-## Note 21 (undefined - 738297ed-c270-e58b-7ed8-a3d6daf146df)
-
-**Note ID:** 738297ed-c270-e58b-7ed8-a3d6daf146df
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2020-02-09T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 21 (Type: DocumentReference - ID: 738297ed-c270-e58b-7ed8-a3d6daf146df)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2020-02-09T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 60 years - Sex: Male - Race: White Reason for Visit: General examination of patient for routine health assessment. Medication Reconciliation: - Prescribed: Amlodipine 2.5 mg oral tablet (once daily). - Instructions: Take one tablet by mouth daily, preferably at the same time each day, with or without food. Avoid sudden discontinuation. Report any swelling of the ankles, dizziness, or abnormal heartbeat. Procedures Performed: - Assessment of health and social care needs. - Assessment of anxiety. - Screening for domestic abuse. - Depression screening (performed twice). - Assessment of substance use. - Alcohol Use Disorders Identification Test (AUDIT-C) screening. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. Symptoms to Monitor (Potential Side Effects of Amlodipine): - Edema (swelling) of the ankles or feet. - Dizziness or lightheadedness (especially upon standing). - Headache or fatigue. - Palpitations or irregular heartbeat. - Nausea or abdominal discomfort. Follow-Up: - Patient advised to return if symptoms worsen or new symptoms develop. - Encouraged to maintain regular follow-up for blood pressure monitoring. Provider Signature:
 
 ============================================================
-
-## Note 22 (undefined - 96c7c2f5-69a8-c831-f610-86f8744922e1)
-
-**Note ID:** 96c7c2f5-69a8-c831-f610-86f8744922e1
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2020-02-10T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 22 (Type: DocumentReference - ID: 96c7c2f5-69a8-c831-f610-86f8744922e1)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2020-02-10T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Encounter Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 60 years - Gender: Male - Race: White - Chief Complaint: Follow-up for Hyperlipidemia History of Present Illness: The patient is a 60-year-old male with a history of hyperlipidemia. He presents today for a follow-up appointment to monitor his lipid levels and discuss medication management. The patient reports no acute symptoms but acknowledges that hyperlipidemia can lead to long-term complications such as: - Chest pain or angina due to atherosclerosis - Shortness of breath - Fatigue - Peripheral artery disease symptoms (e.g., leg pain with walking) - Xanthomas (fatty deposits under the skin) - Xanthelasma (fatty deposits around the eyelids) The patient was previously prescribed Simvastatin 10 mg oral tablet and reports adherence to the medication. He denies any adverse effects such as muscle pain, weakness, or gastrointestinal upset. Physical Examination: - Vital signs: Within normal limits - General: Alert and oriented, in no acute distress - Cardiovascular: Regular rate and rhythm, no murmurs or gallops - Abdominal: Soft, non-tender, no hepatosplenomegaly - Extremities: No edema, no palpable xanthomas Medication Instructions: - Simvastatin 10 mg oral tablet : Take one tablet by mouth daily in the evening, preferably with dinner or bedtime. This timing helps maximize the drug’s effectiveness, as the body produces more cholesterol at night. - Continue the medication as prescribed, even if asymptomatic. - Avoid grapefruit or grapefruit juice, as it can increase the risk of side effects. - Report any unexplained muscle pain, tenderness, or weakness to the clinic immediately, as this may indicate a rare but serious side effect (rhabdomyolysis). Plan: - Continue Simvastatin 10 mg daily. - Schedule lipid panel recheck in 6-8 weeks to assess efficacy. - Encourage lifestyle modifications: low-fat diet, regular exercise, and smoking cessation if applicable. - Follow up in 3 months for ongoing management. Discharge Diagnosis: Hyperlipidemia, follow-up Signature: ,
+Medical Encounter Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 60 years - Gender: Male - Race: White - Chief Complaint: Follow-up for Hyperlipidemia History of Present Illness: The patient is a 60-year-old male with a history of hyperlipidemia. He presents today for a follow-up appointment to monitor his lipid levels and discuss medication management. The patient reports no acute symptoms but acknowledges that hyperlipidemia can lead to long-term complications such as: - Chest pain or angina due to atherosclerosis - Shortness of breath - Fatigue - Peripheral artery disease symptoms (e.g., leg pain with walking) - Xanthomas (fatty deposits under the skin) - Xanthelasma (fatty deposits around the eyelids) The patient was previously prescribed Simvastatin 10 mg oral tablet and reports adherence to the medication. He denies any adverse effects such as muscle pain, weakness, or gastrointestinal upset. Physical Examination: - Vital signs: Within normal limits - General: Alert and oriented, in no acute distress - Cardiovascular: Regular rate and rhythm, no murmurs or gallops - Abdominal: Soft, non-tender, no hepatosplenomegaly - Extremities: No edema, no palpable xanthomas Medication Instructions: - Simvastatin 10 mg oral tablet : Take one tablet by mouth daily in the evening, preferably with dinner or bedtime. This timing helps maximize the drug’s effectiveness, as the body produces more cholesterol at night. - Continue the medication as prescribed, even if asymptomatic. - Avoid grapefruit or grapefruit juice, as it can increase the risk of side effects. - Report any unexplained muscle pain, tenderness, or weakness to the clinic immediately, as this may indicate a rare but serious side effect (rhabdomyolysis). Plan: - Continue Simvastatin 10 mg daily. - Schedule lipid panel recheck in 6-8 weeks to assess efficacy. - Encourage lifestyle modifications: low-fat diet, regular exercise, and smoking cessation if applicable. - Follow up in 3 months for ongoing management. Discharge Diagnosis: Hyperlipidemia, follow-up Signature: , Medical Scribe
 
 ============================================================
-
-## Note 23 (undefined - b25e27c7-ca14-0068-0d0e-87108e170b09)
-
-**Note ID:** b25e27c7-ca14-0068-0d0e-87108e170b09
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2021-02-14T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 23 (Type: DocumentReference - ID: b25e27c7-ca14-0068-0d0e-87108e170b09)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2021-02-14T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 61 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination. History of Present Illness: The patient presented for a general examination. No specific complaints were reported at this time. Medication Reconciliation: - AmLODIPine 2.5 MG Oral Tablet was prescribed. The patient was instructed to take one tablet orally once daily, preferably at the same time each day, with or without food. Caution was advised regarding potential side effects, including dizziness, headache, edema (swelling of the ankles or feet), flushing, and fatigue. The patient was advised to avoid abrupt discontinuation and to report any severe or persistent symptoms. Assessment of Health and Social Care Needs: - Screening for domestic abuse: Negative. - Depression screening: Negative. - Substance use assessment: Negative for current substance abuse. - Alcohol Use Disorders Identification Test - Consumption (AUDIT-C): Negative. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. - Td (adult), 5 Lf tetanus toxoid, preservative-free, adsorbed. Procedures Performed: - Referral for dental care was provided. Assessment: The patient is stable at this time. The prescribed amLODIPine is indicated for hypertension or other cardiovascular conditions. The patient was educated on the importance of adherence and potential side effects. No acute concerns were identified. Plan: 1. Continue amLODIPine 2.5 mg orally once daily. 2. Follow up in to reassess blood pressure and medication tolerance. 3. Monitor for any symptoms such as dizziness, swelling, or fatigue. 4. Follow through with dental referral as needed. 5. Repeat influenza and Td vaccines as per guidelines. Provider Signature:
 
 ============================================================
-
-## Note 24 (undefined - 570b04ff-d549-16dd-5a15-a55a85a85fa1)
-
-**Note ID:** 570b04ff-d549-16dd-5a15-a55a85a85fa1
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2021-02-21T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 24 (Type: DocumentReference - ID: 570b04ff-d549-16dd-5a15-a55a85a85fa1)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2021-02-21T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Encounter Note Patient: Adan632 Bertram873 Kozey370 Age: 61 Sex: Male Race: White Date of Encounter: Reason for Visit: Follow-up for Hyperlipidemia History of Present Illness: The patient is a 61-year-old male with a known history of hyperlipidemia. He reports no acute symptoms but acknowledges concerns about long-term risks associated with elevated lipid levels. The patient was previously prescribed Simvastatin 10 mg oral tablets and is here for follow-up to ensure proper management and discuss any potential side effects. Symptoms Associated with Hyperlipidemia: While hyperlipidemia often presents without symptoms, long-term complications may include: - Xanthomas: Fatty deposits under the skin, particularly around the elbows, knees, or buttocks. - Xanthelasma: Yellowish deposits on the eyelids. - Coronary artery disease (CAD): Risk of chest pain (angina), shortness of breath, or myocardial infarction. - Peripheral artery disease (PAD): Symptoms such as leg pain with walking (claudication). - Pancreatitis: Abdominal pain, nausea, or vomiting if triglycerides are severely elevated. The patient denies experiencing any of these symptoms at this time. Medication Review: - Simvastatin 10 mg Oral Tablet: Prescribed for management of hyperlipidemia. Instructions for Taking Simvastatin 10 mg Oral Tablet: 1. Dosage: Take one tablet (10 mg) orally once daily. 2. Timing: May be taken with or without food. 3. Timing of Dose: Preferably take at bedtime or in the evening for optimal efficacy, as cholesterol synthesis is highest at night. 4. Adherence: Take consistently at the same time each day to maintain steady drug levels. 5. Dietary Considerations: Continue a low-fat, low-cholesterol diet as advised. 6. Side Effects: Monitor for muscle pain, weakness, or dark urine (potential signs of myopathy or liver dysfunction). Report any unusual symptoms to the provider. 7. Follow-Up: Return for lipid panel reevaluation in to assess efficacy. Plan: - Continue Simvastatin 10 mg daily as prescribed. - Reinforce dietary and lifestyle modifications. - Schedule follow-up in for repeat lipid testing. - Educate patient on recognizing and reporting potential side effects. Provider: Signature:
 
 ============================================================
-
-## Note 25 (undefined - c8c164ff-9882-9877-f342-cfc115a5a883)
-
-**Note ID:** c8c164ff-9882-9877-f342-cfc115a5a883
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2021-02-28T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 25 (Type: DocumentReference - ID: c8c164ff-9882-9877-f342-cfc115a5a883)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2021-02-28T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 61 years - Sex: Male - Race: White Encounter Date: Reason for Visit: Check-up for patient referral for dental care (procedure). History of Present Illness (HPI): The patient is a 61-year-old male presenting for a dental check-up following a prior referral for dental care. He reports symptoms that may be related to his oral health, including: - Tooth sensitivity or pain, possibly due to plaque/calculus buildup or gum disease. - Bleeding gums (gingivitis or periodontitis). - Bad breath (halitosis), which may result from poor oral hygiene or bacterial overgrowth. - Loose teeth or shifting teeth, potentially indicating advanced periodontal disease. - Difficulty chewing or discomfort while eating, possibly due to dental decay or gum inflammation. Dental Consultation and Report: A prior dental consultation was conducted, and a report was generated, indicating the need for comprehensive dental care. Procedures Performed: 1. Removal of supragingival plaque and calculus from all teeth using dental instruments. 2. Removal of subgingival plaque and calculus from all teeth using dental instruments. 3. Dental plain x-ray (bitewing) to assess for cavities, bone loss, or other underlying issues. 4. Examination of gingivae to evaluate gum health, probing for pocket depths, and assessing for signs of gingivitis or periodontitis. 5. Oral health education provided to the patient regarding proper brushing, flossing, and maintenance of oral hygiene. Findings: - Moderate plaque and calculus buildup noted on both supragingival and subgingival surfaces. - Bitewing x-rays revealed no significant cavities but showed mild bone loss in some areas. - Gingival examination noted mild to moderate gingivitis with some bleeding on probing. Plan: - Continue with recommended oral hygiene practices (brushing twice daily, flossing, and regular dental visits). - Schedule follow-up dental cleaning in 6 months to monitor gingival health and plaque control. - Consider referral to a periodontist if signs of progressive periodontitis are noted on future exams. Provider Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 61 years - Sex: Male - Race: White Encounter Date: Reason for Visit: Check-up for patient referral for dental care (procedure). History of Present Illness (HPI): The patient is a 61-year-old male presenting for a dental check-up following a prior referral for dental care. He reports symptoms that may be related to his oral health, including: - Tooth sensitivity or pain, possibly due to plaque/calculus buildup or gum disease. - Bleeding gums (gingivitis or periodontitis). - Bad breath (halitosis), which may result from poor oral hygiene or bacterial overgrowth. - Loose teeth or shifting teeth, potentially indicating advanced periodontal disease. - Difficulty chewing or discomfort while eating, possibly due to dental decay or gum inflammation. Dental Consultation and Report: A prior dental consultation was conducted, and a report was generated, indicating the need for comprehensive dental care. Procedures Performed: 1. Removal of supragingival plaque and calculus from all teeth using dental instruments. 2. Removal of subgingival plaque and calculus from all teeth using dental instruments. 3. Dental plain x-ray (bitewing) to assess for cavities, bone loss, or other underlying issues. 4. Examination of gingivae to evaluate gum health, probing for pocket depths, and assessing for signs of gingivitis or periodontitis. 5. Oral health education provided to the patient regarding proper brushing, flossing, and maintenance of oral hygiene. Findings: - Moderate plaque and calculus buildup noted on both supragingival and subgingival surfaces. - Bitewing x-rays revealed no significant cavities but showed mild bone loss in some areas. - Gingival examination noted mild to moderate gingivitis with some bleeding on probing. Plan: - Continue with recommended oral hygiene practices (brushing twice daily, flossing, and regular dental visits). - Schedule follow-up dental cleaning in 6 months to monitor gingival health and plaque control. - Consider referral to a periodontist if signs of progressive periodontitis are noted on future exams. Provider Signature: Medical Scribe
 
 ============================================================
-
-## Note 26 (undefined - 13abc908-88d2-e469-4350-2b0a0e2311c1)
-
-**Note ID:** 13abc908-88d2-e469-4350-2b0a0e2311c1
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2021-05-30T10:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 26 (Type: DocumentReference - ID: 13abc908-88d2-e469-4350-2b0a0e2311c1)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2021-05-30T10:26:06.911-04:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 62 - Sex: Male - Race: White Encounter Date: Reason for Visit: Administration of vaccine to produce active immunity. Vaccination Details: - Vaccine: COVID-19 mRNA vaccine (LNP-S, PF formulation) - Dose: 100 mcg/0.5 mL or 50 mcg/0.25 mL (as appropriate for patient) - Route: Intramuscular Symptoms That May Occur Post-Vaccination: The patient was educated on potential side effects, which may include: - Local reactions: Pain, redness, swelling, or tenderness at the injection site. - Systemic reactions: Fatigue, headache, muscle aches, chills, fever, or nausea. - Rare but possible severe reactions: Allergic reactions (anaphylaxis), though these are uncommon. The patient was advised to monitor for any unusual symptoms and to seek immediate medical attention if signs of a severe allergic reaction (e.g., difficulty breathing, swelling of the face/throat, rapid heartbeat) occur. Patient Education: - Encouraged to rest and stay hydrated post-vaccination. - Advised to use over-the-counter pain relievers (e.g., acetaminophen or ibuprofen) if mild symptoms arise. - Reminded to report any persistent or concerning symptoms to medical staff. Follow-Up: - None required at this time. Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 62 - Sex: Male - Race: White Encounter Date: Reason for Visit: Administration of vaccine to produce active immunity. Vaccination Details: - Vaccine: COVID-19 mRNA vaccine (LNP-S, PF formulation) - Dose: 100 mcg/0.5 mL or 50 mcg/0.25 mL (as appropriate for patient) - Route: Intramuscular Symptoms That May Occur Post-Vaccination: The patient was educated on potential side effects, which may include: - Local reactions: Pain, redness, swelling, or tenderness at the injection site. - Systemic reactions: Fatigue, headache, muscle aches, chills, fever, or nausea. - Rare but possible severe reactions: Allergic reactions (anaphylaxis), though these are uncommon. The patient was advised to monitor for any unusual symptoms and to seek immediate medical attention if signs of a severe allergic reaction (e.g., difficulty breathing, swelling of the face/throat, rapid heartbeat) occur. Patient Education: - Encouraged to rest and stay hydrated post-vaccination. - Advised to use over-the-counter pain relievers (e.g., acetaminophen or ibuprofen) if mild symptoms arise. - Reminded to report any persistent or concerning symptoms to medical staff. Follow-Up: - None required at this time. Signature: Medical Scribe
 
 ============================================================
-
-## Note 27 (undefined - cf24df04-3a0d-e58f-d9c5-39b49956a992)
-
-**Note ID:** cf24df04-3a0d-e58f-d9c5-39b49956a992
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2021-06-27T10:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 27 (Type: DocumentReference - ID: cf24df04-3a0d-e58f-d9c5-39b49956a992)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2021-06-27T10:26:06.911-04:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan Bertram - Age: 62 - Sex: Male - Race: White Reason for Visit: Administration of vaccine to produce active immunity. Immunization Details: - Vaccine: COVID-19 mRNA vaccine (LNP-S, PF) - Dose: 100 mcg/0.5 mL or 50 mcg/0.25 mL (as appropriate for patient) - Route: Intramuscular Vaccination Notes: - The patient received the COVID-19 mRNA vaccine (LNP-S, PF) per standard protocol. - The vaccine was administered in the deltoid muscle using a sterile technique. - The patient was counseled on the importance of active immunity against COVID-19. Potential Symptoms Post-Vaccination: The patient was informed that the following symptoms may occur after vaccination and are typically mild to moderate: - Local reactions: Pain, redness, or swelling at the injection site. - Systemic reactions: Fatigue, headache, muscle pain, chills, fever, or nausea. - These symptoms usually resolve within 1-3 days. Patient Education: - The patient was advised to monitor for any adverse reactions and contact a healthcare provider if symptoms are severe or persistent. - The patient was instructed to stay hydrated and consider over-the-counter pain relievers (e.g., acetaminophen or ibuprofen) for discomfort. Plan: - The patient was observed for 15 minutes post-vaccination as per standard protocol. - Follow-up is recommended if any concerning symptoms arise. Signature: ,
+Medical Note Patient Information: - Name: Adan Bertram - Age: 62 - Sex: Male - Race: White Reason for Visit: Administration of vaccine to produce active immunity. Immunization Details: - Vaccine: COVID-19 mRNA vaccine (LNP-S, PF) - Dose: 100 mcg/0.5 mL or 50 mcg/0.25 mL (as appropriate for patient) - Route: Intramuscular Vaccination Notes: - The patient received the COVID-19 mRNA vaccine (LNP-S, PF) per standard protocol. - The vaccine was administered in the deltoid muscle using a sterile technique. - The patient was counseled on the importance of active immunity against COVID-19. Potential Symptoms Post-Vaccination: The patient was informed that the following symptoms may occur after vaccination and are typically mild to moderate: - Local reactions: Pain, redness, or swelling at the injection site. - Systemic reactions: Fatigue, headache, muscle pain, chills, fever, or nausea. - These symptoms usually resolve within 1-3 days. Patient Education: - The patient was advised to monitor for any adverse reactions and contact a healthcare provider if symptoms are severe or persistent. - The patient was instructed to stay hydrated and consider over-the-counter pain relievers (e.g., acetaminophen or ibuprofen) for discomfort. Plan: - The patient was observed for 15 minutes post-vaccination as per standard protocol. - Follow-up is recommended if any concerning symptoms arise. Signature: , Medical Scribe
 
 ============================================================
-
-## Note 28 (undefined - 4fa9dd4d-6e4e-12d5-050a-9bdef6542816)
-
-**Note ID:** 4fa9dd4d-6e4e-12d5-050a-9bdef6542816
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2022-02-20T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 28 (Type: DocumentReference - ID: 4fa9dd4d-6e4e-12d5-050a-9bdef6542816)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2022-02-20T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 62 - Gender: Male - Race: White Reason for Encounter: General examination of patient for health assessment. History & Assessment: The patient presented for a general health examination. During the encounter, the following assessments were performed: - Health and social care needs assessment - Depression screening (performed twice) - Substance use assessment - Alcohol Use Disorders Identification Test - Consumption (AUDIT-C) The patient received the following immunization: - Influenza, seasonal, injectable, preservative-free. Medication Prescribed: - AmLODIPine 2.5 MG Oral Tablet (prescribed for uncontrolled blood pressure, as noted in the assessment). Potential Symptoms to Monitor: The patient should be monitored for potential side effects of amLODIPine, including: - Dizziness or lightheadedness (especially upon standing) - Edema (swelling) in the ankles or feet - Headache - Fatigue - flushing - Constipation If any of these symptoms worsen or persist, the patient should contact the clinic. Instructions for Taking AmLODIPine 2.5 MG Oral Tablet: - Take one tablet orally once daily. - May be taken with or without food. - Take at the same time each day to maintain consistent blood levels. - Do not crush or chew the tablet; swallow it whole. - Avoid abrupt discontinuation of the medication without consulting the provider. - Report any significant side effects or concerns to the clinic. Follow-Up: The patient will follow up in 4 weeks for blood pressure re-evaluation and medication tolerance assessment. Provider Signature:
 
 ============================================================
-
-## Note 29 (undefined - 9cc178cf-261f-b4fd-c742-e390a342c509)
-
-**Note ID:** 9cc178cf-261f-b4fd-c742-e390a342c509
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2022-02-21T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 29 (Type: DocumentReference - ID: 9cc178cf-261f-b4fd-c742-e390a342c509)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2022-02-21T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Encounter Note Patient: Adan632 Bertram873 Kozey370 Age: 62 Sex: Male Race: White Date of Encounter: Reason for Visit: Follow-up for Hyperlipidemia ### History of Present Illness: The patient is a 62-year-old male with a known history of hyperlipidemia. He reports no acute symptoms but acknowledges the importance of managing his lipid levels to reduce long-term cardiovascular risk. The patient may experience symptoms associated with hyperlipidemia, including: - Fatigue due to poor blood circulation - Chest pain or angina if atherosclerosis affects coronary arteries - Shortness of breath if cardiovascular function is compromised - Yellowish deposits (xanthomas) on skin or tendons due to high cholesterol - Peripheral artery disease symptoms such as leg pain during walking (claudication) ### Current Medication: - Simvastatin 10 mg Oral Tablet (prescribed for hyperlipidemia management) ### Instructions for Simvastatin 10 mg: 1. Dosage: Take one 10 mg tablet orally once daily. 2. Timing: May be taken with or without food, but consistency is key. 3. Timing: Best taken in the evening (around bedtime) as the body produces more cholesterol at night. 4. Duration: Continue daily as prescribed, even if symptoms improve. 5. Monitoring: Regular follow-up appointments are required to monitor liver function, muscle enzymes (CK), and lipid levels. 6. Side Effects: Report any unexplained muscle pain, tenderness, or weakness, as these may indicate myopathy. Also, report any new or worsening symptoms such as abdominal pain, dark urine, or jaundice. 7. Lifestyle: Continue a heart-healthy diet low in saturated fats, exercise regularly, and avoid excessive alcohol consumption. ### Plan: - Continue Simvastatin 10 mg daily. - Schedule follow-up in 4-6 weeks for lipid panel and medication tolerance assessment. - Educate patient on the importance of adherence and potential side effects. Provider: Signature:
+Medical Encounter Note Patient: Adan632 Bertram873 Kozey370 Age: 62 Sex: Male Race: White Date of Encounter: Reason for Visit: Follow-up for Hyperlipidemia History of Present Illness: The patient is a 62-year-old male with a known history of hyperlipidemia. He reports no acute symptoms but acknowledges the importance of managing his lipid levels to reduce long-term cardiovascular risk. The patient may experience symptoms associated with hyperlipidemia, including: - Fatigue due to poor blood circulation - Chest pain or angina if atherosclerosis affects coronary arteries - Shortness of breath if cardiovascular function is compromised - Yellowish deposits (xanthomas) on skin or tendons due to high cholesterol - Peripheral artery disease symptoms such as leg pain during walking (claudication) Current Medication: - Simvastatin 10 mg Oral Tablet (prescribed for hyperlipidemia management) Instructions for Simvastatin 10 mg: 1. Dosage: Take one 10 mg tablet orally once daily. 2. Timing: May be taken with or without food, but consistency is key. 3. Timing: Best taken in the evening (around bedtime) as the body produces more cholesterol at night. 4. Duration: Continue daily as prescribed, even if symptoms improve. 5. Monitoring: Regular follow-up appointments are required to monitor liver function, muscle enzymes (CK), and lipid levels. 6. Side Effects: Report any unexplained muscle pain, tenderness, or weakness, as these may indicate myopathy. Also, report any new or worsening symptoms such as abdominal pain, dark urine, or jaundice. 7. Lifestyle: Continue a heart-healthy diet low in saturated fats, exercise regularly, and avoid excessive alcohol consumption. Plan: - Continue Simvastatin 10 mg daily. - Schedule follow-up in 4-6 weeks for lipid panel and medication tolerance assessment. - Educate patient on the importance of adherence and potential side effects. Provider: Signature:
 
 ============================================================
-
-## Note 30 (undefined - 303330e7-1d92-6679-2a79-50ff72953bfc)
-
-**Note ID:** 303330e7-1d92-6679-2a79-50ff72953bfc
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2023-02-26T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 30 (Type: DocumentReference - ID: 303330e7-1d92-6679-2a79-50ff72953bfc)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2023-02-26T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 63 years - Sex: Male - Race: White Date of Encounter: Reason for Visit: General examination of patient for . History of Present Illness: The patient presented for a general examination. No specific acute complaints were reported. The patient was assessed for health and social care needs, anxiety, substance use, and underwent screening for drug abuse. Physical Examination: General: Well-nourished, alert, and oriented male. Vital Signs: Cardiovascular: Regular rate and rhythm, no murmurs or gallops. Respiratory: Clear to auscultation bilaterally. Abdominal: Soft, non-tender, no organomegaly. Neurological: Grossly intact. Assessments Performed: 1. Assessment of health and social care needs. 2. Assessment of anxiety. 3. Assessment of substance use. 4. Screening for drug abuse procedure(s). Immunizations Administered: - Influenza, seasonal, injectable, preservative-free. Medications: - AmLODIPine 2.5 MG Oral Tablet prescribed. Instructions for AmLODIPine 2.5 MG Oral Tablet: - Take one tablet orally once daily, preferably at the same time each day. - May be taken with or without food. - Do not crush or chew the tablet; swallow it whole. - Avoid consuming excessive amounts of alcohol while taking this medication, as it may increase the risk of side effects. - Monitor for symptoms such as dizziness, lightheadedness, swelling in the ankles or feet, or rapid heartbeat. If these occur, contact your healthcare provider. Potential Symptoms Caused by AmLODIPine: - Dizziness or lightheadedness (especially when standing up quickly). - Edema (swelling) in the lower extremities. - Headache. - Flushing. - Fatigue. Follow-Up: The patient will follow up in to assess medication tolerance and effectiveness. Provider Signature:
 
 ============================================================
-
-## Note 31 (undefined - 451d1e14-b738-e434-e577-ce73fffce73e)
-
-**Note ID:** 451d1e14-b738-e434-e577-ce73fffce73e
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2023-03-05T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 31 (Type: DocumentReference - ID: 451d1e14-b738-e434-e577-ce73fffce73e)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2023-03-05T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Encounter Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 63 - Gender: Male - Race: White Date of Encounter: Reason for Visit: Follow-up for Hyperlipidemia History of Present Illness: The patient is a 63-year-old male with a history of hyperlipidemia. He was prescribed Simvastatin 10 mg oral tablets for management of his condition. The patient reports no significant change in symptoms since the last visit. He denies any muscle pain, weakness, or other adverse effects related to the medication. Symptoms of Hyperlipidemia (if present): - Fatigue or excessive tiredness - Yellowish deposits (xanthomas) on the skin or tendons - Chest pain (angina) due to atherosclerosis - Shortness of breath (if coronary artery disease is present) - Abdominal pain (if pancreatitis occurs due to very high triglycerides) Medication Management: The patient is currently taking Simvastatin 10 mg oral tablets as prescribed. Instructions for Taking Simvastatin 10 MG Oral Tablet: - Take one tablet (10 mg) by mouth once daily, preferably in the evening. - Can be taken with or without food. - Avoid consuming large quantities of grapefruit or grapefruit juice, as it may increase the risk of side effects. - Do not stop taking the medication without consulting the provider. - Report any unexplained muscle pain, tenderness, or weakness, as this may be a sign of a rare but serious side effect (rhabdomyolysis). Plan: - Continue Simvastatin 10 mg daily. - Schedule follow-up in 3 months to monitor lipid levels and assess for any side effects. - Encourage lifestyle modifications, including a heart-healthy diet, regular exercise, and smoking cessation (if applicable). Provider Signature: Provider Title:
 
 ============================================================
-
-## Note 32 (undefined - 046e1dfa-f347-6260-0a83-5eb05405f3e8)
-
-**Note ID:** 046e1dfa-f347-6260-0a83-5eb05405f3e8
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2023-08-15T12:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 32 (Type: DocumentReference - ID: 046e1dfa-f347-6260-0a83-5eb05405f3e8)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2023-08-15T12:26:06.911-04:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 64 - Sex: Male - Race: White Reason for Encounter: Symptomatic presentation of viral sinusitis. History of Present Illness: The patient presents with symptoms consistent with viral sinusitis, including: - Nasal congestion and stuffiness , with intermittent clear or mucoid nasal discharge. - Facial pain or pressure , particularly in the maxillary or frontal sinuses, exacerbated by bending forward. - Headache , often described as dull and localized to the forehead or cheeks. - Postnasal drip , leading to a sore throat or cough , especially at night. - Fatigue and malaise , with a low-grade fever (if present, specify temperature). - Possible hyposmia (reduced sense of smell) or anosmia (loss of smell). - No significant dental pain or otorrhea (which might suggest complications). Symptoms are presumed to be of viral etiology, with no signs of bacterial superinfection (e.g., purulent green/yellow discharge, fever >101°F, or worsening after initial improvement). Review of Systems: - Denies sinus tenderness on palpation (if assessed). - Denies photophobia or neck stiffness (to rule out concurrent illness). - Denies dizziness or otorrhea . Physical Examination: - Head and Neck: Mild erythema of the nasal mucosa; bilateral clear/nontoxic nasal discharge. - Sinuses: No significant tenderness on percussion of maxillary or frontal sinuses. - Oropharynx: Mild erythema of the posterior pharynx; no exudate or lymphadenopathy. - Lungs: Clear to auscultation bilaterally. Assessment: - Viral sinusitis , likely upper respiratory infection (URI)-associated. - No immediate signs of complications (e.g., bacterial superinfection, orbital/periorbital cellulitis, or meningitis). Plan: 1. Symptomatic management: - Encourage hydration and rest. - Saline nasal rinses (e.g., neti pot or squeeze bottle) for nasal congestion. - Over-the-counter (OTC) analgesics (e.g., acetaminophen or ibuprofen) for pain/fever. - Decongestants (e.g., pseudoephedrine or oxymetazoline nasal spray) for short-term relief (max 3 days for topical). - Antihistamines (e.g., loratadine or cetirizine) if concurrent allergic symptoms are present. 2. Observation: Reassess in 7–10 days if symptoms worsen or fail to improve. 3. Antibiotics: Not indicated at this time (viral etiology). 4. Referral: Consider ENT if symptoms persist beyond 10–14 days or if complications arise. Follow-Up: - Recheck in 1 week if no improvement or if symptoms worsen. Provider: Date:
 
 ============================================================
-
-## Note 33 (undefined - 84e47d70-dfa9-6dfb-e6e6-02c10d019d9f)
-
-**Note ID:** 84e47d70-dfa9-6dfb-e6e6-02c10d019d9f
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2024-03-03T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 33 (Type: DocumentReference - ID: 84e47d70-dfa9-6dfb-e6e6-02c10d019d9f)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2024-03-03T09:26:06.911-05:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 64 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination for health assessment. Subjective: The patient presents for a general health examination. No specific complaints are reported at this time. The patient was prescribed amlodipine 2.5 mg oral tablet for an unspecified indication (e.g., hypertension or cardiovascular prophylaxis). The patient was also assessed for health and social care needs, including a depression screening, which was performed. No symptoms related to the current medication or underlying conditions were reported. Objective: - - Physical examination: General examination performed; findings within normal limits. - Laboratory tests: None reported at this visit. - Immunizations: Administered influenza, seasonal, injectable, preservative-free . Assessment: 1. General health assessment performed. 2. Depression screening: Negative (or per screening results). 3. New medication: Amlodipine 2.5 mg oral tablet initiated. 4. Immunization: Seasonal influenza vaccine administered. Plan: 1. Amlodipine 2.5 mg oral tablet: - Instructions: Take one tablet orally once daily, preferably at the same time each day. It may be taken with or without food. Do not crush or chew the tablet. - Potential Symptoms to Monitor: - Dizziness or lightheadedness (especially upon standing). - Edema (swelling) in the ankles or feet. - Headache or fatigue. - flushing or palpitations. - Advise the patient to report any of these symptoms, especially if severe or persistent. 2. Follow-Up: Schedule a follow-up visit in to assess medication tolerance and blood pressure response. 3. Depression Screening: No concerns noted at this time; reassess at next visit if needed. 4. Immunization: Document influenza vaccine administration. Provider Signature: Date:
 
 ============================================================
-
-## Note 34 (undefined - 608c03d6-38d9-966e-6680-901669839c19)
-
-**Note ID:** 608c03d6-38d9-966e-6680-901669839c19
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2024-03-04T09:26:06.911-05:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 34 (Type: DocumentReference - ID: 608c03d6-38d9-966e-6680-901669839c19)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2024-03-04T09:26:06.911-05:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
 Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 64 years - Sex: Male - Race: White Reason for Encounter: Follow-up for Hyperlipidemia. History of Present Illness: The patient is a 64-year-old male with a history of hyperlipidemia, currently managed with Simvastatin 10 mg oral tablet. He reports no new complaints today. The patient was instructed on the importance of adhering to his medication and lifestyle modifications to control his lipid levels. Symptoms of Hyperlipidemia (if present): While hyperlipidemia is often asymptomatic, it can contribute to long-term complications such as: - Chest pain (angina) due to atherosclerosis. - Shortness of breath or fatigue from reduced cardiac efficiency. - Peripheral artery disease symptoms, such as claudication (leg pain with walking). - Xanthomas (fatty deposits) on the skin or tendons. - Xanthelasma (yellowish deposits) around the eyelids. The patient denies experiencing any of these symptoms at this time. Medication Review: - Simvastatin 10 mg oral tablet: - Dosage: 10 mg once daily. - Instructions: Take at bedtime with a glass of water. - Dietary Considerations: May be taken with or without food. - Monitoring: The patient should continue regular follow-up appointments to monitor lipid levels and assess for any potential side effects, such as muscle pain or weakness. Plan: 1. Continue Simvastatin 10 mg daily. 2. Encourage adherence to a low-fat, low-cholesterol diet. 3. Recommend regular exercise as tolerated. 4. Schedule follow-up in 3 months for lipid panel recheck. 5. Advise patient to report any new symptoms, especially muscle pain or dark urine, promptly. Physician’s Signature: Date:
 
 ============================================================
-
-## Note 35 (undefined - 60b1670c-9476-7867-8b32-d1ce11998873)
-
-**Note ID:** 60b1670c-9476-7867-8b32-d1ce11998873
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2024-05-30T11:49:26.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 35 (Type: DocumentReference - ID: 60b1670c-9476-7867-8b32-d1ce11998873)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2024-05-30T11:49:26.911-04:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 65 years - Sex: Male - Race: White Reason for Encounter: Routine check-up for screening of malignant neoplasm of the colon. Colonoscopy procedure performed. History of Present Illness: The patient is a 65-year-old male presenting for his scheduled colon cancer screening. He reports no current symptoms suggestive of colorectal pathology, including no abdominal pain, changes in bowel habits, rectal bleeding, or unexplained weight loss. The patient has a history of routine colonoscopies and is compliant with screening guidelines. Procedure Performed: Colonoscopy was performed for screening purposes. The procedure was uneventful, with no significant findings noted. The colon was adequately prepped, and no polyps or masses were identified. Biopsies were not taken. Potential Symptoms Related to Colonoscopy Procedure: While the patient did not report any complications, potential symptoms or side effects associated with colonoscopy include: - Abdominal bloating or cramping (due to air insufflation during the procedure) - Mild nausea or discomfort (from sedation or bowel prep) - Rectal bleeding (rare, may occur if biopsies or polypectomy were performed) - Allergic reaction to sedation (rare) - Perforation or bleeding (very rare complications) The patient tolerated the procedure well and reported no adverse effects post-procedure. Assessment: - No evidence of malignant neoplasm of the colon. - Colonoscopy completed successfully with no complications. Plan: - Patient advised to continue routine screening per guidelines (e.g., every 10 years if no polyps found). - Encourage maintenance of a high-fiber diet and regular exercise to reduce colorectal cancer risk. - Follow up in 10 years for next screening colonoscopy unless symptoms develop earlier. Signature:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 65 years - Sex: Male - Race: White Reason for Encounter: Routine check-up for screening of malignant neoplasm of the colon. Colonoscopy procedure performed. History of Present Illness: The patient is a 65-year-old male presenting for his scheduled colon cancer screening. He reports no current symptoms suggestive of colorectal pathology, including no abdominal pain, changes in bowel habits, rectal bleeding, or unexplained weight loss. The patient has a history of routine colonoscopies and is compliant with screening guidelines. Procedure Performed: Colonoscopy was performed for screening purposes. The procedure was uneventful, with no significant findings noted. The colon was adequately prepped, and no polyps or masses were identified. Biopsies were not taken. Potential Symptoms Related to Colonoscopy Procedure: While the patient did not report any complications, potential symptoms or side effects associated with colonoscopy include: - Abdominal bloating or cramping (due to air insufflation during the procedure) - Mild nausea or discomfort (from sedation or bowel prep) - Rectal bleeding (rare, may occur if biopsies or polypectomy were performed) - Allergic reaction to sedation (rare) - Perforation or bleeding (very rare complications) The patient tolerated the procedure well and reported no adverse effects post-procedure. Assessment: - No evidence of malignant neoplasm of the colon. - Colonoscopy completed successfully with no complications. Plan: - Patient advised to continue routine screening per guidelines (e.g., every 10 years if no polyps found). - Encourage maintenance of a high-fiber diet and regular exercise to reduce colorectal cancer risk. - Follow up in 10 years for next screening colonoscopy unless symptoms develop earlier. Signature: Medical Scribe
 
 ============================================================
-
-## Note 36 (undefined - 780081f2-de28-d1c8-da02-07430b81016c)
-
-**Note ID:** 780081f2-de28-d1c8-da02-07430b81016c
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Shonta375 Bins636
-**Date:** 2025-03-09T10:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 36 (Type: DocumentReference - ID: 780081f2-de28-d1c8-da02-07430b81016c)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2025-03-09T10:26:06.911-04:00
+Provider: Dr. Shonta375 Bins636
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 65 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination and health assessment. ### History of Present Illness: The patient presented for a general examination. No specific complaints were reported at this time. The encounter included a comprehensive assessment of health and social care needs. ### Medication Reconciliation: - AmLODIPine 2.5 MG Oral Tablet was prescribed. - Instructions: Take one tablet orally once daily, preferably in the morning with or without food. Avoid abrupt discontinuation. Monitor for symptoms such as dizziness, lightheadedness, or peripheral edema. Report any severe or persistent side effects. ### Procedures Performed: 1. Medication Reconciliation – Review of current medications and dosages. 2. Assessment of Health and Social Care Needs – Evaluation of physical, mental, and social health requirements. 3. Assessment of Anxiety – Screening for symptoms of anxiety. 4. Morse Fall Scale – Assessment of fall risk. 5. Screening for Domestic Abuse – Evaluation for signs of abuse. 6. Depression Screening – Assessment for depressive symptoms (performed twice). 7. Assessment of Substance Use – Screening for substance misuse. 8. Alcohol Use Disorders Identification Test (AUDIT-C) – Screening for hazardous alcohol consumption. ### Immunizations Administered: - Influenza, seasonal, injectable, preservative-free – Given as per annual recommendation. - Pneumococcal conjugate vaccine (PCV 13) – Administered to reduce risk of pneumococcal infection. ### Symptoms to Monitor (Potential Side Effects of AmLODIPine): - Dizziness or lightheadedness – Especially upon standing up (orthostatic hypotension). - Edema (swelling) – Particularly in the ankles or feet. - Headache or flushing – Common but usually mild. - Fatigue or weakness – May occur but should be reported if severe. - Palpitations or rapid heartbeat – Rare but possible; advise patient to seek medical attention if experienced. ### Follow-Up: - Patient advised to return for follow-up in to assess medication tolerance and efficacy. - Encourage reporting any concerning symptoms or side effects. ### Disposition: Patient tolerated the encounter well. Discharged in stable condition with prescriptions and immunizations administered. Provider Signature: Date:
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 65 years - Sex: Male - Race: White Encounter Date: Reason for Visit: General examination and health assessment. History of Present Illness: The patient presented for a general examination. No specific complaints were reported at this time. The encounter included a comprehensive assessment of health and social care needs. Medication Reconciliation: - AmLODIPine 2.5 MG Oral Tablet was prescribed. - Instructions: Take one tablet orally once daily, preferably in the morning with or without food. Avoid abrupt discontinuation. Monitor for symptoms such as dizziness, lightheadedness, or peripheral edema. Report any severe or persistent side effects. Procedures Performed: 1. Medication Reconciliation – Review of current medications and dosages. 2. Assessment of Health and Social Care Needs – Evaluation of physical, mental, and social health requirements. 3. Assessment of Anxiety – Screening for symptoms of anxiety. 4. Morse Fall Scale – Assessment of fall risk. 5. Screening for Domestic Abuse – Evaluation for signs of abuse. 6. Depression Screening – Assessment for depressive symptoms (performed twice). 7. Assessment of Substance Use – Screening for substance misuse. 8. Alcohol Use Disorders Identification Test (AUDIT-C) – Screening for hazardous alcohol consumption. Immunizations Administered: - Influenza, seasonal, injectable, preservative-free – Given as per annual recommendation. - Pneumococcal conjugate vaccine (PCV 13) – Administered to reduce risk of pneumococcal infection. Symptoms to Monitor (Potential Side Effects of AmLODIPine): - Dizziness or lightheadedness – Especially upon standing up (orthostatic hypotension). - Edema (swelling) – Particularly in the ankles or feet. - Headache or flushing – Common but usually mild. - Fatigue or weakness – May occur but should be reported if severe. - Palpitations or rapid heartbeat – Rare but possible; advise patient to seek medical attention if experienced. Follow-Up: - Patient advised to return for follow-up in to assess medication tolerance and efficacy. - Encourage reporting any concerning symptoms or side effects. Disposition: Patient tolerated the encounter well. Discharged in stable condition with prescriptions and immunizations administered. Provider Signature: Date:
 
 ============================================================
-
-## Note 37 (undefined - 9632aca5-fac1-a5f0-d6e8-0d648c49ac05)
-
-**Note ID:** 9632aca5-fac1-a5f0-d6e8-0d648c49ac05
-**Patient ID:** e953e82d-ceff-3d58-f06c-a82d6f224b62
-**Note Type:** DocumentReference
-**Provider:** Dr. Bea654 Daniel959
-**Date:** 2025-03-16T10:26:06.911-04:00
-**Source:** Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
+## Note 37 (Type: DocumentReference - ID: 9632aca5-fac1-a5f0-d6e8-0d648c49ac05)
+Patient ID: e953e82d-ceff-3d58-f06c-a82d6f224b62
+Date: 2025-03-16T10:26:06.911-04:00
+Provider: Dr. Bea654 Daniel959
+Source: Adan632_Kozey370_e953e82d-ceff-3d58-f06c-a82d6f224b62.json
 
 **Clinical Content:**
-Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 65 years - Sex: Male - Race: White Encounter Type: Follow-up for Hyperlipidemia Chief Complaint: Follow-up for management of hyperlipidemia. History of Present Illness: The patient is a 65-year-old male with a history of hyperlipidemia, currently prescribed Simvastatin 10 mg oral tablet. He reports no significant changes in symptoms since the last encounter. The patient was educated on potential symptoms related to hyperlipidemia, such as: - Xanthomas (fatty deposits in the skin or tendons) - Xanthelasma (yellowish deposits around the eyelids) - Possible asymptomatic but increased risk for atherosclerosis, coronary artery disease, and pancreatitis. The patient denies any muscle pain, weakness, or other adverse effects from his current medication. Medication Review: - Simvastatin 10 mg oral tablet: Prescribed for hyperlipidemia. Instructions for Simvastatin 10 mg Oral Tablet: - Take one tablet (10 mg) by mouth daily, preferably in the evening or at bedtime. - May be taken with or without food. - Avoid consuming large quantities of grapefruit or grapefruit juice, as it may increase the risk of side effects. - Report any unexplained muscle pain, tenderness, or weakness to the provider immediately. - Continue regular follow-up appointments to monitor lipid levels and medication efficacy. Plan: - Continue Simvastatin 10 mg daily as prescribed. - Schedule follow-up in 3 months for lipid panel re-evaluation. - Advise the patient to maintain a low-fat, low-cholesterol diet and engage in regular physical activity. - Counsel on the importance of adherence to medication and lifestyle modifications. Provider Signature:
-
-============================================================
-
+Medical Note Patient Information: - Name: Adan632 Bertram873 Kozey370 - Age: 65 years - Sex: Male - Race: White Encounter Type: Follow-up for Hyperlipidemia Chief Complaint: Follow-up for management of hyperlipidemia. History of Present Illness: The patient is a 65-year-old male with a history of hyperlipidemia, currently prescribed Simvastatin 10 mg oral tablet. He reports no significant changes in symptoms since the last encounter. The patient was educated on potential symptoms related to hyperlipidemia, such as: - Xanthomas (fatty deposits in the skin or tendons) - Xanthelasma (yellowish deposits around the eyelids) - Possible asymptomatic but increased risk for atherosclerosis, coronary artery disease, and pancreatitis. The patient denies any muscle pain, weakness, or other adverse effects from his current medication. Medication Review: - Simvastatin 10 mg oral tablet: Prescribed for hyperlipidemia. Instructions for Simvastatin 10 mg Oral Tablet: - Take one tablet (10 mg) by mouth daily, preferably in the evening or at bedtime. - May be taken with or without food. - Avoid consuming large quantities of grapefruit or grapefruit juice, as it may increase the risk of side effects. - Report any unexplained muscle pain, tenderness, or weakness to the provider immediately. - Continue regular follow-up appointments to monitor lipid levels and medication efficacy. Plan: - Continue Simvastatin 10 mg daily as prescribed. - Schedule follow-up in 3 months for lipid panel re-evaluation. - Advise the patient to maintain a low-fat, low-cholesterol diet and engage in regular physical activity. - Counsel on the importance of adherence to medication and lifestyle modifications. Provider Signature: Medical Scribe
