@@ -130,7 +130,7 @@ export function DataVisualization({ fhirData }: DataVisualizationProps) {
           </CardHeader>
           <CardContent>
             <div className="space-y-3">
-              {numericObservations.map((obs, index) => (
+              {numericObservations.map((obs: { name: string; value: number; unit: string; date?: string }, index) => (
                 <div key={index} className="flex items-center justify-between p-3 border rounded-lg">
                   <div className="flex-1">
                     <h4 className="font-medium text-sm">{obs.name}</h4>
