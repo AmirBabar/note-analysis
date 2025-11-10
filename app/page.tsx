@@ -33,25 +33,7 @@ export default function Home() {
   const [analysis, setAnalysis] = useState<string>("");
   const [isGoalsExpanded, setIsGoalsExpanded] = useState(false);
 
-  const logoutMutation = useMutation({
-    mutationFn: apiService.logout,
-    onSuccess: () => {
-      router.push("/login");
-      router.refresh();
-    },
-  });
-
-  const loadPatientsMutation = useMutation({
-    mutationFn: apiService.generateNote,
-    onSuccess: (data) => {
-      setFhirFiles(data.fhirFiles);
-      if (data.fhirFiles.length > 0 && !selectedPatient) {
-        setSelectedPatient(data.fhirFiles[0].fileName);
-      }
-    },
-  });
-
-  // Helper functions - moved before usage
+  // Helper functions - defined first
   const calculateAge = (birthDate: string) => {
     if (!birthDate) return null;
     try {
@@ -108,6 +90,24 @@ export default function Home() {
     }
     return {};
   };
+
+  const logoutMutation = useMutation({
+    mutationFn: apiService.logout,
+    onSuccess: () => {
+      router.push("/login");
+      router.refresh();
+    },
+  });
+
+  const loadPatientsMutation = useMutation({
+    mutationFn: apiService.generateNote,
+    onSuccess: (data) => {
+      setFhirFiles(data.fhirFiles);
+      if (data.fhirFiles.length > 0 && !selectedPatient) {
+        setSelectedPatient(data.fhirFiles[0].fileName);
+      }
+    },
+  });
 
   const analyzeNoteMutation = useMutation({
     mutationFn: ({ fhirData, fileName, useRAG }: { fhirData: any; fileName: string; useRAG?: boolean }) =>

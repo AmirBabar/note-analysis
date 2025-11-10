@@ -5,7 +5,19 @@ import { verifyToken } from "@/lib/auth";
 export async function proxy(request: NextRequest) {
   const path = request.nextUrl.pathname;
 
-  // Public paths that don't require authentication
+  // Bypass authentication for preview and development environments
+  const isPreview = process.env.VERCEL_ENV === 'preview';
+  const isDevelopment = process.env.NODE_ENV === 'development';
+
+  if (isPreview || isDevelopment) {
+    // For preview/dev, just redirect /login to / and allow everything else
+    if (path === "/login") {
+      return NextResponse.redirect(new URL("/", request.url));
+    }
+    return NextResponse.next();
+  }
+
+  // Original authentication logic for production
   const isPublicPath = path === "/login";
 
   // Get the auth token from cookies
