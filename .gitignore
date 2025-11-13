@@ -42,3 +42,5 @@ next-env.d.ts
 SESSION_SUMMARY.md
 logs_result.csv
 deployment_logs.csv
+
+/.claude
